@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Research Programs
+
+### Poultry Gut Microbiome & Culturomics
+We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.
+
+### Avian Pathogenic *E. coli* and Host Interactions
+We investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.
+
+### Disease Surveillance & Data-Driven Diagnostics
+We develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health.
+
+---
+
+## Funding & Collaborations
+- USDA-ARS
+- USDA-NIFA
+- Interdisciplinary collaborations in microbiology, data science, and engineering

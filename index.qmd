@@ -1,0 +1,29 @@
+---
+title: "Welcome"
+---
+
+::: {.columns}
+::: {.column width="35%"}
+![](images/lab_photo.jpg){width=100%}
+:::
+
+::: {.column width="65%"}
+## Li Zhang, PhD  
+**Associate Professor, Poultry Science**  
+Mississippi State University
+
+### Research Focus
+- Poultry gut microbiome & culturomics
+- Avian pathogenic *E. coli* and host–microbe interactions
+- Rapid diagnostics, genomics, and data-driven disease surveillance
+
+### Contact
+📧 lz245@msstate.edu  
+📍 Starkville, MS
+:::
+:::
+
+---
+
+## About the Lab
+The Zhang Lab focuses on understanding microbial communities in poultry and food systems to improve animal health, productivity, and food safety. Our work integrates **culturomics, genomics, microbiome analysis, and data science**.
