@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "lab.html",
-    "href": "lab.html",
-    "title": "The Lab",
-    "section": "",
-    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
-  },
-  {
-    "objectID": "lab.html#lab-members",
-    "href": "lab.html#lab-members",
-    "title": "The Lab",
-    "section": "",
-    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
-  },
-  {
-    "objectID": "lab.html#join-us",
-    "href": "lab.html#join-us",
-    "title": "The Lab",
-    "section": "Join Us",
-    "text": "Join Us\nWe are always looking for motivated students interested in microbiology, genomics, and data analysis."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -70,6 +49,27 @@
     "text": "Zhang L., et al. Differential expression of genes in fatty acid metabolism and inflammation pathways in broilers with woody breast myopathy. Poultry Science.\nZhang L., et al. Culturomics-based identification of poultry gut microbiota. Applied and Environmental Microbiology.\n\n👉 Full list available on\nGoogle Scholar"
   },
   {
+    "objectID": "lab.html",
+    "href": "lab.html",
+    "title": "The Lab",
+    "section": "",
+    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
+  },
+  {
+    "objectID": "lab.html#lab-members",
+    "href": "lab.html#lab-members",
+    "title": "The Lab",
+    "section": "",
+    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
+  },
+  {
+    "objectID": "lab.html#join-us",
+    "href": "lab.html#join-us",
+    "title": "The Lab",
+    "section": "Join Us",
+    "text": "Join Us\nWe are always looking for motivated students interested in microbiology, genomics, and data analysis."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -110,6 +110,27 @@
     "title": "Research",
     "section": "Funding & Collaborations",
     "text": "Funding & Collaborations\n\nUSDA-ARS\nUSDA-NIFA\nInterdisciplinary collaborations in microbiology, data science, and engineering"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Associate Professor, Poultry Science\nMississippi State University\n\n\n\nPoultry gut microbiome & culturomics\nAvian pathogenic E. coli and host–microbe interactions\nRapid diagnostics, genomics, and data-driven disease surveillance\n\n\n\n\n📧 lz245@msstate.edu\n📍 Starkville, MS"
+  },
+  {
+    "objectID": "index.html#li-zhang-phd",
+    "href": "index.html#li-zhang-phd",
+    "title": "Welcome",
+    "section": "",
+    "text": "Associate Professor, Poultry Science\nMississippi State University\n\n\n\nPoultry gut microbiome & culturomics\nAvian pathogenic E. coli and host–microbe interactions\nRapid diagnostics, genomics, and data-driven disease surveillance\n\n\n\n\n📧 lz245@msstate.edu\n📍 Starkville, MS"
+  },
+  {
+    "objectID": "index.html#about-the-lab",
+    "href": "index.html#about-the-lab",
+    "title": "Welcome",
+    "section": "About the Lab",
+    "text": "About the Lab\nThe Zhang Lab focuses on understanding microbial communities in poultry and food systems to improve animal health, productivity, and food safety. Our work integrates culturomics, genomics, microbiome analysis, and data science."
   },
   {
     "objectID": "about.html",

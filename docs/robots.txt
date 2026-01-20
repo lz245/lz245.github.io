@@ -1,1 +1,1 @@
-Sitemap: https://github.com/lz245/lz245.github.io/sitemap.xml
+Sitemap: lz245.github.io/sitemap.xml

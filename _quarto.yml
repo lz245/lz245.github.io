@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Li Zhang Lab"
-  site-url: "https://github.com/lz245/lz245.github.io"
+  site-url: "lz245.github.io"
   navbar:
     left:
       - text: Home
