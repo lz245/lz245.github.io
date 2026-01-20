@@ -4,19 +4,23 @@ title: "Curriculum Vitae"
 
 [📄 Download Full CV (PDF)](assets/Zhang_CV.pdf)
 
----
+------------------------------------------------------------------------
 
 ## Education
-- PhD, Microbiology
-- MS, …
-- BS, …
+
+-   PhD, Microbiology
+-   MS, …
+-   BS, …
 
 ## Appointments
-- Associate Professor, Poultry Science, Mississippi State University
+
+-   Associate Professor, Poultry Science, Mississippi State University
 
 ## Grants
-- USDA-NIFA
-- USDA-ARS
+
+-   USDA-NIFA
+-   USDA-ARS
 
 ## Service
-- Reviewer for *Applied and Environmental Microbiology*, *Poultry Science*
+
+-   Reviewer for *Applied and Environmental Microbiology*, *Poultry Science*

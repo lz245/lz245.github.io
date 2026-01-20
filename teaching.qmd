@@ -5,14 +5,17 @@ title: "Teaching"
 ## Courses Taught
 
 ### Advanced Techniques in Agricultural Microbiome Analysis
+
 Graduate-level course covering experimental design, sequencing, and bioinformatics for agricultural microbiomes.
 
 ### Microbiome Principles & Methods
+
 Hands-on course introducing microbiome sampling, DNA extraction, sequencing, and data analysis.
 
----
+------------------------------------------------------------------------
 
 ## Mentoring
-- Graduate students (MS & PhD)
-- Undergraduate researchers
-- Visiting scholars
+
+-   Graduate students (MS & PhD)
+-   Undergraduate researchers
+-   Visiting scholars

@@ -5,15 +5,19 @@ title: "The Lab"
 ## Lab Members
 
 ### Principal Investigator
+
 **Li Zhang**
 
 ### Graduate Students
-- Name — Project
+
+-   Name — Project
 
 ### Undergraduate Researchers
-- Name — Project
 
----
+-   Name — Project
+
+------------------------------------------------------------------------
 
 ## Join Us
+
 We are always looking for motivated students interested in microbiology, genomics, and data analysis.
