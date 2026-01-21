@@ -81,7 +81,7 @@
     "href": "research.html#funding-collaborations",
     "title": "Research",
     "section": "Funding & Collaborations",
-    "text": "Funding & Collaborations\n\nUSDA-ARS\nUSDA-NIFA\nInterdisciplinary collaborations in microbiology, data science, and engineering"
+    "text": "Funding & Collaborations\n\nUSDA-ARS\nUSDA-NIFA\nInterdisciplinary collaborations in microbiology, data science, and engineering\n1\n2"
   },
   {
     "objectID": "teaching.html",
@@ -103,6 +103,20 @@
     "title": "Teaching",
     "section": "Mentoring",
     "text": "Mentoring\n\nGraduate students (MS & PhD)\nUndergraduate researchers\nVisiting scholars"
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Teaching",
+    "section": "1",
+    "text": "1"
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Teaching",
+    "section": "2",
+    "text": "2"
   },
   {
     "objectID": "join.html",

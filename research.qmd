@@ -23,3 +23,6 @@ We develop rapid detection and monitoring tools integrating genomics, machine le
 -   USDA-ARS
 -   USDA-NIFA
 -   Interdisciplinary collaborations in microbiology, data science, and engineering
+
+- 1
+- 2

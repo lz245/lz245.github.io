@@ -19,3 +19,6 @@ Hands-on course introducing microbiome sampling, DNA extraction, sequencing, and
 -   Graduate students (MS & PhD)
 -   Undergraduate researchers
 -   Visiting scholars
+
+## 1
+## 2

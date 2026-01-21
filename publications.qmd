@@ -4,12 +4,13 @@ bibliography: publications.bib
 ---
 
 ## Selected Publications
-- @chaudhary2025evaluation
-- @jia2025reverse
+
+-   @chaudhary2025evaluation
+-   @jia2025reverse
 
 ## Journal Articles
+
 ::: {#refs}
 :::
 
-
-👉 Full list available on\ [Google Scholar](https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en)
+👉 Full list available on [Google Scholar](https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en)
