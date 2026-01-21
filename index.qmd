@@ -4,7 +4,7 @@ title: "Welcome"
 
 ::: {.columns}
 ::: {.column width="35%"}
-![](images/lab_photo.jpg){width=100%}
+![](images/lab_photo.jpg){width=100% style="margin-bottom: 1.5rem;"}
 :::
 
 ::: {.column width="65%"}
