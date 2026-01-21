@@ -23,12 +23,13 @@ website:
         href: publications.qmd
       - text: Teaching
         href: teaching.qmd
+      - text: CV
+        href: cv.qmd
       - text: Lab
         href: lab.qmd
       - text: Join
         href: join.qmd
-      - text: CV
-        href: cv.qmd
+
     right:
       - icon: bank
         href: https://www.poultry.msstate.edu/people/lz245
