@@ -20,11 +20,11 @@ website:
       - text: Lab
         href: lab.qmd
     right:
-      - icon: university
+      - icon: ai-university
         href: https://www.poultry.msstate.edu/people/lz245
       - icon: github
         href: https://github.com/lz245
-      - icon: google
+      - icon: google-scholar
         href: https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en
 
 format:
