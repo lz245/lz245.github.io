@@ -182,7 +182,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>#| echo: false import yaml, os, textwrap</p>
+<p>#| echo: false #| results: asis</p>
+<p>import yaml</p>
 <p>with open(“_data/people.yml”, “r”) as f: people = yaml.safe_load(f)</p>
 <p>def render_people(section): items = people.get(section, []) html = [’] for p in items: photo = p.get(“photo”, ““) name = p.get(”name”, ““) role = p.get(”role”, ““) project = p.get(”project”, ““) interests = p.get(”interests”, []) email = p.get(“email”, ““) links = p.get(”links”, [])</p>
 <pre><code>    html.append('&lt;div class="person-card"&gt;')
@@ -208,7 +209,9 @@ ul.task-list li input[type="checkbox"] {
     html.append('&lt;/div&gt;')
 html.append('&lt;/div&gt;')
 return "\n".join(html)</code></pre>
-<p>print(“## Principal Investigator”) print(render_people(“pi”)) print(“## Graduate Students”) print(render_people(“grad_students”)) print(“## Undergraduate Researchers”) print(render_people(“undergrads”))</p>
+<p>print(“## Principal Investigator”) print(render_people(“pi”))</p>
+<p>print(“## Graduate Students”) print(render_people(“grad_students”))</p>
+<p>print(“## Undergraduate Researchers”) print(render_people(“undergrads”))</p>
 
 
 
