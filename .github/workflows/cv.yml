@@ -20,12 +20,12 @@ jobs:
       - name: Convert DOCX to PDF
         run: |
           mkdir -p assets
-          libreoffice --headless --convert-to pdf --outdir assets cv/CV.docx
+          libreoffice --headless --convert-to pdf --outdir assets cv/cv.docx
 
       - name: Commit PDF if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add assets/CV.pdf || true
-          git commit -m "Update CV PDF" || exit 0
+          git add assets/cv.pdf || true
+          git commit -m "Update cv PDF" || exit 0
           git push
