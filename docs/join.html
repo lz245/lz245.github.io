@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Lab – Zhang Lab</title>
+<title>Join the Lab – Zhang Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -118,11 +118,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lab.html" aria-current="page"> 
+    <a class="nav-link" href="./lab.html"> 
 <span class="menu-text">Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./join.html"> 
+    <a class="nav-link active" href="./join.html" aria-current="page"> 
 <span class="menu-text">Join</span></a>
   </li>  
   <li class="nav-item">
@@ -157,20 +157,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#who-we-are-looking-for" id="toc-who-we-are-looking-for" class="nav-link active" data-scroll-target="#who-we-are-looking-for">Who We Are Looking For</a></li>
+  <li><a href="#positions-available" id="toc-positions-available" class="nav-link" data-scroll-target="#positions-available">Positions Available</a>
+  <ul class="collapse">
+  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#undergraduate-researchers" id="toc-undergraduate-researchers" class="nav-link" data-scroll-target="#undergraduate-researchers">Undergraduate Researchers</a></li>
+  </ul></li>
+  <li><a href="#what-you-will-gain" id="toc-what-you-will-gain" class="nav-link" data-scroll-target="#what-you-will-gain">What You Will Gain</a></li>
+  <li><a href="#how-to-apply" id="toc-how-to-apply" class="nav-link" data-scroll-target="#how-to-apply">How to Apply</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/join.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">The Lab</h1>
+<h1 class="title">Join the Lab</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -182,35 +195,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>#| echo: false import yaml, os, textwrap</p>
-<p>with open(“_data/people.yml”, “r”) as f: people = yaml.safe_load(f)</p>
-<p>def render_people(section): items = people.get(section, []) html = [’] for p in items: photo = p.get(“photo”, ““) name = p.get(”name”, ““) role = p.get(”role”, ““) project = p.get(”project”, ““) interests = p.get(”interests”, []) email = p.get(“email”, ““) links = p.get(”links”, [])</p>
-<pre><code>    html.append('&lt;div class="person-card"&gt;')
-    if photo:
-        html.append(f'&lt;img class="person-photo" src="{photo}" alt="{name}"&gt;')
-    html.append(f'&lt;div class="person-name"&gt;{name}&lt;/div&gt;')
-    html.append(f'&lt;div class="person-role"&gt;{role}&lt;/div&gt;')
+<section id="who-we-are-looking-for" class="level2">
+<h2 class="anchored" data-anchor-id="who-we-are-looking-for">Who We Are Looking For</h2>
+<p>We welcome motivated students interested in: - Microbiology - Poultry health - Genomics &amp; bioinformatics - Data analysis</p>
+</section>
+<section id="positions-available" class="level2">
+<h2 class="anchored" data-anchor-id="positions-available">Positions Available</h2>
+<section id="graduate-students" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-students">Graduate Students</h3>
+<ul>
+<li>MS &amp; PhD opportunities</li>
+<li>Competitive funding support</li>
+</ul>
+</section>
+<section id="undergraduate-researchers" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-researchers">Undergraduate Researchers</h3>
+<ul>
+<li>Research credit</li>
+<li>USDA internships</li>
+<li>Independent study</li>
+</ul>
+</section>
+</section>
+<section id="what-you-will-gain" class="level2">
+<h2 class="anchored" data-anchor-id="what-you-will-gain">What You Will Gain</h2>
+<ul>
+<li>Hands-on lab experience</li>
+<li>Publications</li>
+<li>Conference presentations</li>
+<li>Career mentorship</li>
+</ul>
+</section>
+<section id="how-to-apply" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-apply">How to Apply</h2>
+<p>Email: - CV - Brief statement of interest - (For graduate students) transcripts</p>
+<p>📧 <strong>lz245@msstate.edu</strong></p>
 
-    if project:
-        html.append(f'&lt;div class="person-meta"&gt;&lt;strong&gt;Project:&lt;/strong&gt; {project}&lt;/div&gt;')
 
-    if interests:
-        badges = ''.join([f'&lt;span&gt;{i}&lt;/span&gt;' for i in interests])
-        html.append(f'&lt;div class="badge-list" style="margin-top:0.5rem"&gt;{badges}&lt;/div&gt;')
-
-    if email:
-        html.append(f'&lt;div class="person-meta" style="margin-top:0.6rem"&gt;&lt;a href="mailto:{email}"&gt;{email}&lt;/a&gt;&lt;/div&gt;')
-
-    if links:
-        link_html = " • ".join([f'&lt;a href="{l["url"]}" target="_blank"&gt;{l["label"]}&lt;/a&gt;' for l in links])
-        html.append(f'&lt;div class="person-meta" style="margin-top:0.4rem"&gt;{link_html}&lt;/div&gt;')
-
-    html.append('&lt;/div&gt;')
-html.append('&lt;/div&gt;')
-return "\n".join(html)</code></pre>
-<p>print(“## Principal Investigator”) print(render_people(“pi”)) print(“## Graduate Students”) print(render_people(“grad_students”)) print(“## Undergraduate Researchers”) print(render_people(“undergrads”))</p>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -646,7 +668,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/lab.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/join.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">

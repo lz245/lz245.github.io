@@ -39,35 +39,49 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Zhang L., et al. Differential expression of genes in fatty acid metabolism and inflammation pathways in broilers with woody breast myopathy. Poultry Science.\nZhang L., et al. Culturomics-based identification of poultry gut microbiota. Applied and Environmental Microbiology.\n\n👉 Full list available on\nGoogle Scholar"
+    "text": "Chaudhary et al. (2025)\nJia et al. (2025)"
   },
   {
     "objectID": "publications.html#selected-publications",
     "href": "publications.html#selected-publications",
     "title": "Publications",
     "section": "",
-    "text": "Zhang L., et al. Differential expression of genes in fatty acid metabolism and inflammation pathways in broilers with woody breast myopathy. Poultry Science.\nZhang L., et al. Culturomics-based identification of poultry gut microbiota. Applied and Environmental Microbiology.\n\n👉 Full list available on\nGoogle Scholar"
+    "text": "Chaudhary et al. (2025)\nJia et al. (2025)"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n\nChaudhary, Deepa, Sabin Poudel, Chuan-Yu Hsu, Linan Jia, Anuraj T Sukumaran, Xue Zhang, Wen-Hsing Cheng, Aaron S Kiess, Kenneth S Macklin, and Li Zhang. 2025. “Evaluation of Different DNA Extraction Methods for the Detection of Clostridium Perfringens by Loop-Mediated Isothermal Amplification (LAMP) Assay.” Journal of Applied Poultry Research, 100600.\n\n\nJia, Linan, Xin Ye, Mark A Arick II, Chuan-Yu Hsu, Jeffrey D Evans, Kelsy Robinson, Pratima Adhikari, and Li Zhang. 2025. “Reverse Vaccinology and Host-Pathogen Analysis Reveal pagP as a Potential Universal Vaccine Candidate Against Avian Pathogenic Escherichia Coli in Poultry.” Journal of Applied Microbiology 136 (10): lxaf253.\n\n\n👉 Full list available on Google Scholar"
   },
   {
     "objectID": "lab.html",
     "href": "lab.html",
     "title": "The Lab",
     "section": "",
-    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
+    "text": "#| echo: false import yaml, os, textwrap\nwith open(“_data/people.yml”, “r”) as f: people = yaml.safe_load(f)\ndef render_people(section): items = people.get(section, []) html = [’] for p in items: photo = p.get(“photo”, ““) name = p.get(”name”, ““) role = p.get(”role”, ““) project = p.get(”project”, ““) interests = p.get(”interests”, []) email = p.get(“email”, ““) links = p.get(”links”, [])\n    html.append('&lt;div class=\"person-card\"&gt;')\n    if photo:\n        html.append(f'&lt;img class=\"person-photo\" src=\"{photo}\" alt=\"{name}\"&gt;')\n    html.append(f'&lt;div class=\"person-name\"&gt;{name}&lt;/div&gt;')\n    html.append(f'&lt;div class=\"person-role\"&gt;{role}&lt;/div&gt;')\n\n    if project:\n        html.append(f'&lt;div class=\"person-meta\"&gt;&lt;strong&gt;Project:&lt;/strong&gt; {project}&lt;/div&gt;')\n\n    if interests:\n        badges = ''.join([f'&lt;span&gt;{i}&lt;/span&gt;' for i in interests])\n        html.append(f'&lt;div class=\"badge-list\" style=\"margin-top:0.5rem\"&gt;{badges}&lt;/div&gt;')\n\n    if email:\n        html.append(f'&lt;div class=\"person-meta\" style=\"margin-top:0.6rem\"&gt;&lt;a href=\"mailto:{email}\"&gt;{email}&lt;/a&gt;&lt;/div&gt;')\n\n    if links:\n        link_html = \" • \".join([f'&lt;a href=\"{l[\"url\"]}\" target=\"_blank\"&gt;{l[\"label\"]}&lt;/a&gt;' for l in links])\n        html.append(f'&lt;div class=\"person-meta\" style=\"margin-top:0.4rem\"&gt;{link_html}&lt;/div&gt;')\n\n    html.append('&lt;/div&gt;')\nhtml.append('&lt;/div&gt;')\nreturn \"\\n\".join(html)\nprint(“## Principal Investigator”) print(render_people(“pi”)) print(“## Graduate Students”) print(render_people(“grad_students”)) print(“## Undergraduate Researchers”) print(render_people(“undergrads”))"
   },
   {
-    "objectID": "lab.html#lab-members",
-    "href": "lab.html#lab-members",
-    "title": "The Lab",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Li Zhang\n\n\n\n\nName — Project\n\n\n\n\n\nName — Project"
+    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
   },
   {
-    "objectID": "lab.html#join-us",
-    "href": "lab.html#join-us",
-    "title": "The Lab",
-    "section": "Join Us",
-    "text": "Join Us\nWe are always looking for motivated students interested in microbiology, genomics, and data analysis."
+    "objectID": "research.html#research-programs",
+    "href": "research.html#research-programs",
+    "title": "Research",
+    "section": "",
+    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+  },
+  {
+    "objectID": "research.html#funding-collaborations",
+    "href": "research.html#funding-collaborations",
+    "title": "Research",
+    "section": "Funding & Collaborations",
+    "text": "Funding & Collaborations\n\nUSDA-ARS\nUSDA-NIFA\nInterdisciplinary collaborations in microbiology, data science, and engineering"
   },
   {
     "objectID": "teaching.html",
@@ -91,25 +105,39 @@
     "text": "Mentoring\n\nGraduate students (MS & PhD)\nUndergraduate researchers\nVisiting scholars"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Lab",
     "section": "",
-    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+    "text": "We welcome motivated students interested in: - Microbiology - Poultry health - Genomics & bioinformatics - Data analysis"
   },
   {
-    "objectID": "research.html#research-programs",
-    "href": "research.html#research-programs",
-    "title": "Research",
+    "objectID": "join.html#who-we-are-looking-for",
+    "href": "join.html#who-we-are-looking-for",
+    "title": "Join the Lab",
     "section": "",
-    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+    "text": "We welcome motivated students interested in: - Microbiology - Poultry health - Genomics & bioinformatics - Data analysis"
   },
   {
-    "objectID": "research.html#funding-collaborations",
-    "href": "research.html#funding-collaborations",
-    "title": "Research",
-    "section": "Funding & Collaborations",
-    "text": "Funding & Collaborations\n\nUSDA-ARS\nUSDA-NIFA\nInterdisciplinary collaborations in microbiology, data science, and engineering"
+    "objectID": "join.html#positions-available",
+    "href": "join.html#positions-available",
+    "title": "Join the Lab",
+    "section": "Positions Available",
+    "text": "Positions Available\n\nGraduate Students\n\nMS & PhD opportunities\nCompetitive funding support\n\n\n\nUndergraduate Researchers\n\nResearch credit\nUSDA internships\nIndependent study"
+  },
+  {
+    "objectID": "join.html#what-you-will-gain",
+    "href": "join.html#what-you-will-gain",
+    "title": "Join the Lab",
+    "section": "What You Will Gain",
+    "text": "What You Will Gain\n\nHands-on lab experience\nPublications\nConference presentations\nCareer mentorship"
+  },
+  {
+    "objectID": "join.html#how-to-apply",
+    "href": "join.html#how-to-apply",
+    "title": "Join the Lab",
+    "section": "How to Apply",
+    "text": "How to Apply\nEmail: - CV - Brief statement of interest - (For graduate students) transcripts\n📧 lz245@msstate.edu"
   },
   {
     "objectID": "index.html",

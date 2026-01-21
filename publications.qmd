@@ -1,11 +1,15 @@
 ---
 title: "Publications"
+bibliography: publications.bib
 ---
 
 ## Selected Publications
+- @chaudhary2025evaluation
+- @jia2025reverse
 
--   Zhang L., et al. **Differential expression of genes in fatty acid metabolism and inflammation pathways in broilers with woody breast myopathy.** *Poultry Science*.
--   Zhang L., et al. **Culturomics-based identification of poultry gut microbiota.** *Applied and Environmental Microbiology*.
+## Journal Articles
+::: {#refs}
+:::
 
-👉 Full list available on\
-[Google Scholar](https://scholar.google.com)
+
+👉 Full list available on\ [Google Scholar](https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en)

@@ -2,22 +2,52 @@
 title: "The Lab"
 ---
 
-## Lab Members
+```{python}
+#| echo: false
+import yaml, os, textwrap
 
-### Principal Investigator
+with open("_data/people.yml", "r") as f:
+    people = yaml.safe_load(f)
 
-**Li Zhang**
+def render_people(section):
+    items = people.get(section, [])
+    html = ['<div class="people-grid">']
+    for p in items:
+        photo = p.get("photo", "")
+        name = p.get("name", "")
+        role = p.get("role", "")
+        project = p.get("project", "")
+        interests = p.get("interests", [])
+        email = p.get("email", "")
+        links = p.get("links", [])
 
-### Graduate Students
+        html.append('<div class="person-card">')
+        if photo:
+            html.append(f'<img class="person-photo" src="{photo}" alt="{name}">')
+        html.append(f'<div class="person-name">{name}</div>')
+        html.append(f'<div class="person-role">{role}</div>')
 
--   Name — Project
+        if project:
+            html.append(f'<div class="person-meta"><strong>Project:</strong> {project}</div>')
 
-### Undergraduate Researchers
+        if interests:
+            badges = ''.join([f'<span>{i}</span>' for i in interests])
+            html.append(f'<div class="badge-list" style="margin-top:0.5rem">{badges}</div>')
 
--   Name — Project
+        if email:
+            html.append(f'<div class="person-meta" style="margin-top:0.6rem"><a href="mailto:{email}">{email}</a></div>')
 
-------------------------------------------------------------------------
+        if links:
+            link_html = " • ".join([f'<a href="{l["url"]}" target="_blank">{l["label"]}</a>' for l in links])
+            html.append(f'<div class="person-meta" style="margin-top:0.4rem">{link_html}</div>')
 
-## Join Us
+        html.append('</div>')
+    html.append('</div>')
+    return "\n".join(html)
 
-We are always looking for motivated students interested in microbiology, genomics, and data analysis.
+print("## Principal Investigator\n")
+print(render_people("pi"))
+print("\n## Graduate Students\n")
+print(render_people("grad_students"))
+print("\n## Undergraduate Researchers\n")
+print(render_people("undergrads"))

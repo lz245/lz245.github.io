@@ -1,35 +1,73 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 4200
+    browser: true
 
 website:
-  title: "Li Zhang Lab"
+  title: "Zhang Lab"
   site-url: "https://lz245.github.io"
+  repo-url: "https://github.com/lz245/lz245.github.io"
+  repo-actions: [edit, issue]
+  favicon: "images/favicon.png"
+
   navbar:
+    logo: "images/logo.png"
     left:
       - text: Home
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Teaching
-        href: teaching.qmd
       - text: Publications
         href: publications.qmd
-      - text: CV
-        href: cv.qmd
+      - text: Teaching
+        href: teaching.qmd
       - text: Lab
         href: lab.qmd
+      - text: Join
+        href: join.qmd
+      - text: CV
+        href: cv.qmd
     right:
       - icon: bank
         href: https://www.poultry.msstate.edu/people/lz245
       - icon: github
-        href: https://github.com/lz245
-      - icon: google
-        href: https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en
+        href: "https://github.com/lz245"
+      - icon: envelope
+        href: "mailto:lz245@msstate.edu"
+
+  page-footer:
+    left: "© {year} Zhang Lab • Mississippi State University"
+    right:
+      - text: "Contact"
+        href: "mailto:lz245@msstate.edu"
+      - text: "GitHub"
+        href: "https://github.com/lz245"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
     page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    code-copy: true
+    include-in-header:
+      - text: |
+          <!-- Google tag (gtag.js) -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-3B7N686V5Q"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-3B7N686V5Q');
+          </script>
+
+execute:
+  freeze: auto
+
+editor: visual

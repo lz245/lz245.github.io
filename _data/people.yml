@@ -1,0 +1,28 @@
+pi:
+  - name: "Li Zhang"
+    role: "Principal Investigator"
+    photo: "images/people/lizhang.jpg"
+    interests: ["Poultry microbiomes", "Culturomics", "Disease surveillance", "Genomics & data science"]
+    email: "lz245@msstate.edu"
+    links:
+      - label: "Google Scholar"
+        url: "https://scholar.google.com"
+      - label: "GitHub"
+        url: "https://github.com/lz245"
+
+grad_students:
+  - name: "Student Name"
+    role: "PhD Student"
+    photo: "images/people/student1.jpg"
+    project: "Short project title here"
+    interests: ["Microbiome", "Bioinformatics"]
+    links:
+      - label: "LinkedIn"
+        url: "https://www.linkedin.com/"
+
+undergrads:
+  - name: "Student Name"
+    role: "Undergraduate Researcher"
+    photo: "images/people/student2.jpg"
+    project: "Short project title here"
+    interests: ["Wet lab", "Data analysis"]
