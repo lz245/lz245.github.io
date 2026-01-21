@@ -1,3 +1,9 @@
+::: {.hero}
+# Zhang Lab  
+## Poultry Microbiomes • Pathogens • Data-Driven Health
+Mississippi State University
+:::
+
 ---
 title: "Welcome"
 ---

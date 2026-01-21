@@ -4,6 +4,26 @@ title: "Research"
 
 ## Research Programs
 
+:::::: columns
+::: column
+### 🧫 Poultry Gut Microbiome
+
+Culturomics, probiotics, gut health optimization.
+:::
+
+::: column
+### 🦠 Avian Pathogens
+
+APEC virulence, host–pathogen interactions.
+:::
+
+::: column
+### 📊 Surveillance & AI
+
+Diagnostics, genomics, machine learning.
+:::
+::::::
+
 ### Poultry Gut Microbiome & Culturomics
 
 We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.
