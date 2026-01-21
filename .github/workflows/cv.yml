@@ -1,0 +1,31 @@
+name: Build CV PDF
+
+on:
+  push:
+    paths:
+      - "cv/**"
+      - ".github/workflows/cv.yml"
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install LibreOffice
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libreoffice
+
+      - name: Convert DOCX to PDF
+        run: |
+          mkdir -p assets
+          libreoffice --headless --convert-to pdf --outdir assets cv/CV.docx
+
+      - name: Commit PDF if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/CV.pdf || true
+          git commit -m "Update CV PDF" || exit 0
+          git push

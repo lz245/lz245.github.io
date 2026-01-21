@@ -8,6 +8,16 @@ title: "Research"
 
 We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.
 
+**Why it matters**
+- Reduces production losses by improving gut health and resilience.
+- Supports antimicrobial stewardship through prevention-focused solutions.
+- Enables earlier detection and targeted intervention using genomics and analytics.
+
+**Deliverables**
+- Curated isolate libraries + functional annotations
+- Validated biomarkers / signatures for health and disease
+- Field-ready decision support (sampling → sequencing → interpretation pipeline)
+
 ### Avian Pathogenic *E. coli* and Host Interactions
 
 We investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.
@@ -16,6 +26,7 @@ We investigate virulence mechanisms, host immune responses, and tissue-level pat
 
 We develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health.
 
+This work directly benefits **producers, veterinarians, integrators, and public health stakeholders** by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination.
 ------------------------------------------------------------------------
 
 ## Funding & Collaborations

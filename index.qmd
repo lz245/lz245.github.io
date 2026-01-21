@@ -28,3 +28,7 @@ Mississippi State University
 
 ## About the Lab
 The Zhang Lab focuses on understanding microbial communities in poultry and food systems to improve animal health, productivity, and food safety. Our work integrates **culturomics, genomics, microbiome analysis, and data science**.
+
+## Impact
+Our lab develops **microbiome- and data-driven tools** to improve poultry health, productivity, and food safety.  
+**Outcomes** include (i) isolating beneficial gut microbes for next-generation probiotics, (ii) identifying mechanisms of avian pathogen virulence and host response, and (iii) deploying scalable monitoring and diagnostic strategies that support disease prevention and antimicrobial stewardship.

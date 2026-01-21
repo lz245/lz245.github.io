@@ -67,14 +67,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\nWhy it matters - Reduces production losses by improving gut health and resilience. - Supports antimicrobial stewardship through prevention-focused solutions. - Enables earlier detection and targeted intervention using genomics and analytics.\nDeliverables - Curated isolate libraries + functional annotations - Validated biomarkers / signatures for health and disease - Field-ready decision support (sampling → sequencing → interpretation pipeline)\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
   },
   {
     "objectID": "research.html#research-programs",
     "href": "research.html#research-programs",
     "title": "Research",
     "section": "",
-    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+    "text": "We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.\nWhy it matters - Reduces production losses by improving gut health and resilience. - Supports antimicrobial stewardship through prevention-focused solutions. - Enables earlier detection and targeted intervention using genomics and analytics.\nDeliverables - Curated isolate libraries + functional annotations - Validated biomarkers / signatures for health and disease - Field-ready decision support (sampling → sequencing → interpretation pipeline)\n\n\n\nWe investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.\n\n\n\nWe develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health."
+  },
+  {
+    "objectID": "research.html#this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination.",
+    "href": "research.html#this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination.",
+    "title": "Research",
+    "section": "This work directly benefits producers, veterinarians, integrators, and public health stakeholders by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination.",
+    "text": "This work directly benefits producers, veterinarians, integrators, and public health stakeholders by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination."
   },
   {
     "objectID": "research.html#funding-collaborations",
@@ -173,6 +180,13 @@
     "title": "Welcome",
     "section": "About the Lab",
     "text": "About the Lab\nThe Zhang Lab focuses on understanding microbial communities in poultry and food systems to improve animal health, productivity, and food safety. Our work integrates culturomics, genomics, microbiome analysis, and data science."
+  },
+  {
+    "objectID": "index.html#impact",
+    "href": "index.html#impact",
+    "title": "Welcome",
+    "section": "Impact",
+    "text": "Impact\nOur lab develops microbiome- and data-driven tools to improve poultry health, productivity, and food safety.\nOutcomes include (i) isolating beneficial gut microbes for next-generation probiotics, (ii) identifying mechanisms of avian pathogen virulence and host response, and (iii) deploying scalable monitoring and diagnostic strategies that support disease prevention and antimicrobial stewardship."
   },
   {
     "objectID": "about.html",
