@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[📄 Download Full CV (PDF)](assets/cv.pdf)
+[📄 Download Full CV (PDF)](assets/CV.pdf)
 
 ------------------------------------------------------------------------
 

@@ -5,6 +5,10 @@ on:
     paths:
       - "cv/**"
       - ".github/workflows/cv.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build-cv:
@@ -20,12 +24,14 @@ jobs:
       - name: Convert DOCX to PDF
         run: |
           mkdir -p assets
-          libreoffice --headless --convert-to pdf --outdir assets cv/cv.docx
+          libreoffice --headless --convert-to pdf --outdir assets cv/CV.docx
+          ls -lah assets
 
       - name: Commit PDF if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add assets/cv.pdf || true
-          git commit -m "Update cv PDF" || exit 0
+          git add -A
+          git status
+          git commit -m "Update CV PDF" || exit 0
           git push
