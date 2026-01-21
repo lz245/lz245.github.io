@@ -20,7 +20,7 @@ website:
       - text: Lab
         href: lab.qmd
     right:
-      - icon: university
+      - icon: github
         href: https://www.poultry.msstate.edu/people/lz245
       - icon: github
         href: https://github.com/lz245
