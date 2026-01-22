@@ -1,16 +1,161 @@
 ---
 title: "Publications"
-bibliography: publications.bib
+subtitle: "Peer-reviewed research and preprints"
+toc: true
+toc-depth: 2
 ---
 
-## Selected Publications
-
--   @chaudhary2025evaluation
--   @jia2025reverse
-
-## Journal Articles
-
-::: {#refs}
+::: {.pub-stats}
+**67+** Total Publications | [Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX) | [ORCID: 0000-0002-3933-5794](https://orcid.org/0000-0002-3933-5794)
 :::
 
-👉 Full list available on [Google Scholar](https://scholar.google.com/citations?user=PpnVGN4AAAAJ&hl=en)
+*Publications with **Zhang, L.** as corresponding author are marked with asterisk*
+
+---
+
+## 2025
+
+1. **Zhang, L.**, Ishii, S., Rothrock Jr., M.J., Oladeinde, A., & Li, X. (2025). Genomic insights into the evolution and adaptation of *Listeria monocytogenes* in poultry production systems. *Food Research International*. (Submitted)
+
+2. Jia, L., Ye, X., Arick, M.A., Hsu, C.Y., Evans, J.D., Robinson, K., Adhikari, P., & **Zhang, L.\*** (2025). Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic *Escherichia coli* in poultry. *Journal of Applied Microbiology*, 136(10), lxaf253. [DOI](https://doi.org/10.1093/jambio/lxaf253)
+
+3. Thames, H.T., Pokhrel, D., Sukumaran, A.T., Dinh, T.T.T.N., Schilling, M.W., White, S., Ramachandran, R., Macklin, K.S., & **Zhang, L.\*** (2025). Environmental Stress Modulates Expression of Biofilm-Related Genes in *Salmonella*. *Journal of Applied Microbiology*. (Accepted)
+
+4. Jia, L., Hsu, C.Y., Zhang, X., Schilling, M.W., Wamsley, K., Adhikari, P., & **Zhang, L.\*** (2025). Differential expression of genes in fatty acid metabolism and inflammation pathways in Pectoralis major of broilers with woody breast myopathy. *Avian Diseases*, 69(3), 265-274. [DOI](https://doi.org/10.1637/aviandiseases-D-25-00021)
+
+5. Chaudhary, D., Poudel, S., Jia, L., Sukumaran, A.T., Zhang, X., Cheng, W.H., Kiess, A.S., Macklin, K.S., Hsu, C.Y., & **Zhang, L.\*** (2025). Evaluation of different DNA extraction methods for the detection of *Clostridium perfringens* by loop-mediated isothermal amplification (LAMP) assay. *Journal of Applied Poultry Research*, 34(4), 100600. [DOI](https://doi.org/10.1016/j.japr.2025.100600)
+
+6. Ye, X., Hsu, C.Y., Jia, L., Zhang, X., Magee, C., Whitham, S., Leigh, S., Evans, J., **Zhang, L.**, & Robinson, K. (2025). Dynamic immune response to Avian Pathogenic *Escherichia coli* infection in broiler chickens: Insights into pro-inflammatory and anti-inflammatory cytokine regulation. *Poultry Science*, 104(6), 105029. [DOI](https://doi.org/10.1016/j.psj.2025.105029)
+
+7. Wang, M., Ye, X., Hsu, C.Y., Fugate, H., Zhang, X., Adhikari, P.A., Fan, P., Elliott, K., Macklin, K., & **Zhang, L.\*** (2025). Targeted cultivation and isolation of probiotic candidate taxa from the cecal microbiota of broiler chickens using culturomics. *Poultry Science*. (Minor revision)
+
+8. Lyte, J.M., Seyoum, M.M., Ayala, D., ..., **Zhang, L.**, ..., & Proszkowiec-Weglarz, M. (2025). Do we need a standardized 16S rRNA gene amplicon sequencing analysis protocol for poultry microbiota research? *Poultry Science*, 104(6), 105242. [DOI](https://doi.org/10.1016/j.psj.2025.105242)
+
+9. Huang, Y.C., Lu, H.Y., **Zhang, L.**, ..., & Cheng, W.H. (2025). Dietary selenium deficiency accelerates the onset of aging-related gut microbial changes in aged telomere-humanized mice. *Aging Cell*, 0, e70130. [DOI](https://doi.org/10.1111/acel.70130)
+
+---
+
+## 2024
+
+1. Poudel, S., Pokhrel, D., Zhang, X., Sukumaran, A.T., Adhikari, P., Kiess, A.S., Macklin, K.S., & **Zhang, L.\*** (2024). *Campylobacter jejuni* from no antibiotics ever (NAE) broilers: prevalence, antibiotic resistance, and virulence genes analysis. *Poultry Science*, 103(12), 104380. [DOI](https://doi.org/10.1016/j.psj.2024.104380)
+
+2. Jia, L., Arick, M.A., Hsu, C.Y., Peterson, D.G., Evans, J.D., Robinson, K., Sukumaran, A.T., Ramachandran, R., Adhikari, P., & **Zhang, L.\*** (2024). High-throughput Oxford Nanopore sequencing-based approach for the multilocus sequence typing (MLST) analysis of large-scale avian *Escherichia coli* study in Mississippi. *Poultry Science*, 103(10), 104067. [DOI](https://doi.org/10.1016/j.psj.2024.104067)
+
+3. Poudel, S., Zeng, X., Lin, J., Cheng, W.H., Sukumaran, A.T., Adhikari, P., Kiess, A.S., Macklin, K.S., & **Zhang, L.\*** (2024). Recent advances and challenges in developing vaccines for *Campylobacter jejuni*: A Comprehensive Review. *World Poultry Science Journal*, 80(3), 767-790. [DOI](https://doi.org/10.1080/00439339.2024.2368819)
+
+4. Pokhrel, D., Thames, H.T., Fugate, H., Dinh, T., Schilling, W., White, S., Ramachandran, R., Sukumaran, A.T., & **Zhang, L.\*** (2024). Increase in Temperature Facilitates *Campylobacter jejuni* Biofilm Formation Under Both Aerobic and Microaerobic Incubation. *Poultry Science*, 103(6), 103753. [DOI](https://doi.org/10.1016/j.psj.2024.103753)
+
+5. Isah, A.S., Ramachandran, R., Sukumaran, A.T., Kiess, A.S., Castañeda, C.D., Boltz, T., Macklin, K.S., Abdelhamed, H., & **Zhang, L.\*** (2024). Construction and characterization of bioluminescent *Salmonella* Reading outbreak and non-outbreak Strains. *Microbiology Spectrum*, e01263-24. [DOI](https://doi.org/10.1128/spectrum.01263-24)
+
+6. Isah, A.S., Ramachandran, R., Sukumaran, A.T., Kiess, A.S., Castañeda, C.D., Boltz, T., Macklin, K.S., Abdelhamed, H., & **Zhang, L.\*** (2024). Evaluating the vertical transmission potential of *Salmonella* Reading in broiler breeders. *Poultry Science*, 103(12), 104351. [DOI](https://doi.org/10.1016/j.psj.2024.104351)
+
+7. Chaudhary, D., Poudel, S., Jia, L., Sukumaran, A.T., Zhang, X., Cheng, W.H., Kiess, A.S., Macklin, K.S., & **Zhang, L.\*** (2024). Optimization of a loop-mediated isothermal amplification (LAMP) assay for the rapid detection of *Clostridium perfringens*. *Journal of Applied Poultry Research*, 34(2), 100513. [DOI](https://doi.org/10.1016/j.japr.2024.100513)
+
+8. Jia, L., Arick, M.A., Hsu, C.Y., Peterson, D.G., Evans, J.D., Robinson, K., Adhikari, P., & **Zhang, L.\*** (2024). Complete genome sequences of two avian pathogenic *Escherichia coli* strains isolated from broilers exhibiting colibacillosis in Mississippi. *Microbiology Resource Announcements*, 13(6), e01020-23. [DOI](https://doi.org/10.1128/mra.01020-23)
+
+9. Jia, L., Hsu, C.Y., Zhang, X., Li, X., Schilling, M.W., Peebles, E.D., Kiess, A.S., Wamsley, K.G.S., & **Zhang, L.\*** (2024). Changes in gene expression in the intestinal mucus of broilers with woody breast myopathy. *Poultry Science*, 103(3), 103398. [DOI](https://doi.org/10.1016/j.psj.2023.103398)
+
+10. Joseph, J., Magee, C., Jia, L., **Zhang, L.**, Adhikari, P., & Ramachandran, R. (2024). Phenotypic virulence characterization of avian pathogenic *Escherichia coli* (APEC) isolates from broiler breeders with colibacillosis in Mississippi. *Journal of Applied Microbiology*, 135(5), lxae032. [DOI](https://doi.org/10.1093/jambio/lxae032)
+
+---
+
+## 2023
+
+1. Poudel, S., Jia, L., Arick, M.A., Hsu, C.Y., Thrash, A., Sukumaran, A.T., Adhikari, P., Kiess, A.S., & **Zhang, L.\*** (2023). In silico prediction and expression analysis of vaccine candidate genes of *Campylobacter jejuni*. *Poultry Science*, 102(5), 102592. [DOI](https://doi.org/10.1016/j.psj.2023.102592)
+
+2. Pokhrel, D., Thames, H.T., **Zhang, L.**, Dinh, T., Schilling, M.W., White, S., Ramachandran, R., & Sukumaran, A.T. (2023). Aerotolerance and multi-locus sequence typing of *Campylobacter jejuni* isolated from commercial broiler processing plants. *Foods*, 12(17), 3305. [DOI](https://doi.org/10.3390/foods12173305)
+
+3. Thames, H., Pokhrel, D., Willis, E., Rivers, O., Dinh, T.T.N., **Zhang, L.**, Schilling, M.W., Ramachandran, R., White, S., & Sukumaran, A.T. (2023). *Salmonella* biofilm formation under fluidic shear stress on different surface materials. *Foods*, 12(9), 1918. [DOI](https://doi.org/10.3390/foods12091918)
+
+4. Ovi, F., Nabors, H., Jia, L., **Zhang, L.**, & Adhikari, P. (2023). A compilation of virulence-associated genes with uniquely high prevalence in avian pathogenic *Escherichia coli* (APEC). *Journal of Applied Microbiology*, 134(3), 1-20. [DOI](https://doi.org/10.1093/jambio/lxad014)
+
+5. Joseph, J., Jennings, M., Barbieri, N.L., **Zhang, L.**, Adhikari, P., & Ramachandran, R. (2023). Characterization of avian pathogenic *Escherichia coli* isolated from broiler breeders with colibacillosis in Mississippi. *Poultry*, 2(1), 24-39. [DOI](https://doi.org/10.3390/poultry2010004)
+
+---
+
+## 2022
+
+1. Poudel, S., Li, T., Chen, S., Zhang, X., Cheng, W.H., Sukumaran, A.T., Kiess, A.S., & **Zhang, L.\*** (2022). Prevalence, antimicrobial resistance, and molecular characterization of *Campylobacter* isolated from broilers and broiler meat raised without antibiotics. *Microbiology Spectrum*, 10(3), e0025122. [DOI](https://doi.org/10.1128/spectrum.00251-22)
+
+2. Jia, L., Hsu, C.Y., Zhang, X., Li, X., Schilling, M.W., Peebles, E.D., Kiess, A.S., & **Zhang, L.\*** (2022). Effects of dietary bacitracin or *Bacillus subtilis* on the woody breast myopathy-associated gut microbiome of *Eimeria* spp. challenged and unchallenged broilers. *Poultry Science*, 101(8), 101960. [DOI](https://doi.org/10.1016/j.psj.2022.101960)
+
+3. Jia, L., Zhang, X., Li, X., Schilling, W., Peebles, E.D., Kiess, A.S., & **Zhang, L.\*** (2022). Internal organ and skeletal muscle development in commercial broilers with woody breast myopathy. *Poultry Science*, 101(9), 102012. [DOI](https://doi.org/10.1016/j.psj.2022.102012)
+
+4. Jia, L., Zhang, X., Li, X., Schilling, W., Peebles, E.D., Kiess, A.S., Zhai, W., & **Zhang, L.\*** (2022). Bacitracin, *Bacillus subtilis*, and *Eimeria* spp. challenge exacerbates woody breast incidence and severity in broilers. *Poultry Science*, 101(1), 101512. [DOI](https://doi.org/10.1016/j.psj.2021.101512)
+
+5. Poudel, S., Li, T., Arick, M.A., Hsu, C.Y., Thrash, A., Sukumaran, A.T., Adhikari, P., Kiess, A.S., & **Zhang, L.\*** (2022). Complete genome sequences of four *Campylobacter jejuni* isolated from retail chicken and broiler feces. *Microbiology Resource Announcements*, 11(10), e00898-22. [DOI](https://doi.org/10.1128/mra.00898-22)
+
+6. Poudel, S., Tabler, G.T., Lin, J., Zhai, W., & **Zhang, L.\*** (2022). Riboflavin and *Bacillus subtilis* effects on growth performance and woody-breast of Ross 708 broilers with or without *Eimeria* spp. challenge. *Journal of Animal Science and Technology*, 64(3), 443-461. [DOI](https://doi.org/10.5187/jast.2022.e24)
+
+7. Pokhrel, D., Thames, H.T., **Zhang, L.**, Dinh, T.T.N., Schilling, W., White, S.B., Ramachandran, R., & Sukumaran, A.T. (2022). Roles of aerotolerance, biofilm formation, and viable but non-culturable state in the survival of *Campylobacter jejuni* in poultry processing environments. *Microorganisms*, 10(11), 2165. [DOI](https://doi.org/10.3390/microorganisms10112165)
+
+---
+
+## 2021
+
+1. **Zhang, X.** & **Zhang, L.** (equal contribution), Li, X., White, S., Campbell, Y.L., Ruiz, A.A., To, K.V., Zhai, W., & Schilling, M.W. (2021). Cecal microbiota contribute to the development of woody breast myopathy. *Poultry Science*, 100(6), 101124. [DOI](https://doi.org/10.1016/j.psj.2021.101124)
+
+2. Li, T., Castañeda, C.D., Miotto, J., McDaniel, C., Kiess, A.S., & **Zhang, L.\*** (2021). Effects of in ovo probiotic administration on the incidence of avian pathogenic *Escherichia coli* in broilers and an evaluation on their virulence and antimicrobial resistance properties. *Poultry Science*, 100(3), 100903. [DOI](https://doi.org/10.1016/j.psj.2020.11.072)
+
+3. Fancher, C.A., Thames, H.T., Colvin, M.G., Smith, M., Easterling, A., Nuthalapati, N., **Zhang, L.**, Kiess, A., Dinh, T.T.N., & Sukumaran, A.T. (2021). Prevalence and Molecular Characteristics of Avian Pathogenic *Escherichia coli* in "No Antibiotics Ever" Broiler Farms. *Microbiology Spectrum*, 9(3), e00834-21. [DOI](https://doi.org/10.1128/Spectrum.00834-21)
+
+4. Fancher, C.A., Thames, H.T., Colvin, M.G., **Zhang, L.**, Nuthalapati, N., Kiess, A., Dinh, T.T.N., & Sukumaran, A.T. (2021). Prevalence and molecular characteristics of *Clostridium perfringens* in 'no antibiotics ever' broiler farms. *Poultry Science*, 100(11), 101414. [DOI](https://doi.org/10.1016/j.psj.2021.101414)
+
+5. Poudel, S., **Zhang, L.**, Tabler, G.T., Lin, J., & Zhai, W. (2021). Effects of riboflavin and *Bacillus subtilis* on internal organ development and intestinal health of Ross 708 male broilers with or without coccidial challenge. *Poultry Science*, 100(4), 100973. [DOI](https://doi.org/10.1016/j.psj.2020.12.070)
+
+---
+
+## Earlier Publications (2013–2020)
+
+*Selected publications. See [full CV](cv.qmd) for complete list.*
+
+1. Li, T., Castañeda, C.D., Arick, M., Hsu, C.Y., Kiess, A.S., & **Zhang, L.\*** (2020). Complete genome sequence of multidrug-resistant avian pathogenic *Escherichia coli* strain APEC-O2-MS1170. *Journal of Global Antimicrobial Resistance*, 23, 401-403. [DOI](https://doi.org/10.1016/j.jgar.2020.11.009)
+
+2. Fancher, C.A., **Zhang, L.**, Kiess, A.S., Adhikari, P.A., Dinh, T.T.N., & Sukumaran, A.T. (2020). Avian Pathogenic *Escherichia coli* and *Clostridium perfringens*: Challenges in No Antibiotics Ever Broiler Production and Potential Solutions. *Microorganisms*, 8(10), 1533. [DOI](https://doi.org/10.3390/microorganisms8101533)
+
+3. **Zhang, L.**, Zhu, J.H., Zhang, X., & Cheng, W.H. (2019). The Thioredoxin-Like Family of Selenoproteins: Implications in Aging and Age-Related Degeneration. *Biological Trace Element Research*, 188(1), 189-195. [DOI](https://doi.org/10.1007/s12011-018-1521-9)
+
+4. **Zhang, L.**, Zeng, H., & Cheng, W.H. (2018). Beneficial and paradoxical roles of selenium at nutritional levels of intake in healthspan and longevity. *Free Radical Biology and Medicine*, 127, 3-13. [DOI](https://doi.org/10.1016/j.freeradbiomed.2018.05.067)
+
+5. **Zhang, L.**, Liu, C., Li, D., Zhao, Y., Zhang, X., Zeng, X., Yang, Z., & Li, S. (2013). Antioxidant activity of an exopolysaccharide isolated from *Lactobacillus plantarum* C88. *International Journal of Biological Macromolecules*, 54, 270-275. [DOI](https://doi.org/10.1016/j.ijbiomac.2012.12.037)
+
+6. Li, S., Zhao, Y., **Zhang, L.**, Zhang, X., Huang, L., Li, D., Niu, C., Yang, Z., & Wang, Q. (2012). Antioxidant activity of *Lactobacillus plantarum* strains isolated from traditional Chinese fermented foods. *Food Chemistry*, 135(3), 1914-1919. [DOI](https://doi.org/10.1016/j.foodchem.2012.06.048)
+
+---
+
+## Conference Presentations (Selected)
+
+### 2025
+
+- Jia, L., ..., & **Zhang, L.\*** Pangenome analysis reveals distinct evolutionary clusters and transmission patterns of avian pathogenic *Escherichia coli*. *PSA Annual Meeting*, Raleigh, NC.
+
+- Wang, M., ..., & **Zhang, L.\*** Genomic characterization of bacterial isolates from broiler chicken cecal microbiota. *PSA Annual Meeting*, Raleigh, NC.
+
+- Fugate, H., ..., & **Zhang, L.\*** Assessment of pagP gene function in avian pathogenic *Escherichia coli* pathogenicity. *IPSF*, Atlanta, GA.
+
+### 2024
+
+- Jia, L., ..., & **Zhang, L.\*** High-throughput multilocus sequence typing (MLST) for a large-scale avian *E. coli* study in Mississippi. *IPSF*, Atlanta, GA.
+
+- Pokhrel, D., ..., & **Zhang, L.\*** Genomic analysis of *Campylobacter jejuni* isolated from commercial broiler processing plants. *IPSF*, Atlanta, GA.
+
+### Invited Presentations
+
+- **Zhang, L.** (2025). Identification of novel antigens for a universal vaccine against avian colibacillosis. *MPA Poultry Health Seminar*, Jackson, MS.
+
+- **Zhang, L.** (2023). Use of comparative genomics and in vitro screening approach for the identification of vaccine candidates for food-borne pathogen *Campylobacter jejuni*. [IPPE Research TECHTalk](https://www.youtube.com/watch?v=FwahGK2_lxo), Atlanta, GA.
+
+---
+
+## Data & Code
+
+We are committed to open science. Genome sequences are deposited in NCBI:
+
+| Resource | Description |
+|----------|-------------|
+| NCBI GenBank | Complete genome sequences of APEC and *C. jejuni* isolates |
+| ORCID | [0000-0002-3933-5794](https://orcid.org/0000-0002-3933-5794) |
+
+---
+
+*For reprints or collaboration inquiries, [contact us](mailto:l.zhang@msstate.edu).*

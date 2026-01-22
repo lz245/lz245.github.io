@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lz245.github.io/cv.html</loc>
-    <lastmod>2026-01-21T04:33:43.027Z</lastmod>
+    <lastmod>2026-01-21T21:50:20.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lz245.github.io/publications.html</loc>
-    <lastmod>2026-01-21T04:15:25.184Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lz245.github.io/lab.html</loc>
-    <lastmod>2026-01-21T04:42:08.697Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lz245.github.io/research.html</loc>
-    <lastmod>2026-01-21T04:09:15.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lz245.github.io/teaching.html</loc>
-    <lastmod>2026-01-21T03:51:26.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lz245.github.io/join.html</loc>
-    <lastmod>2026-01-21T03:47:24.080Z</lastmod>
+    <loc>https://lz245.github.io/team-r.html</loc>
+    <lastmod>2026-01-21T21:26:31.000Z</lastmod>
   </url>
   <url>
     <loc>https://lz245.github.io/index.html</loc>
-    <lastmod>2026-01-21T04:08:17.882Z</lastmod>
+    <lastmod>2026-01-21T21:37:29.000Z</lastmod>
   </url>
   <url>
-    <loc>https://lz245.github.io/about.html</loc>
-    <lastmod>2026-01-20T23:24:19.009Z</lastmod>
+    <loc>https://lz245.github.io/join.html</loc>
+    <lastmod>2026-01-21T21:38:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lz245.github.io/teaching.html</loc>
+    <lastmod>2026-01-21T21:36:57.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lz245.github.io/research.html</loc>
+    <lastmod>2026-01-21T21:35:25.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lz245.github.io/team.html</loc>
+    <lastmod>2026-01-22T05:45:28.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lz245.github.io/publications.html</loc>
+    <lastmod>2026-01-21T21:52:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lz245.github.io/team-bak.html</loc>
+    <lastmod>2026-01-22T05:38:44.111Z</lastmod>
   </url>
 </urlset>

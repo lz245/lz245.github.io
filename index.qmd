@@ -1,34 +1,111 @@
-
 ---
-title: "Welcome"
+title: "Zhang Lab"
+subtitle: "Poultry Health & Food Safety Research"
+page-layout: custom
+toc: false
 ---
 
-::: {.columns}
-::: {.column width="35%"}
-![](images/lab_photo.jpg){width=95% style="margin-right: 15rem;"}
+::: {.hero-banner}
+::: {.hero-content}
+# Advancing Poultry Health Through Molecular Innovation
+
+We develop vaccines, rapid diagnostics, and microbiome-based interventions to combat bacterial pathogens, protect poultry health, and ensure food safety.
+
+::: {.hero-buttons}
+[Our Research](research.qmd){.btn-primary}
+[Join the Lab](join.qmd){.btn-secondary}
 :::
 
-::: {.column width="65%"}
-## Li Zhang, PhD  
-**Associate Professor, Poultry Science**  
-Mississippi State University
-
-### Research Focus
-- Poultry gut microbiome & culturomics
-- Avian pathogenic *E. coli* and host–microbe interactions
-- Rapid diagnostics, genomics, and data-driven disease surveillance
-
-### Contact
-📧 lz245@msstate.edu  
-📍 Starkville, MS
 :::
 :::
 
----
+::: {.content-section}
 
-## About the Lab
-The Zhang Lab focuses on understanding microbial communities in poultry and food systems to improve animal health, productivity, and food safety. Our work integrates **culturomics, genomics, microbiome analysis, and data science**.
+## Research Impact
 
-## Impact
-Our lab develops **microbiome- and data-driven tools** to improve poultry health, productivity, and food safety.  
-**Outcomes** include (i) isolating beneficial gut microbes for next-generation probiotics, (ii) identifying mechanisms of avian pathogen virulence and host response, and (iii) deploying scalable monitoring and diagnostic strategies that support disease prevention and antimicrobial stewardship.
+Our laboratory integrates **molecular microbiology**, **pathogen genomics**, and **microbiome science** to address critical challenges in poultry health and food safety. We develop practical tools for pathogen detection, vaccine candidates for disease prevention, and strategies to enhance gut health in commercial poultry.
+
+::: {.impact-grid}
+
+::: {.impact-card}
+### Vaccine Development
+Applying reverse vaccinology and computational immunoinformatics to identify novel vaccine candidates against avian pathogenic *E. coli* and *Campylobacter jejuni*.
+:::
+
+::: {.impact-card}
+### Rapid Diagnostics
+Developing field-deployable LAMP assays and real-time PCR methods for on-site detection of *Clostridium perfringens*, APEC, and other poultry pathogens.
+:::
+  
+::: {.impact-card}
+### Microbiome Science
+Using culturomics and nanopore sequencing to characterize the poultry gut microbiome and identify beneficial bacteria for enhanced health and performance.
+:::
+
+:::
+
+## Funding & Collaboration
+
+Our research is supported by federal agencies committed to food safety and agricultural productivity:
+<br>
+
+::: {.funding-logos}
+![USDA Logo](assets/images/usda-logo.png){width="120" fig-alt="USDA"}
+![USPoultry Logo](assets/images/uspoultry-logo.png){width="120" fig-alt="USPoultry"}
+![MSU Logo](assets/images/msu-logo.png){width="100" fig-alt="Mississippi State University"}
+:::
+
+**Career Funding:** $4.1M as PI | $14.5M total proposals submitted
+
+We actively collaborate with the **USDA Agricultural Research Service**, **Mississippi Poultry Association**, and partners in the **NE-2442 Multi-State Research Group** to translate our research into practice.
+
+## Recent News
+
+::: {.news-list}
+
+- **January 2025** — Dr. Zhang elected Senior Executive of NE-2442 Multi-State Research Group
+- **October 2024** — New publication in *Poultry Science*: *C. jejuni* prevalence in NAE broilers
+- **September 2024** — Manhong Wang receives International Paper Scholarship from Mississippi Poultry Association
+- **July 2024** — Lab presents 6 abstracts at Poultry Science Association Annual Meeting
+- **June 2024** — New USDA ARS grant awarded for APEC/bovine respiratory disease integration ($274K)
+
+:::
+
+## Featured Publications
+
+::: {.publication-highlight}
+
+**Jia, L. et al. (2025)** Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic *Escherichia coli* in poultry. *Journal of Applied Microbiology*. [DOI: 10.1093/jambio/lxaf253](https://doi.org/10.1093/jambio/lxaf253)
+
+**Poudel, S. et al. (2024)** *Campylobacter jejuni* from no antibiotics ever (NAE) broilers: prevalence, antibiotic resistance, and virulence genes analysis. *Poultry Science*. [DOI: 10.1016/j.psj.2024.104380](https://doi.org/10.1016/j.psj.2024.104380)
+
+**Jia, L. et al. (2024)** High-throughput Oxford Nanopore sequencing-based approach for MLST analysis of large-scale avian *Escherichia coli* study in Mississippi. *Poultry Science*. [DOI: 10.1016/j.psj.2024.104067](https://doi.org/10.1016/j.psj.2024.104067)
+
+:::
+
+[View All Publications (67+) →](publications.qmd)
+
+## Lab Philosophy
+
+We believe in **translational research**, **rigorous science**, and **supportive mentorship**. All lab members are expected to:
+
+- Develop practical solutions applicable to the poultry industry
+- Document methods thoroughly for reproducibility  
+- Support each other's professional development
+- Engage with industry partners and the broader scientific community
+
+*Interested in joining our team?* We welcome inquiries from prospective graduate students, postdocs, and undergraduate researchers. [Learn more about opportunities](join.qmd).
+
+:::
+
+::: {.cta-section}
+::: {.cta-content}
+
+### Ready to Make an Impact?
+
+We're looking for motivated researchers passionate about poultry health and food safety.
+
+[Join the Zhang Lab](join.qmd){.btn-cta}
+
+:::
+:::

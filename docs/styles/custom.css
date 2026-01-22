@@ -1,0 +1,34 @@
+/* Additional custom CSS 
+   Note: Most styling is in custom.scss
+   This file is for any browser-specific fixes or 
+   styles that work better in plain CSS */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection highlighting */
+::selection {
+  background: rgba(102, 0, 0, 0.2);
+}
+
+/* Focus states for accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid #660000;
+  outline-offset: 2px;
+}
+
+/* Print optimizations */
+@media print {
+  * {
+    background: white !important;
+    color: black !important;
+  }
+  
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+  }
+}

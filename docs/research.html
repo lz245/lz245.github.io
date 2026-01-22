@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Zhang Lab</title>
+<title>Zhang Lab | Computational Bioinformatics Research – Zhang Lab | Mississippi State University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/favicon.png" rel="icon" type="image/png">
+<link href="./assets/images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -52,7 +52,6 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -68,6 +67,11 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&amp;family=Source+Serif+Pro:wght@400;600&amp;display=swap" rel="stylesheet">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="bioinformatics, microbial genomics, food safety, nanopore sequencing, E. coli, computational biology, Mississippi State University, poultry science">
 <!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3B7N686V5Q"></script>
 <script>
@@ -78,7 +82,14 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles/custom.css">
+<meta property="og:title" content="Zhang Lab | Computational Bioinformatics Research">
+<meta property="og:description" content="Computational and molecular approaches to poultry health and food safety">
+<meta property="og:site_name" content="Zhang Lab - MSU">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:title" content="Zhang Lab | Computational Bioinformatics Research">
+<meta name="twitter:description" content="Computational and molecular approaches to poultry health and food safety">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -89,10 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Zhang Lab</span>
+    <img src="./assets/images/lab-logo.png" alt="Zhang Lab Logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -114,35 +122,35 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./team.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">CV</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./lab.html"> 
-<span class="menu-text">Lab</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./join.html"> 
-<span class="menu-text">Join</span></a>
+<span class="menu-text">Join Us</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.poultry.msstate.edu/people/lz245"> <i class="bi bi-bank" role="img">
+    <a class="nav-link" href="https://www.poultry.msstate.edu/people/lz245"> <i class="bi bi-bank" role="img" aria-label="MSU Profile">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lz245"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/lz245"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:lz245@msstate.edu"> <i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:l.zhang@msstate.edu"> <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -154,36 +162,37 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">On This Page</h2>
    
-  <ul>
-  <li><a href="#research-programs" id="toc-research-programs" class="nav-link active" data-scroll-target="#research-programs">Research Programs</a>
   <ul class="collapse">
-  <li><a href="#poultry-gut-microbiome-culturomics" id="toc-poultry-gut-microbiome-culturomics" class="nav-link" data-scroll-target="#poultry-gut-microbiome-culturomics">Poultry Gut Microbiome &amp; Culturomics</a></li>
-  <li><a href="#avian-pathogenic-e.-coli-and-host-interactions" id="toc-avian-pathogenic-e.-coli-and-host-interactions" class="nav-link" data-scroll-target="#avian-pathogenic-e.-coli-and-host-interactions">Avian Pathogenic <em>E. coli</em> and Host Interactions</a></li>
-  <li><a href="#disease-surveillance-data-driven-diagnostics" id="toc-disease-surveillance-data-driven-diagnostics" class="nav-link" data-scroll-target="#disease-surveillance-data-driven-diagnostics">Disease Surveillance &amp; Data-Driven Diagnostics</a></li>
-  </ul></li>
-  <li><a href="#this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination." id="toc-this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination." class="nav-link" data-scroll-target="#this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination.">This work directly benefits <strong>producers, veterinarians, integrators, and public health stakeholders</strong> by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination.</a></li>
-  <li><a href="#funding-collaborations" id="toc-funding-collaborations" class="nav-link" data-scroll-target="#funding-collaborations">Funding &amp; Collaborations</a></li>
+  <li><a href="#apec" id="toc-apec" class="nav-link active" data-scroll-target="#apec">Program 1: Avian Pathogenic <em>E. coli</em> (APEC) Pathogenesis &amp; Vaccines</a></li>
+  <li><a href="#campylobacter" id="toc-campylobacter" class="nav-link" data-scroll-target="#campylobacter">Program 2: <em>Campylobacter jejuni</em> Control &amp; Vaccine Development</a></li>
+  <li><a href="#diagnostics" id="toc-diagnostics" class="nav-link" data-scroll-target="#diagnostics">Program 3: Rapid Pathogen Detection &amp; Diagnostics</a></li>
+  <li><a href="#microbiome" id="toc-microbiome" class="nav-link" data-scroll-target="#microbiome">Program 4: Poultry Gut Microbiome &amp; Health</a></li>
+  <li><a href="#woodybreast" id="toc-woodybreast" class="nav-link" data-scroll-target="#woodybreast">Program 5: Woody Breast Myopathy Research</a></li>
+  <li><a href="#salmonella" id="toc-salmonella" class="nav-link" data-scroll-target="#salmonella">Program 6: <em>Salmonella</em> &amp; Food Safety</a></li>
+  <li><a href="#methodological-themes" id="toc-methodological-themes" class="nav-link" data-scroll-target="#methodological-themes">Methodological Themes</a></li>
+  <li><a href="#collaborations" id="toc-collaborations" class="nav-link" data-scroll-target="#collaborations">Collaborations</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/research.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Research Programs</h1>
+<p class="subtitle lead">Computational and molecular approaches to poultry health and food safety</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -195,40 +204,342 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="research-programs" class="level2">
-<h2 class="anchored" data-anchor-id="research-programs">Research Programs</h2>
-<section id="poultry-gut-microbiome-culturomics" class="level3">
-<h3 class="anchored" data-anchor-id="poultry-gut-microbiome-culturomics">Poultry Gut Microbiome &amp; Culturomics</h3>
-<p>We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.</p>
-<p><strong>Why it matters</strong> - Reduces production losses by improving gut health and resilience. - Supports antimicrobial stewardship through prevention-focused solutions. - Enables earlier detection and targeted intervention using genomics and analytics.</p>
-<p><strong>Deliverables</strong> - Curated isolate libraries + functional annotations - Validated biomarkers / signatures for health and disease - Field-ready decision support (sampling → sequencing → interpretation pipeline)</p>
+<p>Our research integrates molecular biology, genomics, and microbiology to address fundamental questions in poultry health and food safety. We develop methods that are both scientifically rigorous and practically applicable to real-world surveillance and disease prevention.</p>
+<p><strong>Career Funding:</strong> $4.1M as PI | $14.5M total proposals | Supported by USDA ARS, USDA NIFA, USPoultry, FDA</p>
+<hr>
+<section id="apec" class="level2">
+<h2 class="anchored" data-anchor-id="apec">Program 1: Avian Pathogenic <em>E. coli</em> (APEC) Pathogenesis &amp; Vaccines</h2>
+<div class="program-card">
+<section id="overview" class="level3">
+<h3 class="anchored" data-anchor-id="overview">Overview</h3>
+<p>Avian pathogenic <em>Escherichia coli</em> (APEC) causes colibacillosis, resulting in significant economic losses to the poultry industry worldwide. We apply <strong>reverse vaccinology</strong>, computational immunoinformatics, and molecular characterization to identify novel vaccine candidates and understand host-pathogen interactions.</p>
 </section>
-<section id="avian-pathogenic-e.-coli-and-host-interactions" class="level3">
-<h3 class="anchored" data-anchor-id="avian-pathogenic-e.-coli-and-host-interactions">Avian Pathogenic <em>E. coli</em> and Host Interactions</h3>
-<p>We investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.</p>
-</section>
-<section id="disease-surveillance-data-driven-diagnostics" class="level3">
-<h3 class="anchored" data-anchor-id="disease-surveillance-data-driven-diagnostics">Disease Surveillance &amp; Data-Driven Diagnostics</h3>
-<p>We develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health.</p>
-</section>
-</section>
-<section id="this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination." class="level2">
-<h2 class="anchored" data-anchor-id="this-work-directly-benefits-producers-veterinarians-integrators-and-public-health-stakeholders-by-enabling-actionable-microbial-insights-that-improve-animal-welfare-and-reduce-the-risk-of-foodborne-contamination.">This work directly benefits <strong>producers, veterinarians, integrators, and public health stakeholders</strong> by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination.</h2>
-</section>
-<section id="funding-collaborations" class="level2">
-<h2 class="anchored" data-anchor-id="funding-collaborations">Funding &amp; Collaborations</h2>
+<section id="current-projects" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects">Current Projects</h3>
+<p><strong>Reverse Vaccinology for Universal Vaccine Development</strong></p>
 <ul>
-<li><p>USDA-ARS</p></li>
-<li><p>USDA-NIFA</p></li>
-<li><p>Interdisciplinary collaborations in microbiology, data science, and engineering</p></li>
-<li><p>1</p></li>
-<li><p>2</p></li>
+<li>Identified conserved surface-exposed proteins across diverse APEC lineages using pangenome analysis</li>
+<li>Discovered <em>pagP</em> as a potential universal vaccine candidate through host-pathogen interaction analysis</li>
+<li>Validated vaccine candidates using HD11 macrophage cell line infection models</li>
+<li>Collaborating with USDA ARS for in vivo challenge studies</li>
 </ul>
+<p><strong>High-Throughput APEC Characterization</strong></p>
+<ul>
+<li>Developed Oxford Nanopore sequencing-based MLST (multilocus sequence typing) pipeline</li>
+<li>Characterized &gt;500 APEC isolates from Mississippi broiler operations</li>
+<li>Complete genome sequencing of multidrug-resistant APEC strains</li>
+<li>Phenotypic virulence characterization using embryo lethality assays</li>
+</ul>
+<p><strong>Bioluminescent Imaging for Pathogenesis Studies</strong></p>
+<ul>
+<li>Constructed bioluminescent APEC strains for real-time infection tracking</li>
+<li>Evaluating transmission dynamics and tissue colonization patterns</li>
+</ul>
+</section>
+<section id="funding" class="level3">
+<h3 class="anchored" data-anchor-id="funding">Funding</h3>
+<ul>
+<li>USDA ARS (2025–2026): “Immunological Characteristics of Poultry Vaccinated/Challenged with APEC” — $184,269 (PI)</li>
+<li>USDA ARS (2024–2029): “Characterization of APEC Field Isolates and Vaccine Targets” — $317,000/year (Co-PI)</li>
+<li>USDA ARS (2024–2028): “Integrating Genomics, Epidemiology, and Diagnostics” — $274,480 (PI)</li>
+</ul>
+</section>
+<section id="key-publications" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications">Key Publications</h3>
+<ul>
+<li>Jia et al.&nbsp;(2025) <em>Journal of Applied Microbiology</em> — pagP vaccine candidate identification</li>
+<li>Jia et al.&nbsp;(2024) <em>Poultry Science</em> — High-throughput MLST analysis</li>
+<li>Jia et al.&nbsp;(2024) <em>Microbiology Resource Announcements</em> — Complete genome sequences</li>
+<li>Li et al.&nbsp;(2021) <em>Poultry Science</em> — In ovo probiotic effects on APEC incidence</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="campylobacter" class="level2">
+<h2 class="anchored" data-anchor-id="campylobacter">Program 2: <em>Campylobacter jejuni</em> Control &amp; Vaccine Development</h2>
+<div class="program-card">
+<section id="overview-1" class="level3">
+<h3 class="anchored" data-anchor-id="overview-1">Overview</h3>
+<p><em>Campylobacter jejuni</em> is a leading cause of bacterial foodborne illness worldwide. We focus on understanding prevalence patterns, antimicrobial resistance, and developing effective vaccines to reduce colonization in poultry—the primary reservoir for human infections.</p>
+</section>
+<section id="current-projects-1" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects-1">Current Projects</h3>
+<p><strong>Vaccine Candidate Identification</strong></p>
+<ul>
+<li>In silico prediction of novel vaccine candidates using reverse vaccinology</li>
+<li>Expression analysis of candidate genes during avian cell line infection</li>
+<li>Identified BtuB-based immune intervention strategies</li>
+<li>Developing cytokine response profiles for vaccine efficacy assessment</li>
+</ul>
+<p><strong>Prevalence &amp; Antimicrobial Resistance Surveillance</strong></p>
+<ul>
+<li>Characterized <em>C. jejuni</em> from “No Antibiotics Ever” (NAE) broiler operations</li>
+<li>Complete genome sequencing of isolates revealing AMR and virulence gene profiles</li>
+<li>Aerotolerance studies linking survival mechanisms to food safety risks</li>
+<li>Multi-locus sequence typing for epidemiological tracking</li>
+</ul>
+<p><strong>Biofilm &amp; Survival Mechanisms</strong></p>
+<ul>
+<li>Temperature effects on biofilm formation under aerobic and microaerobic conditions</li>
+<li>Role of biofilms in processing plant contamination</li>
+<li>Developing intervention strategies based on survival mechanisms</li>
+</ul>
+</section>
+<section id="funding-1" class="level3">
+<h3 class="anchored" data-anchor-id="funding-1">Funding</h3>
+<ul>
+<li>MSU MAFES (2023–2025): “Universal Vaccine Against <em>C. jejuni</em> Colonization in Poultry” — $100,000 (PI)</li>
+<li>USPoultry (2020–2021): “Vaccine Candidates for <em>C. jejuni</em>” — $55,000 (PI)</li>
+<li>MSU MAFES (2019): “Prevalence of <em>Campylobacter</em> in Mississippi Poultry” — $49,400 (PI)</li>
+</ul>
+</section>
+<section id="key-publications-1" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications-1">Key Publications</h3>
+<ul>
+<li>Poudel et al.&nbsp;(2024) <em>Poultry Science</em> — NAE broiler prevalence and AMR</li>
+<li>Poudel et al.&nbsp;(2024) <em>World Poultry Science Journal</em> — Vaccine development review</li>
+<li>Pokhrel et al.&nbsp;(2024) <em>Poultry Science</em> — Temperature and biofilm formation</li>
+<li>Poudel et al.&nbsp;(2023) <em>Poultry Science</em> — Vaccine candidate gene expression</li>
+<li>Poudel et al.&nbsp;(2022) <em>Microbiology Spectrum</em> — AMR characterization</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="diagnostics" class="level2">
+<h2 class="anchored" data-anchor-id="diagnostics">Program 3: Rapid Pathogen Detection &amp; Diagnostics</h2>
+<div class="program-card">
+<section id="overview-2" class="level3">
+<h3 class="anchored" data-anchor-id="overview-2">Overview</h3>
+<p>Early and accurate detection of poultry pathogens is critical for disease management. We develop <strong>field-deployable molecular diagnostic tools</strong> including LAMP (loop-mediated isothermal amplification) assays and real-time PCR methods for rapid, on-site pathogen detection.</p>
+</section>
+<section id="current-projects-2" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects-2">Current Projects</h3>
+<p><strong>LAMP Assay Development for <em>Clostridium perfringens</em></strong></p>
+<ul>
+<li>Optimized LAMP assay for detecting toxigenic <em>C. perfringens</em> causing necrotic enteritis</li>
+<li>Evaluated multiple DNA extraction methods for field compatibility</li>
+<li>Developing portable device protocols for on-farm use</li>
+<li>Target: Field-deployable quantitative detection system</li>
+</ul>
+<p><strong>Multiplex Real-Time PCR for APEC</strong></p>
+<ul>
+<li>Developed probe-based multiplex qPCR for rapid APEC detection</li>
+<li>TaqMan assays for profiling pro-inflammatory cytokine responses during infection</li>
+<li>Validation across diverse sample types (tissue, litter, environmental)</li>
+</ul>
+<p><strong>Oxford Nanopore Sequencing Applications</strong></p>
+<ul>
+<li>High-throughput serotyping and MLST workflows</li>
+<li>Species-level microbiome characterization using long-read amplicon sequencing</li>
+<li>Real-time sequencing protocols for outbreak investigation</li>
+</ul>
+</section>
+<section id="funding-2" class="level3">
+<h3 class="anchored" data-anchor-id="funding-2">Funding</h3>
+<ul>
+<li>MSU MAFES (2021–2022): “Field-Deployable Detection System for <em>C. perfringens</em>” — $49,900 (PI)</li>
+<li>MSU MAFES (2021): “Novel LAMP Assay for Rapid <em>C. perfringens</em> Detection” — $49,800 (PI)</li>
+</ul>
+</section>
+<section id="key-publications-2" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications-2">Key Publications</h3>
+<ul>
+<li>Chaudhary et al.&nbsp;(2024) <em>Journal of Applied Poultry Research</em> — LAMP assay optimization</li>
+<li>Chaudhary et al.&nbsp;(2025) <em>Journal of Applied Poultry Research</em> — DNA extraction methods</li>
+<li>Ramachandran et al.&nbsp;(2021) — Multiplex real-time PCR validation</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="microbiome" class="level2">
+<h2 class="anchored" data-anchor-id="microbiome">Program 4: Poultry Gut Microbiome &amp; Health</h2>
+<div class="program-card">
+<section id="overview-3" class="level3">
+<h3 class="anchored" data-anchor-id="overview-3">Overview</h3>
+<p>The gut microbiome plays critical roles in poultry health, disease resistance, and production efficiency. We apply <strong>culturomics</strong> and <strong>metagenomic approaches</strong> to characterize microbial communities and identify beneficial bacteria for probiotic development.</p>
+</section>
+<section id="current-projects-3" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects-3">Current Projects</h3>
+<p><strong>Culturomics for Probiotic Discovery</strong></p>
+<ul>
+<li>Targeted cultivation and isolation of probiotic candidates from broiler ceca</li>
+<li>Genomic characterization of beneficial bacterial isolates</li>
+<li>Evaluating probiotic effects on pathogen colonization resistance</li>
+<li>Developing core beneficial microbiome profiles for enhanced gut health</li>
+</ul>
+<p><strong>Microbiome-Disease Associations</strong></p>
+<ul>
+<li>Cecal microbiota contributions to woody breast myopathy development</li>
+<li>Gut microbiome changes associated with <em>Eimeria</em> challenge</li>
+<li>Effects of dietary interventions (riboflavin, <em>Bacillus subtilis</em>) on microbiome composition</li>
+</ul>
+<p><strong>Spoilage Bacteria Characterization</strong></p>
+<ul>
+<li>Culture-free metagenomic analysis of chicken and catfish spoilage bacteria</li>
+<li>Full-length 16S rRNA nanopore sequencing for species-level identification</li>
+<li>Microbiome dynamics during refrigerated storage</li>
+</ul>
+</section>
+<section id="funding-3" class="level3">
+<h3 class="anchored" data-anchor-id="funding-3">Funding</h3>
+<ul>
+<li>MSU MAFES (2025–2027): “Culturomics for Core Beneficial Microbiomes” — $100,000 (PI)</li>
+<li>MSU MAFES (2025–2027): “Chicken Spoilage Dynamics: Metagenomics &amp; ML” — $100,000 (Co-PI)</li>
+<li>USDA ARS (2024–2025): “Catfish Spoilage Bacteria Culturomics” — $55,000 (PI)</li>
+</ul>
+</section>
+<section id="key-publications-3" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications-3">Key Publications</h3>
+<ul>
+<li>Wang et al.&nbsp;(2025) <em>Poultry Science</em> — Culturomics for probiotic isolation</li>
+<li>Zhang &amp; Zhang et al.&nbsp;(2021) <em>Poultry Science</em> — Cecal microbiota and woody breast</li>
+<li>Jia et al.&nbsp;(2022) <em>Poultry Science</em> — Gut microbiota in Eimeria-challenged broilers</li>
+<li>Poudel et al.&nbsp;(2022) <em>Journal of Animal Science and Technology</em> — Dietary interventions</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="woodybreast" class="level2">
+<h2 class="anchored" data-anchor-id="woodybreast">Program 5: Woody Breast Myopathy Research</h2>
+<div class="program-card">
+<section id="overview-4" class="level3">
+<h3 class="anchored" data-anchor-id="overview-4">Overview</h3>
+<p>Woody breast myopathy is a significant quality defect in commercial broilers causing substantial economic losses. We investigate the <strong>molecular mechanisms</strong>, <strong>gut microbiome associations</strong>, and <strong>nutritional interventions</strong> to understand and mitigate this condition.</p>
+</section>
+<section id="current-projects-4" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects-4">Current Projects</h3>
+<p><strong>Gene Expression &amp; Metabolic Pathways</strong></p>
+<ul>
+<li>Differential expression of fatty acid metabolism genes in affected breast muscle</li>
+<li>Inflammation pathway involvement in woody breast development</li>
+<li>Changes in intestinal mucus gene expression</li>
+<li>Integrating transcriptomics with phenotypic characterization</li>
+</ul>
+<p><strong>Microbiome-Myopathy Connections</strong></p>
+<ul>
+<li>Cecal microbiota differences between affected and unaffected birds</li>
+<li>Effects of dietary bacitracin and <em>Bacillus subtilis</em> on myopathy incidence</li>
+<li>Gut health interventions to reduce woody breast occurrence</li>
+</ul>
+<p><strong>Nutritional Interventions</strong></p>
+<ul>
+<li>Riboflavin and probiotic supplementation effects</li>
+<li>Internal organ and skeletal muscle development patterns</li>
+<li><em>Eimeria</em> challenge interactions with woody breast incidence</li>
+</ul>
+</section>
+<section id="key-publications-4" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications-4">Key Publications</h3>
+<ul>
+<li>Jia et al.&nbsp;(2025) <em>Avian Diseases</em> — Fatty acid metabolism gene expression</li>
+<li>Jia et al.&nbsp;(2024) <em>Poultry Science</em> — Intestinal mucus gene expression changes</li>
+<li>Zhang &amp; Zhang et al.&nbsp;(2021) <em>Poultry Science</em> — Cecal microbiota contributions</li>
+<li>Jia et al.&nbsp;(2022) <em>Poultry Science</em> — Dietary interventions and Eimeria challenge</li>
+<li>Jia et al.&nbsp;(2022) <em>Poultry Science</em> — Internal organ development patterns</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="salmonella" class="level2">
+<h2 class="anchored" data-anchor-id="salmonella">Program 6: <em>Salmonella</em> &amp; Food Safety</h2>
+<div class="program-card">
+<section id="overview-5" class="level3">
+<h3 class="anchored" data-anchor-id="overview-5">Overview</h3>
+<p><em>Salmonella</em> contamination remains a major food safety concern in poultry production. We investigate <strong>transmission dynamics</strong>, <strong>biofilm formation</strong>, and <strong>environmental survival</strong> to develop effective control strategies.</p>
+</section>
+<section id="current-projects-5" class="level3">
+<h3 class="anchored" data-anchor-id="current-projects-5">Current Projects</h3>
+<p><strong>Vertical Transmission in Turkeys</strong></p>
+<ul>
+<li>Constructed bioluminescent <em>Salmonella</em> Reading strains for tracking</li>
+<li>Evaluating vertical transmission potential in broiler breeders</li>
+<li>Real-time imaging of colonization patterns</li>
+</ul>
+<p><strong>Biofilm Formation &amp; Environmental Persistence</strong></p>
+<ul>
+<li>Biofilm development on processing plant surfaces under fluidic shear stress</li>
+<li>Expression of biofilm-associated genes under environmental stress</li>
+<li>Surface material effects on <em>Salmonella</em> biofilm formation</li>
+</ul>
+</section>
+<section id="funding-4" class="level3">
+<h3 class="anchored" data-anchor-id="funding-4">Funding</h3>
+<ul>
+<li>USPoultry (2022–2023): “Vertical Transmission of <em>Salmonella</em> Reading in Turkeys” — $75,861 (PI)</li>
+</ul>
+</section>
+<section id="key-publications-5" class="level3">
+<h3 class="anchored" data-anchor-id="key-publications-5">Key Publications</h3>
+<ul>
+<li>Isah et al.&nbsp;(2024) <em>Microbiology Spectrum</em> — Bioluminescent <em>Salmonella</em> Reading</li>
+<li>Isah et al.&nbsp;(2024) <em>Poultry Science</em> — Vertical transmission evaluation</li>
+<li>Thames et al.&nbsp;(2025) <em>Journal of Applied Microbiology</em> — Biofilm gene expression</li>
+<li>Thames et al.&nbsp;(2023) <em>Foods</em> — Biofilm formation under shear stress</li>
+</ul>
+</section>
+</div>
+<hr>
+</section>
+<section id="methodological-themes" class="level2">
+<h2 class="anchored" data-anchor-id="methodological-themes">Methodological Themes</h2>
+<p>Across all programs, our work emphasizes:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 35%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Theme</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Translational Research</strong></td>
+<td>Methods designed for real-world implementation in poultry operations</td>
+</tr>
+<tr class="even">
+<td><strong>Molecular Diagnostics</strong></td>
+<td>LAMP, qPCR, and sequencing-based detection tools</td>
+</tr>
+<tr class="odd">
+<td><strong>Genomics</strong></td>
+<td>Whole-genome sequencing, pangenome analysis, MLST</td>
+</tr>
+<tr class="even">
+<td><strong>One Health</strong></td>
+<td>Connecting poultry health to food safety and public health</td>
+</tr>
+<tr class="odd">
+<td><strong>Open Science</strong></td>
+<td>Genome sequences deposited in NCBI; methods published in detail</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="collaborations" class="level2">
+<h2 class="anchored" data-anchor-id="collaborations">Collaborations</h2>
+<p>We actively collaborate with:</p>
+<ul>
+<li><strong>USDA Agricultural Research Service</strong> — Poultry Research Unit, Mississippi State</li>
+<li><strong>Mississippi Poultry Association</strong> — Industry partnerships</li>
+<li><strong>Multi-State Research Group NE-2442</strong> — “Mechanisms and Mitigation of Bacterial Pathogens in Poultry”</li>
+<li><strong>University partners</strong> — Auburn, Arkansas, Oklahoma State, Tennessee</li>
+</ul>
+<hr>
+<p><em>Interested in collaborating? <a href="mailto:l.zhang@msstate.edu">Contact us</a> to discuss potential projects.</em></p>
 
 
 </section>
 
-</main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -658,25 +969,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© {year} Zhang Lab • Mississippi State University</p>
+<p>© 2025 Zhang Lab | Mississippi State University<br> Department of Poultry Science</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/research.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<p><a href="https://www.cals.msstate.edu/">College of Agriculture and Life Sciences</a></p>
+</div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="mailto:lz245@msstate.edu">
-<p>Contact</p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://github.com/lz245">
-<p>GitHub</p>
-</a>
-  </li>  
-</ul>
-    </div>
+<p>Built with <a href="https://quarto.org">Quarto</a></p>
+</div>
   </div>
 </footer>
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Teaching – Zhang Lab</title>
+<title>Zhang Lab | Computational Bioinformatics Research – Zhang Lab | Mississippi State University</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/favicon.png" rel="icon" type="image/png">
+<link href="./assets/images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -52,7 +52,6 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -68,6 +67,11 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&amp;family=Source+Serif+Pro:wght@400;600&amp;display=swap" rel="stylesheet">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="bioinformatics, microbial genomics, food safety, nanopore sequencing, E. coli, computational biology, Mississippi State University, poultry science">
 <!-- Google tag (gtag.js) -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3B7N686V5Q"></script>
 <script>
@@ -78,7 +82,14 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles/custom.css">
+<meta property="og:title" content="Zhang Lab | Computational Bioinformatics Research">
+<meta property="og:description" content="Courses, workshops, and student mentorship">
+<meta property="og:site_name" content="Zhang Lab - MSU">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:title" content="Zhang Lab | Computational Bioinformatics Research">
+<meta name="twitter:description" content="Courses, workshops, and student mentorship">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -89,10 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Zhang Lab</span>
+    <img src="./assets/images/lab-logo.png" alt="Zhang Lab Logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -114,35 +122,35 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./team.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./teaching.html" aria-current="page"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">CV</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./lab.html"> 
-<span class="menu-text">Lab</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./join.html"> 
-<span class="menu-text">Join</span></a>
+<span class="menu-text">Join Us</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.poultry.msstate.edu/people/lz245"> <i class="bi bi-bank" role="img">
+    <a class="nav-link" href="https://www.poultry.msstate.edu/people/lz245"> <i class="bi bi-bank" role="img" aria-label="MSU Profile">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lz245"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/lz245"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:lz245@msstate.edu"> <i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:l.zhang@msstate.edu"> <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -154,36 +162,37 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">On This Page</h2>
    
-  <ul>
-  <li><a href="#courses-taught" id="toc-courses-taught" class="nav-link active" data-scroll-target="#courses-taught">Courses Taught</a>
   <ul class="collapse">
-  <li><a href="#advanced-techniques-in-agricultural-microbiome-analysis" id="toc-advanced-techniques-in-agricultural-microbiome-analysis" class="nav-link" data-scroll-target="#advanced-techniques-in-agricultural-microbiome-analysis">Advanced Techniques in Agricultural Microbiome Analysis</a></li>
-  <li><a href="#microbiome-principles-methods" id="toc-microbiome-principles-methods" class="nav-link" data-scroll-target="#microbiome-principles-methods">Microbiome Principles &amp; Methods</a></li>
-  </ul></li>
+  <li><a href="#teaching-philosophy" id="toc-teaching-philosophy" class="nav-link active" data-scroll-target="#teaching-philosophy">Teaching Philosophy</a></li>
+  <li><a href="#current-courses" id="toc-current-courses" class="nav-link" data-scroll-target="#current-courses">Current Courses</a></li>
+  <li><a href="#guest-lectures" id="toc-guest-lectures" class="nav-link" data-scroll-target="#guest-lectures">Guest Lectures</a></li>
   <li><a href="#mentoring" id="toc-mentoring" class="nav-link" data-scroll-target="#mentoring">Mentoring</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">1</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2</a></li>
+  <li><a href="#student-awards" id="toc-student-awards" class="nav-link" data-scroll-target="#student-awards">Student Awards</a></li>
+  <li><a href="#mentoring-philosophy" id="toc-mentoring-philosophy" class="nav-link" data-scroll-target="#mentoring-philosophy">Mentoring Philosophy</a></li>
+  <li><a href="#workshops-invited-presentations" id="toc-workshops-invited-presentations" class="nav-link" data-scroll-target="#workshops-invited-presentations">Workshops &amp; Invited Presentations</a></li>
+  <li><a href="#resources-for-students" id="toc-resources-for-students" class="nav-link" data-scroll-target="#resources-for-students">Resources for Students</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/teaching.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Teaching</h1>
+<h1 class="title">Teaching &amp; Mentoring</h1>
+<p class="subtitle lead">Courses, workshops, and student mentorship</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -195,36 +204,362 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="courses-taught" class="level2">
-<h2 class="anchored" data-anchor-id="courses-taught">Courses Taught</h2>
-<section id="advanced-techniques-in-agricultural-microbiome-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="advanced-techniques-in-agricultural-microbiome-analysis">Advanced Techniques in Agricultural Microbiome Analysis</h3>
-<p>Graduate-level course covering experimental design, sequencing, and bioinformatics for agricultural microbiomes.</p>
+<section id="teaching-philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-philosophy">Teaching Philosophy</h2>
+<p>I am committed to training the next generation of scientists in both molecular and computational approaches to poultry science and food safety. My teaching emphasizes <strong>hands-on laboratory skills</strong>, <strong>reproducible methods</strong>, and <strong>real-world applications</strong> of molecular biology and microbiome analysis.</p>
+<hr>
 </section>
-<section id="microbiome-principles-methods" class="level3">
-<h3 class="anchored" data-anchor-id="microbiome-principles-methods">Microbiome Principles &amp; Methods</h3>
-<p>Hands-on course introducing microbiome sampling, DNA extraction, sequencing, and data analysis.</p>
+<section id="current-courses" class="level2">
+<h2 class="anchored" data-anchor-id="current-courses">Current Courses</h2>
+<section id="poads-8123-advanced-techniques-in-agricultural-microbiome-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="poads-8123-advanced-techniques-in-agricultural-microbiome-analysis">PO/ADS 8123: Advanced Techniques in Agricultural Microbiome Analysis</h3>
+<div class="course-card">
+<p><strong>Level:</strong> Graduate (Ph.D./M.S.)<br>
+<strong>Credits:</strong> 3<br>
+<strong>Semester:</strong> Fall (2024, 2025)<br>
+<strong>Format:</strong> Lecture + Laboratory</p>
+<p><strong>Description:</strong> This advanced course covers cutting-edge computational and molecular methods for analyzing microbiome data in agricultural systems. Students learn 16S rRNA analysis, shotgun metagenomics, culturomics approaches, and nanopore sequencing-based characterization methods.</p>
+<p><strong>Learning Objectives:</strong></p>
+<ul>
+<li>Design and implement microbiome studies in poultry and agricultural contexts</li>
+<li>Process and analyze 16S rRNA and metagenomic sequence data</li>
+<li>Apply culturomics approaches for bacterial isolation and characterization</li>
+<li>Critically evaluate microbiome literature and experimental designs</li>
+</ul>
+<p><strong>Prerequisites:</strong> Graduate standing; basic knowledge of microbiology</p>
+</div>
+</section>
+<section id="pofnh-45126512-poultry-product-safety-sanitation" class="level3">
+<h3 class="anchored" data-anchor-id="pofnh-45126512-poultry-product-safety-sanitation">PO/FNH 4512/6512: Poultry Product Safety &amp; Sanitation</h3>
+<div class="course-card">
+<p><strong>Level:</strong> Undergraduate/Graduate<br>
+<strong>Credits:</strong> 3<br>
+<strong>Semester:</strong> Spring (2021–2025)<br>
+<strong>Format:</strong> Lecture + Laboratory<br>
+<strong>Student Rating:</strong> 4.8/5.0</p>
+<p><strong>Description:</strong> Comprehensive coverage of food safety principles in poultry production and processing. Topics include HACCP, pathogen control, sanitation procedures, regulatory compliance, and emerging food safety technologies.</p>
+<p><strong>Topics Include:</strong></p>
+<ul>
+<li>HACCP principles and implementation</li>
+<li>Pathogen biology (<em>Salmonella</em>, <em>Campylobacter</em>, <em>Listeria</em>, <em>E. coli</em>)</li>
+<li>Sanitation and antimicrobial interventions</li>
+<li>FDA/USDA regulatory framework</li>
+<li>Emerging detection technologies</li>
+</ul>
+<p><strong>Prerequisites:</strong> Junior standing or instructor permission</p>
+</div>
+</section>
+<section id="po-45146514-poultry-processing" class="level3">
+<h3 class="anchored" data-anchor-id="po-45146514-poultry-processing">PO 4514/6514: Poultry Processing</h3>
+<div class="course-card">
+<p><strong>Level:</strong> Undergraduate/Graduate<br>
+<strong>Credits:</strong> 3<br>
+<strong>Semester:</strong> Fall 2023<br>
+<strong>Format:</strong> Lecture + Plant Visits</p>
+<p><strong>Description:</strong> Overview of modern poultry processing operations from live receiving through further processing. Emphasis on food safety integration throughout the production chain.</p>
+<p><strong>Topics Include:</strong></p>
+<ul>
+<li>Processing plant operations and flow</li>
+<li>Slaughter and evisceration procedures</li>
+<li>Chilling and antimicrobial treatments</li>
+<li>Cut-up and deboning operations</li>
+<li>Quality control and food safety</li>
+</ul>
+</div>
+</section>
+<section id="po-8990-molecular-techniques-in-poultry-research" class="level3">
+<h3 class="anchored" data-anchor-id="po-8990-molecular-techniques-in-poultry-research">PO 8990: Molecular Techniques in Poultry Research</h3>
+<div class="course-card">
+<p><strong>Level:</strong> Graduate<br>
+<strong>Credits:</strong> Variable<br>
+<strong>Semester:</strong> Fall (2019, 2022)<br>
+<strong>Format:</strong> Laboratory-intensive</p>
+<p><strong>Description:</strong> Hands-on training in molecular biology techniques commonly used in poultry research. Students gain practical experience with DNA/RNA extraction, PCR, qPCR, sequencing library preparation, and data analysis.</p>
+<p><strong>Techniques Covered:</strong></p>
+<ul>
+<li>DNA/RNA extraction from diverse sample types</li>
+<li>Conventional and real-time PCR optimization</li>
+<li>LAMP assay development</li>
+<li>Nanopore sequencing library preparation</li>
+<li>Bioinformatics analysis pipelines</li>
+</ul>
+</div>
 <hr>
 </section>
 </section>
+<section id="guest-lectures" class="level2">
+<h2 class="anchored" data-anchor-id="guest-lectures">Guest Lectures</h2>
+<p>I regularly provide guest lectures in courses across departments:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 25%">
+<col style="width: 44%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Course</th>
+<th>Topic</th>
+<th>Department</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>PO 4033 Diseases of Poultry</td>
+<td>Bacterial pathogens</td>
+<td>Basic Sciences</td>
+</tr>
+<tr class="even">
+<td>ADS 4993/6993 Animal Microbiome</td>
+<td>Measuring and interpreting microbiome</td>
+<td>Animal &amp; Dairy Sciences</td>
+</tr>
+<tr class="odd">
+<td>FNH 8773 Human Microbiome and Health</td>
+<td>Microbiome analysis methods</td>
+<td>Food Science, Nutrition &amp; Health Promotion</td>
+</tr>
+<tr class="even">
+<td>CVM 8973 Scientific Writing</td>
+<td>Manuscript preparation</td>
+<td>Basic Sciences (Participating instructor 2020–2024)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
 <section id="mentoring" class="level2">
 <h2 class="anchored" data-anchor-id="mentoring">Mentoring</h2>
+<section id="current-graduate-students-major-advisor" class="level3">
+<h3 class="anchored" data-anchor-id="current-graduate-students-major-advisor">Current Graduate Students (Major Advisor)</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Student</th>
+<th>Program</th>
+<th>Research Topic</th>
+<th>Expected Graduation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sunita Shrestha</td>
+<td>Ph.D.</td>
+<td>Pathogen genomics &amp; vaccines</td>
+<td>2027</td>
+</tr>
+<tr class="even">
+<td>Manhong Wang</td>
+<td>Ph.D.</td>
+<td>Culturomics &amp; gut microbiome</td>
+<td>2026</td>
+</tr>
+<tr class="odd">
+<td>Rita Ugoh</td>
+<td>M.S.</td>
+<td>Catfish spoilage bacteria</td>
+<td>2026</td>
+</tr>
+<tr class="even">
+<td>Haley Nabors</td>
+<td>M.S.</td>
+<td><em>C. perfringens</em> AMR</td>
+<td>2025</td>
+</tr>
+<tr class="odd">
+<td>Hailey Fugate</td>
+<td>M.S.</td>
+<td>APEC vaccines &amp; <em>Campylobacter</em></td>
+<td>Fall 2025</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="graduate-committee-service" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-committee-service">Graduate Committee Service</h3>
+<p>I currently serve or have served on <strong>35+ graduate committees</strong> across multiple departments including Poultry Science, Food Science, Animal and Dairy Sciences, and Basic Sciences.</p>
+</section>
+<section id="alumni-placement" class="level3">
+<h3 class="anchored" data-anchor-id="alumni-placement">Alumni Placement</h3>
+<div class="alumni-outcomes">
+<p><strong>Ph.D.&nbsp;Graduates (Major Advisor)</strong></p>
 <ul>
-<li>Graduate students (MS &amp; PhD)</li>
-<li>Undergraduate researchers</li>
-<li>Visiting scholars</li>
+<li>Dr.&nbsp;Diksha Pokhrel (2024) → Industry position</li>
+<li>Dr.&nbsp;Hudson T. Thames (2024) → Industry position<br>
+</li>
+<li>Dr.&nbsp;Sabin Poudel (2023) → Postdoctoral position; <em>2022 PSA Student of the Year</em>, <em>MAFES Excellent Research Award</em></li>
+<li>Dr.&nbsp;Linan Jia (2021) → Research position</li>
+</ul>
+<p><strong>M.S. Graduates (Major Advisor)</strong></p>
+<ul>
+<li>Abubakar Isah (2024) → Ph.D.&nbsp;program</li>
+<li>Priyanka Devkota (2022) → <em>PSA Certificate of Excellence</em>, <em>International Paper Scholarship 1st place</em></li>
+<li>Deepa Chaudhary (2022) → <em>PSA Certificate of Excellence</em></li>
+<li>Tianmin Li (2020) → <em>International Paper Scholarship 2nd place</em></li>
+</ul>
+<p><strong>Undergraduate Researchers</strong></p>
+<ul>
+<li>Mackenzie Ripper → Veterinary School, NC State (2024)</li>
+<li>Mary Beth Tingle → <em>1st place, MSU Undergraduate Research Symposium (2023)</em></li>
+<li>Dylan Lesak → M.S. at MSU (completed 2023)</li>
+<li>Multiple students → Ph.D.&nbsp;and M.S. programs</li>
+</ul>
+</div>
+<hr>
+</section>
+</section>
+<section id="student-awards" class="level2">
+<h2 class="anchored" data-anchor-id="student-awards">Student Awards</h2>
+<p>My students have received numerous awards and scholarships:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 27%">
+<col style="width: 40%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Student</th>
+<th>Award</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2025</td>
+<td>Sunita Shrestha</td>
+<td>Lallemand Animal Nutrition Scholarship Finalist</td>
+</tr>
+<tr class="even">
+<td>2025</td>
+<td>Hailey Fugate</td>
+<td>SCAD Travel Award ($250), IPPE Travel Award ($500)</td>
+</tr>
+<tr class="odd">
+<td>2024</td>
+<td>Manhong Wang</td>
+<td>International Paper Scholarship ($1,500)</td>
+</tr>
+<tr class="even">
+<td>2024</td>
+<td>Jiddu Joseph</td>
+<td>AAAP Scholarship</td>
+</tr>
+<tr class="odd">
+<td>2023</td>
+<td>Sabin Poudel</td>
+<td>MAFES Excellent Research Award ($2,000), CALS Student Research Ambassador</td>
+</tr>
+<tr class="even">
+<td>2023</td>
+<td>Diksha Pokhrel</td>
+<td>IFT Mid-South Section Scholarship ($2,000), PSA Travel Award ($1,500)</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>Sabin Poudel</td>
+<td>PSA Student of The Year ($1,000)</td>
+</tr>
+<tr class="even">
+<td>2022</td>
+<td>Priyanka Devkota</td>
+<td>PSA Certificate of Excellence, International Paper Scholarship 1st place ($2,000)</td>
+</tr>
+<tr class="odd">
+<td>2021</td>
+<td>Sabin Poudel</td>
+<td>PSA Certificate of Excellence, International Paper Scholarship 1st place ($5,000)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="mentoring-philosophy" class="level2">
+<h2 class="anchored" data-anchor-id="mentoring-philosophy">Mentoring Philosophy</h2>
+<p>My approach to mentoring includes:</p>
+<ol type="1">
+<li><strong>Individual Development Plans (IDPs)</strong> — All graduate students create and regularly update career development plans</li>
+<li><strong>Weekly one-on-one meetings</strong> — Regular meetings to discuss research progress and challenges</li>
+<li><strong>Professional development</strong> — Support for conference attendance, scientific writing, and career exploration</li>
+<li><strong>Hands-on training</strong> — As a molecular biologist, I personally train students in laboratory techniques</li>
+<li><strong>Collaborative environment</strong> — Lab members support each other and contribute to departmental activities</li>
+<li><strong>Work-life balance</strong> — Expectations that respect personal well-being</li>
+</ol>
+<section id="laboratory-training" class="level3">
+<h3 class="anchored" data-anchor-id="laboratory-training">Laboratory Training</h3>
+<p>I provide hands-on training to graduate students throughout the department in molecular biology techniques including:</p>
+<ul>
+<li>DNA/RNA extraction and purification</li>
+<li>PCR, qPCR, and LAMP assay development</li>
+<li>Sequencing library preparation</li>
+<li>Bioinformatics analysis</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="workshops-invited-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="workshops-invited-presentations">Workshops &amp; Invited Presentations</h2>
+<section id="invited-presentations" class="level3">
+<h3 class="anchored" data-anchor-id="invited-presentations">Invited Presentations</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Topic</th>
+<th>Venue</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2025</td>
+<td>Identification of novel antigens for a universal vaccine against avian colibacillosis</td>
+<td>MPA Poultry Health Seminar, Jackson, MS</td>
+</tr>
+<tr class="even">
+<td>2023</td>
+<td>Comparative genomics for <em>Campylobacter jejuni</em> vaccine candidates</td>
+<td><a href="https://www.youtube.com/watch?v=FwahGK2_lxo">IPPE Research TECHTalk</a>, Atlanta, GA</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+</section>
+<section id="resources-for-students" class="level2">
+<h2 class="anchored" data-anchor-id="resources-for-students">Resources for Students</h2>
+<section id="recommended-learning-resources" class="level3">
+<h3 class="anchored" data-anchor-id="recommended-learning-resources">Recommended Learning Resources</h3>
+<p><strong>Molecular Biology:</strong></p>
+<ul>
+<li>Molecular Cloning: A Laboratory Manual (Green &amp; Sambrook)</li>
+<li>Current Protocols in Molecular Biology</li>
+</ul>
+<p><strong>Bioinformatics:</strong></p>
+<ul>
+<li>Bioinformatics Data Skills (Vince Buffalo)</li>
+<li>R for Data Science (Hadley Wickham)</li>
+</ul>
+<p><strong>Microbiome Analysis:</strong></p>
+<ul>
+<li>QIIME2 tutorials (<a href="https://qiime2.org">qiime2.org</a>)</li>
+<li>DADA2 pipeline documentation</li>
 </ul>
 </section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section">1</h2>
-</section>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">2</h2>
+<section id="useful-tools" class="level3">
+<h3 class="anchored" data-anchor-id="useful-tools">Useful Tools</h3>
+<ul>
+<li><a href="https://usegalaxy.org/">Galaxy</a> — Web-based analysis platform</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/">NCBI databases</a> — Sequence databases and BLAST</li>
+<li><a href="https://posit.co/">RStudio</a> — IDE for R programming</li>
+</ul>
+<hr>
+<p><em>Questions about courses or interested in research opportunities? <a href="./join.html">See our opportunities page</a> or <a href="mailto:l.zhang@msstate.edu">contact me directly</a>.</em></p>
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -654,25 +989,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© {year} Zhang Lab • Mississippi State University</p>
+<p>© 2025 Zhang Lab | Mississippi State University<br> Department of Poultry Science</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/lz245/lz245.github.io/edit/main/teaching.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/lz245/lz245.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<p><a href="https://www.cals.msstate.edu/">College of Agriculture and Life Sciences</a></p>
+</div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="mailto:lz245@msstate.edu">
-<p>Contact</p>
-</a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://github.com/lz245">
-<p>GitHub</p>
-</a>
-  </li>  
-</ul>
-    </div>
+<p>Built with <a href="https://quarto.org">Quarto</a></p>
+</div>
   </div>
 </footer>
 

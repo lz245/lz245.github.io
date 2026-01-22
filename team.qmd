@@ -1,0 +1,326 @@
+---
+title: "Lab Team"
+subtitle: "Meet the researchers driving our science"
+toc: true
+toc-depth: 2
+---
+
+## Principal Investigator
+
+::: {.member-card}
+
+![Li Zhang Photo](assets/images/team/li-zhang.jpg){.member-photo fig-alt="Dr. Li Zhang"}
+
+### Li Zhang, Ph.D.
+
+**Assistant Professor**  
+Department of Poultry Science  
+Mississippi State University
+
+Dr. Li Zhang is an Assistant Professor specializing in molecular microbiology, pathogen genomics, and food safety. His research focuses on developing vaccines against avian pathogenic *E. coli* and *Campylobacter jejuni*, rapid molecular diagnostic tools (LAMP, qPCR), and understanding the poultry gut microbiome through culturomics and nanopore sequencing. He has secured over $4 million in research funding as PI and published 67+ peer-reviewed articles.
+
+**Education**
+
+- Ph.D. in Nutrition, Mississippi State University, 2017
+- Ph.D. in Agriculture Biological Environmental & Energy Engineering, Jilin University, China, 2013
+- M.S. in Agricultural Product Processing & Storage Engineering, Northeast Agricultural University, China, 2005
+- B.S. in Food Science and Engineering, Northeast Agricultural University, China, 2002
+
+[📧](mailto:l.zhang@msstate.edu) 
+[ORCID](https://orcid.org/0000-0002-3933-5794)
+[MSU Profile](https://www.poultry.msstate.edu/people/lz245)
+[GitHub](https://github.com/lz245)
+
+:::
+
+---
+
+## Graduate Students
+
+::: {.team-grid}
+
+::: {.member-card}
+
+![Sunita Shrestha Photo](assets/images/team/sunita-shrestha.jpg){.member-photo fig-alt="Sunita Shrestha"}
+
+### Sunita Shrestha
+
+**Ph.D. Student**
+
+**Research:** Poultry pathogen genomics and vaccine development
+
+*Expected graduation: 2027*
+
+Sunita is a Ph.D. student working on pathogen genomics and vaccine development strategies for poultry pathogens. She was a 2025 Lallemand Animal Nutrition Scholarship Finalist.
+
+:::
+
+::: {.member-card}
+
+![Manhong Wang Photo](assets/images/team/manhong-wang.jpg){.member-photo fig-alt="Manhong Wang"}
+
+### Manhong Wang
+
+**Ph.D. Student**
+
+**Research:** Culturomics and poultry gut microbiome analysis
+
+*Expected graduation: 2026*
+
+Manhong is a Ph.D. student developing culturomics approaches to isolate and characterize beneficial bacteria from the poultry gut microbiome. He received the 2024 International Paper Scholarship ($1,500) from the Mississippi Poultry Association.
+
+:::
+
+::: {.member-card}
+
+![Rita Ugoh Photo](assets/images/team/rita-ugoh.jpg){.member-photo fig-alt="Rita Ugoh"}
+
+### Rita Ugoh
+
+**M.S. Student**
+
+**Research:** Catfish spoilage bacteria characterization using culturomics
+
+*Expected graduation: 2026*
+
+Rita is an M.S. student working on characterizing spoilage bacteria in catfish using culturomics approaches for the Mississippi Center for Food Safety.
+
+:::
+
+::: {.member-card}
+
+![Haley Nabors Photo](assets/images/team/haley-nabors.jpg){.member-photo fig-alt="Haley Nabors"}
+
+### Haley Nabors
+
+**M.S. Student**
+
+**Research:** *Clostridium perfringens* antimicrobial resistance
+
+*Expected graduation: 2025*
+
+Haley is an M.S. student investigating antibiotic resistance and multi-drug resistance patterns in *Clostridium perfringens* isolated from diseased chickens.
+
+:::
+
+::: {.member-card}
+
+![Hailey Fugate Photo](assets/images/team/hailey-fugate.jpg){.member-photo fig-alt="Hailey Fugate"}
+
+### Hailey Fugate
+
+**M.S. Student**
+
+**Research:** APEC vaccine validation and *Campylobacter* challenge models
+
+*Expected graduation: Fall 2025*
+
+Hailey is an M.S. student working on validating vaccine candidates against avian pathogenic *E. coli* using embryo and broiler chick challenge models, and optimizing *Campylobacter jejuni* colonization challenge models for food safety intervention assessment. She received the 2025 SCAD Travel Award ($250) and IPPE Travel Award ($500).
+
+:::
+
+:::
+
+---
+
+## Undergraduate Researchers
+
+::: {.team-grid}
+
+::: {.member-card}
+
+![Sulav Jung Thapa Photo](assets/images/team/sulav-thapa.jpg){.member-photo fig-alt="Sulav Jung Thapa"}
+
+### Sulav Jung Thapa
+
+**Undergraduate Research Assistant**
+
+**Research:** AI-based health monitoring in poultry farms
+
+Sulav is an undergraduate researcher working on image recognition and processing using OpenMV modules (color and N-IR cameras) for health and disease monitoring in farms. He received the 2024 USDA ARS undergraduate summer internship and the 2024 ORED URCD award (#342).
+
+:::
+
+::: {.member-card}
+
+### Zoe Lohf
+
+**Undergraduate Research Assistant**
+
+Zoe joined the lab in 2025 as an undergraduate research assistant supporting laboratory operations.
+
+:::
+
+::: {.member-card}
+
+### Keaura Mearday
+
+**Undergraduate Research Assistant**
+
+Keaura joined the lab in 2025 as an undergraduate research assistant supporting laboratory operations.
+
+:::
+
+:::
+
+---
+
+## Alumni
+
+Our alumni have gone on to successful careers in academia, government, and industry.
+
+### Ph.D. Alumni
+
+::: {.alumni-grid}
+
+::: {.alumni-card}
+
+**Dr. Diksha Pokhrel** (Ph.D. 2024)  
+*Thesis: Campylobacter jejuni biofilm formation, aerotolerance, and genomic characterization*  
+**Awards:** 2023 IFT Mid-South Section Scholarship ($2,000), PSA Travel Award ($1,500)  
+**Now:** Industry position
+
+:::
+
+::: {.alumni-card}
+
+**Dr. Hudson T. Thames** (Ph.D. 2024)  
+*Thesis: Salmonella biofilm formation and environmental stress responses*  
+**Awards:** 2023 PSA Travel Award ($1,500)  
+**Now:** Industry position
+
+:::
+
+::: {.alumni-card}
+
+**Dr. Sabin Poudel** (Ph.D. 2023)  
+*Thesis: Campylobacter jejuni vaccine candidate identification and characterization*  
+**Awards:** 2022 PSA Student of The Year ($1,000), 2023 MAFES Excellent Research Award ($2,000), CALS Student Research Ambassador, International Paper Scholarship 1st place ($5,000)  
+**Now:** Postdoctoral position
+
+:::
+
+::: {.alumni-card}
+
+**Dr. Linan Jia** (Ph.D. 2021)  
+*Thesis: APEC pathogenesis and woody breast myopathy gene expression*  
+**Now:** Research position
+
+:::
+
+:::
+
+### M.S. Alumni
+
+::: {.alumni-grid}
+
+::: {.alumni-card}
+
+**Abubakar Shitu Isah** (M.S. 2024)  
+*Thesis: Bioluminescent Salmonella Reading construction and vertical transmission evaluation*  
+**Now:** Ph.D. program
+
+:::
+
+::: {.alumni-card}
+
+**Priyanka Devkota** (M.S. 2022)  
+*Thesis: APEC virulence characterization and antimicrobial resistance*  
+**Awards:** PSA Certificate of Excellence, International Paper Scholarship 1st place ($2,000)
+
+:::
+
+::: {.alumni-card}
+
+**Deepa Chaudhary** (M.S. 2022)  
+*Thesis: LAMP assay optimization for Clostridium perfringens detection*  
+**Awards:** PSA Certificate of Excellence in Genetics and Molecular Biology
+
+:::
+
+::: {.alumni-card}
+
+**Tianmin Li** (M.S. 2020)  
+*Thesis: In ovo probiotic effects on APEC incidence in broilers*  
+**Awards:** International Paper Scholarship 2nd place ($2,000)
+
+:::
+
+:::
+
+### Undergraduate Alumni
+
+::: {.alumni-grid}
+
+::: {.alumni-card}
+
+**Mackenzie Ripper** (2020–2022)  
+CALS/MAFES Undergraduate Research Scholars Program  
+**Now:** Veterinary School, NC State University (Fall 2024)
+
+:::
+
+::: {.alumni-card}
+
+**Mary Beth Tingle** (2022–2023)  
+CALS/MAFES Undergraduate Research Scholars Program  
+**Award:** 1st place ($250), MSU 2023 Spring Undergraduate Research Symposium (Biological Sciences)
+
+:::
+
+::: {.alumni-card}
+
+**Javad A'arabi** (2022)  
+Honors Thesis Student
+
+:::
+
+::: {.alumni-card}
+
+**Dylan Lesak** (2021)  
+William M. White Special Project Award recipient  
+**Now:** Completed M.S. at MSU (2023)
+
+:::
+
+::: {.alumni-card}
+
+**Sadie White** (2019)  
+CALS/MAFES Undergraduate Research Scholars Program
+
+:::
+
+::: {.alumni-card}
+
+**Hailey Fugate** (2023)  
+USDA ARS undergraduate summer internship  
+**Now:** M.S. student in our lab
+
+:::
+
+:::
+
+---
+
+## Lab Photos
+
+::: {.lab-gallery}
+
+<!-- Add your lab photos here -->
+<!-- ![Lab group at PSA 2024](assets/images/team/lab-psa-2024.jpg){fig-alt="Lab group photo at PSA conference"} -->
+
+<!-- ![Lab meeting](assets/images/team/lab-meeting.jpg){fig-alt="Weekly lab meeting"} -->
+
+<!-- ![Sequencing in action](assets/images/team/lab-sequencing.jpg){fig-alt="MinION sequencing setup"} -->
+
+![Lab group at PSA 2025](assets/images/team/lab-psa-2025.jpg){fig-alt="Lab group photo at conference"}
+
+![Summer BBQ 2025](assets/images/team/lab-bbq-2025.jpg){fig-alt="Lab social event"}
+
+![Sequencing in action](assets/images/team/lab-sequencing.jpg){fig-alt="MinION sequencing setup"}
+
+:::
+
+---
+
+*Interested in joining our team? [See current opportunities](join.qmd)*

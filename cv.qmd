@@ -1,26 +1,174 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Academic CV"
+toc: false
 ---
 
-[📄 Download Full CV (PDF)](cv/CV.pdf)
+::: {.cv-header}
 
-------------------------------------------------------------------------
+# Li Zhang, Ph.D.
+
+**Assistant Professor**  
+Department of Poultry Science  
+Mississippi State University
+
+[📧 l.zhang@msstate.edu](mailto:l.zhang@msstate.edu) | 
+[🌐 MSU Profile](https://www.poultry.msstate.edu/people/lz245) | 
+[ORCID](https://orcid.org/0000-0002-3933-5794)
+
+:::
+
+---
+
+::: {.cv-download}
+
+[📄 Download Full CV (PDF)](assets/cv/cv.pdf){.btn-download}
+
+*Last updated: January 2025*
+
+:::
+
+---
 
 ## Education
 
--   PhD, Microbiology
--   MS, …
--   BS, …
+| Degree | Field | Institution | Year |
+|--------|-------|-------------|------|
+| Ph.D. | Nutrition | Mississippi State University | 2017 |
+| Ph.D. | Agriculture Biological Environmental & Energy Engineering | Jilin University, China | 2013 |
+| M.S. | Agricultural Product Processing & Storage Engineering | Northeast Agricultural University, China | 2005 |
+| B.S. | Food Science and Engineering | Northeast Agricultural University, China | 2002 |
 
-## Appointments
+---
 
--   Associate Professor, Poultry Science, Mississippi State University
+## Professional Appointments
 
-## Grants
+| Position | Institution | Years |
+|----------|-------------|-------|
+| Assistant Professor | Dept. of Poultry Science, Mississippi State University | 2023–present |
+| Assistant Research Professor | Dept. of Poultry Science, Mississippi State University | 2018–2023 |
+| Postdoctoral Associate | Dept. of Food Science, Nutrition & Health Promotion, MSU | 2018 |
+| Research Fellow | Jilin Academy of Agricultural Science, China | 2006–2013 |
 
--   USDA-NIFA
--   USDA-ARS
+---
+
+## Research Interests
+
+- Avian pathogenic *Escherichia coli* (APEC) pathogenesis and vaccine development
+- *Campylobacter jejuni* prevalence, antimicrobial resistance, and vaccine candidates
+- Rapid molecular detection of poultry pathogens (LAMP, qPCR)
+- Poultry gut microbiome analysis and culturomics
+- Woody breast myopathy mechanisms in broilers
+- Food safety and pathogen genomics
+
+---
+
+## Selected Publications
+
+*See [full publication list](publications.qmd) for complete bibliography (67+ peer-reviewed publications)*
+
+1. Jia, L., Ye, X., Arick, M.A., Hsu, C.Y., Evans, J.D., Robinson, K., Adhikari, P., **Zhang, L.*** (2025). Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic *Escherichia coli* in poultry. *Journal of Applied Microbiology*, 136(10), lxaf253.
+
+2. Poudel, S., Pokhrel, D., Zhang, X., Sukumaran, A.T., Adhikari, P., Kiess, A.S., Macklin, K.S., **Zhang, L.*** (2024). *Campylobacter jejuni* from no antibiotics ever (NAE) broilers: prevalence, antibiotic resistance, and virulence genes analysis. *Poultry Science*, 103(12), 104380.
+
+3. Jia, L., Arick, M.A., Hsu, C.Y., Peterson, D.G., Evans, J.D., Robinson, K., Sukumaran, A.T., Ramachandran, R., Adhikari, P., **Zhang, L.*** (2024). High-throughput Oxford Nanopore sequencing-based approach for MLST analysis of large-scale avian *Escherichia coli* study. *Poultry Science*, 103(10), 104067.
+
+4. Poudel, S., Jia, L., Arick, M.A., Hsu, C.Y., Thrash, A., Sukumaran, A.T., Adhikari, P., Kiess, A.S., **Zhang, L.*** (2023). In silico prediction and expression analysis of vaccine candidate genes of *Campylobacter jejuni*. *Poultry Science*, 102(5), 102592.
+
+5. **Zhang, X.**, **Zhang, L.**, Li, X., White, S., Campbell, Y.L., Ruiz, A.A., To, K.V., Zhai, W., Schilling, M.W. (2021). Cecal microbiota contribute to the development of woody breast myopathy. *Poultry Science*, 100(6), 101124.
+
+---
+
+## Grants & Funding
+
+**Career Total:** $4.1M as PI; $14.5M total proposals submitted
+
+### Active Grants
+
+| Year | Agency | Title | Role | Amount |
+|------|--------|-------|------|--------|
+| 2025–2026 | USDA ARS | Immunological Characteristics of Poultry Vaccinated/Challenged with APEC | PI | $184,269 |
+| 2024–2028 | USDA ARS | Integrating Genomics, Epidemiology, and Diagnostics for Poultry Respiratory Diseases | PI | $274,480 |
+| 2024–2029 | USDA ARS | Characterization of APEC Field Isolates and Vaccine Targets | Co-PI | $317,000/yr |
+| 2023–2028 | USDA ARS | Developing Detection and Modeling Tools for Animal Disease Epidemiology | Co-PI | $100,507 |
+| 2024–2026 | USDA NIFA Hatch | Mechanisms and Mitigation of Bacterial Pathogens in Poultry (NE-2442) | PI | Ongoing |
+| 2023–2025 | MSU MAFES | Universal Vaccine Against *Campylobacter jejuni* Colonization in Poultry | PI | $100,000 |
+
+### Completed Grants
+
+| Year | Agency | Title | Role | Amount |
+|------|--------|-------|------|--------|
+| 2022–2023 | USPoultry | Vertical Transmission of *Salmonella* Reading in Turkeys | PI | $75,861 |
+| 2020–2021 | USPoultry | Vaccine Candidates for *Campylobacter jejuni* | PI | $55,000 |
+| 2019–2024 | USDA ARS | Performance of Poultry Vaccinated/Challenged with APEC | PI | $384,455 |
+| 2019–2024 | USDA ARS | Alternative *Mycoplasma gallisepticum* Vaccination Regimens | PI | $346,878 |
+
+---
+
+## Teaching
+
+- **PO/ADS 8123**: Advanced Techniques in Agricultural Microbiome Analysis (Graduate, Fall 2024, 2025)
+- **PO/FNH 4512/6512**: Poultry Product Safety & Sanitation (Undergraduate/Graduate, Spring 2021–2025)
+- **PO 4514/6514**: Poultry Processing (Undergraduate/Graduate, Fall 2023)
+- **PO 8990**: Molecular Techniques in Poultry Research (Graduate, Fall 2019, 2022)
+
+*See [Teaching page](teaching.qmd) for course descriptions and materials*
+
+---
+
+## Mentoring
+
+### Current Graduate Students (Major Advisor)
+
+- Sunita Shrestha (Ph.D., expected 2027)
+- Manhong Wang (Ph.D., expected 2026)
+- Rita Ugoh (M.S., expected 2026)
+- Haley Nabors (M.S., expected 2025)
+- Hailey Fugate (M.S., expected Fall 2025)
+
+### Completed (Major Advisor)
+
+- 4 Ph.D. graduates (placements: CDC, South Dakota State University, industry)
+- 5 M.S. graduates (placements: Ph.D. programs at Cornell, Georgia Tech; industry)
+- 15+ undergraduate researchers mentored
+
+---
 
 ## Service
 
--   Reviewer for *Applied and Environmental Microbiology*, *Poultry Science*
+### Professional Leadership
+
+- **Senior Executive**, NE-2442 Multi-State Research Group (2025–present)
+- **Section Editor**, *Poultry Science* Journal (2025–present)
+- **Secretary**, NE-1942 Multi-State Research Group (2024)
+
+### Journal Reviewing
+
+*Poultry Science* (18 manuscripts), *Microbiology Spectrum*, *Food Science & Nutrition*, *Journal of Applied Poultry Research*, *PLoS ONE*, and others
+
+### University Service
+
+- ABSL2 Farm Facility Supervisor
+- Building Committee Chair
+- Faculty Search Committee Chair (2024)
+- Faculty Representative to MSU Library
+
+---
+
+## Awards & Honors
+
+| Year | Award | Organization |
+|------|-------|--------------|
+| 2025 | Elected Senior Executive | NE-2442 Multi-State |
+| 2023, 2025 | Nominated for Excellence in Research | MAFES |
+| 2022 | Nominated Emerging Research Scholar | MSU ORED |
+| 2021 | William M. White Special Project Award | MSU |
+| 2020 | Nominated New Innovator Award | Food & Agriculture Research |
+
+---
+
+::: {.cv-download}
+
+[📄 Download Full CV (PDF)](assets/cv/cv.pdf){.btn-download}
+
+:::

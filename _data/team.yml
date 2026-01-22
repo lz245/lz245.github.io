@@ -1,0 +1,230 @@
+# Team Member Data - Zhang Lab
+# Photos should be placed in: assets/images/team/
+
+principal_investigator:
+  - name: "Li Zhang"
+    title: "Principal Investigator"
+    role: "pi"
+    position: "Assistant Professor"
+    department: "Department of Poultry Science"
+    affiliation: "Mississippi State University"
+    photo: "assets/images/team/li-zhang.jpg"
+    email: "l.zhang@msstate.edu"
+    orcid: "0000-0002-3933-5794"
+    google_scholar: "https://scholar.google.com/citations?user=XXXXXXXX"
+    github: "lz245"
+    website: "https://www.poultry.msstate.edu/people/lz245"
+    bio: |
+      Dr. Li Zhang is an Assistant Professor in the Department of Poultry Science 
+      specializing in molecular microbiology, pathogen genomics, and food safety. 
+      His research focuses on developing vaccines against avian pathogenic E. coli 
+      and Campylobacter jejuni, rapid molecular diagnostic tools, and understanding 
+      the poultry gut microbiome. He has secured over $4 million in research funding 
+      as PI and published 67+ peer-reviewed articles.
+    education:
+      - degree: "Ph.D. in Nutrition"
+        institution: "Mississippi State University"
+        year: 2017
+      - degree: "Ph.D. in Agriculture Biological Environmental & Energy Engineering"
+        institution: "Jilin University, China"
+        year: 2013
+      - degree: "M.S. in Agricultural Product Processing & Storage Engineering"
+        institution: "Northeast Agricultural University, China"
+        year: 2005
+      - degree: "B.S. in Food Science and Engineering"
+        institution: "Northeast Agricultural University, China"
+        year: 2002
+
+graduate_students:
+  - name: "Sunita Shrestha"
+    title: "Ph.D. Student"
+    role: "phd"
+    position: "Graduate Research Assistant"
+    photo: "assets/images/team/sunita-shrestha.jpg"
+    email: ""
+    research_focus: "Poultry pathogen genomics and vaccine development"
+    expected_graduation: "2027"
+    bio: |
+      Sunita is a Ph.D. student working on pathogen genomics and vaccine 
+      development strategies for poultry pathogens. She was a 2025 Lallemand 
+      Animal Nutrition Scholarship Finalist.
+
+  - name: "Manhong Wang"
+    title: "Ph.D. Student"
+    role: "phd"
+    position: "Graduate Research Assistant"
+    photo: "assets/images/team/manhong-wang.jpg"
+    email: ""
+    research_focus: "Culturomics and poultry gut microbiome analysis"
+    expected_graduation: "2026"
+    bio: |
+      Manhong is a Ph.D. student developing culturomics approaches to isolate 
+      and characterize beneficial bacteria from the poultry gut microbiome. 
+      He received the 2024 International Paper Scholarship from the Mississippi 
+      Poultry Association.
+
+  - name: "Rita Ugoh"
+    title: "M.S. Student"
+    role: "ms"
+    position: "Graduate Research Assistant"
+    photo: "assets/images/team/rita-ugoh.jpg"
+    email: ""
+    research_focus: "Catfish spoilage bacteria characterization"
+    expected_graduation: "2026"
+    bio: |
+      Rita is an M.S. student working on characterizing spoilage bacteria 
+      in catfish using culturomics approaches.
+
+  - name: "Haley Nabors"
+    title: "M.S. Student"
+    role: "ms"
+    position: "Graduate Research Assistant"
+    photo: "assets/images/team/haley-nabors.jpg"
+    email: ""
+    research_focus: "Clostridium perfringens antimicrobial resistance"
+    expected_graduation: "2025"
+    bio: |
+      Haley is an M.S. student investigating antibiotic resistance patterns 
+      in Clostridium perfringens isolated from diseased chickens.
+
+  - name: "Hailey Fugate"
+    title: "M.S. Student"
+    role: "ms"
+    position: "Graduate Research Assistant"
+    photo: "assets/images/team/hailey-fugate.jpg"
+    email: ""
+    research_focus: "APEC vaccine validation and Campylobacter challenge models"
+    expected_graduation: "Fall 2025"
+    bio: |
+      Hailey is an M.S. student working on validating vaccine candidates against 
+      avian pathogenic E. coli and optimizing Campylobacter colonization challenge 
+      models. She received the 2025 SCAD and IPPE Travel Awards.
+
+undergraduate_students:
+  - name: "Sulav Jung Thapa"
+    title: "Undergraduate Researcher"
+    role: "undergrad"
+    position: "Undergraduate Research Assistant"
+    photo: "assets/images/team/sulav-thapa.jpg"
+    email: ""
+    research_focus: "AI-based health monitoring in poultry farms"
+    bio: |
+      Sulav is an undergraduate researcher working on image recognition and 
+      processing using OpenMV modules for health and disease monitoring in farms. 
+      He received the 2024 USDA ARS summer internship and ORED URCD award.
+
+  - name: "Zoe Lohf"
+    title: "Undergraduate Researcher"
+    role: "undergrad"
+    position: "Undergraduate Research Assistant"
+    photo: "assets/images/team/placeholder.jpg"
+    email: ""
+    research_focus: "Laboratory research assistant"
+    bio: |
+      Zoe joined the lab in 2025 as an undergraduate research assistant.
+
+  - name: "Keaura Mearday"
+    title: "Undergraduate Researcher"
+    role: "undergrad"
+    position: "Undergraduate Research Assistant"
+    photo: "assets/images/team/placeholder.jpg"
+    email: ""
+    research_focus: "Laboratory research assistant"
+    bio: |
+      Keaura joined the lab in 2025 as an undergraduate research assistant.
+
+alumni:
+  # Ph.D. Alumni
+  - name: "Dr. Diksha Pokhrel"
+    title: "Former Ph.D. Student"
+    role: "alumni"
+    graduation_year: 2024
+    thesis_title: "Campylobacter jejuni biofilm formation, aerotolerance, and genomic characterization"
+    current_position: "Industry position"
+    photo: "assets/images/team/diksha-pokhrel.jpg"
+
+  - name: "Dr. Hudson T. Thames"
+    title: "Former Ph.D. Student"
+    role: "alumni"
+    graduation_year: 2024
+    thesis_title: "Salmonella biofilm formation and environmental stress responses"
+    current_position: "Industry position"
+    photo: "assets/images/team/hudson-thames.jpg"
+
+  - name: "Dr. Sabin Poudel"
+    title: "Former Ph.D. Student"
+    role: "alumni"
+    graduation_year: 2023
+    thesis_title: "Campylobacter jejuni vaccine candidate identification and characterization"
+    current_position: "Postdoctoral position"
+    photo: "assets/images/team/sabin-poudel.jpg"
+
+  - name: "Dr. Linan Jia"
+    title: "Former Ph.D. Student"
+    role: "alumni"
+    graduation_year: 2021
+    thesis_title: "APEC pathogenesis and woody breast myopathy gene expression"
+    current_position: "Research position"
+    photo: "assets/images/team/linan-jia.jpg"
+
+  # M.S. Alumni
+  - name: "Abubakar Isah"
+    title: "Former M.S. Student"
+    role: "alumni"
+    graduation_year: 2024
+    thesis_title: "Bioluminescent Salmonella Reading construction and vertical transmission"
+    current_position: "Ph.D. program"
+    photo: "assets/images/team/abubakar-isah.jpg"
+
+  - name: "Priyanka Devkota"
+    title: "Former M.S. Student"
+    role: "alumni"
+    graduation_year: 2022
+    thesis_title: "APEC virulence characterization and antimicrobial resistance"
+    current_position: ""
+    photo: "assets/images/team/priyanka-devkota.jpg"
+
+  - name: "Deepa Chaudhary"
+    title: "Former M.S. Student"
+    role: "alumni"
+    graduation_year: 2022
+    thesis_title: "LAMP assay optimization for Clostridium perfringens detection"
+    current_position: ""
+    photo: "assets/images/team/deepa-chaudhary.jpg"
+
+  - name: "Tianmin Li"
+    title: "Former M.S. Student"
+    role: "alumni"
+    graduation_year: 2020
+    thesis_title: "In ovo probiotic effects on APEC incidence in broilers"
+    current_position: ""
+    photo: "assets/images/team/tianmin-li.jpg"
+
+  # Notable Undergraduate Alumni
+  - name: "Mackenzie Ripper"
+    title: "Former Undergraduate Researcher"
+    role: "alumni"
+    graduation_year: 2022
+    current_position: "Veterinary School, NC State University (2024)"
+    photo: ""
+
+  - name: "Mary Beth Tingle"
+    title: "Former Undergraduate Researcher"
+    role: "alumni"
+    graduation_year: 2023
+    current_position: "Won 1st place at MSU 2023 Spring Undergraduate Research Symposium"
+    photo: ""
+
+  - name: "Javad A'arabi"
+    title: "Former Honors Thesis Student"
+    role: "alumni"
+    graduation_year: 2022
+    current_position: ""
+    photo: ""
+
+  - name: "Dylan Lesak"
+    title: "Former Undergraduate Researcher"
+    role: "alumni"
+    graduation_year: 2021
+    current_position: "Completed M.S. at MSU (2023)"
+    photo: ""

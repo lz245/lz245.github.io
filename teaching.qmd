@@ -1,24 +1,242 @@
 ---
-title: "Teaching"
+title: "Teaching & Mentoring"
+subtitle: "Courses, workshops, and student mentorship"
+toc: true
+toc-depth: 2
 ---
 
-## Courses Taught
+## Teaching Philosophy
 
-### Advanced Techniques in Agricultural Microbiome Analysis
+I am committed to training the next generation of scientists in both molecular and computational approaches to poultry science and food safety. My teaching emphasizes **hands-on laboratory skills**, **reproducible methods**, and **real-world applications** of molecular biology and microbiome analysis.
 
-Graduate-level course covering experimental design, sequencing, and bioinformatics for agricultural microbiomes.
+---
 
-### Microbiome Principles & Methods
+## Current Courses
 
-Hands-on course introducing microbiome sampling, DNA extraction, sequencing, and data analysis.
+### PO/ADS 8123: Advanced Techniques in Agricultural Microbiome Analysis
 
-------------------------------------------------------------------------
+::: {.course-card}
+
+**Level:** Graduate (Ph.D./M.S.)  
+**Credits:** 3  
+**Semester:** Fall (2024, 2025)  
+**Format:** Lecture + Laboratory
+
+**Description:** This advanced course covers cutting-edge computational and molecular methods for analyzing microbiome data in agricultural systems. Students learn 16S rRNA analysis, shotgun metagenomics, culturomics approaches, and nanopore sequencing-based characterization methods.
+
+**Learning Objectives:**
+
+- Design and implement microbiome studies in poultry and agricultural contexts
+- Process and analyze 16S rRNA and metagenomic sequence data
+- Apply culturomics approaches for bacterial isolation and characterization
+- Critically evaluate microbiome literature and experimental designs
+
+**Prerequisites:** Graduate standing; basic knowledge of microbiology
+
+:::
+
+### PO/FNH 4512/6512: Poultry Product Safety & Sanitation
+
+::: {.course-card}
+
+**Level:** Undergraduate/Graduate  
+**Credits:** 3  
+**Semester:** Spring (2021–2025)  
+**Format:** Lecture + Laboratory  
+**Student Rating:** 4.8/5.0
+
+**Description:** Comprehensive coverage of food safety principles in poultry production and processing. Topics include HACCP, pathogen control, sanitation procedures, regulatory compliance, and emerging food safety technologies.
+
+**Topics Include:**
+
+- HACCP principles and implementation
+- Pathogen biology (*Salmonella*, *Campylobacter*, *Listeria*, *E. coli*)
+- Sanitation and antimicrobial interventions
+- FDA/USDA regulatory framework
+- Emerging detection technologies
+
+**Prerequisites:** Junior standing or instructor permission
+
+:::
+
+### PO 4514/6514: Poultry Processing
+
+::: {.course-card}
+
+**Level:** Undergraduate/Graduate  
+**Credits:** 3  
+**Semester:** Fall 2023  
+**Format:** Lecture + Plant Visits
+
+**Description:** Overview of modern poultry processing operations from live receiving through further processing. Emphasis on food safety integration throughout the production chain.
+
+**Topics Include:**
+
+- Processing plant operations and flow
+- Slaughter and evisceration procedures
+- Chilling and antimicrobial treatments
+- Cut-up and deboning operations
+- Quality control and food safety
+
+:::
+
+### PO 8990: Molecular Techniques in Poultry Research
+
+::: {.course-card}
+
+**Level:** Graduate  
+**Credits:** Variable  
+**Semester:** Fall (2019, 2022)  
+**Format:** Laboratory-intensive
+
+**Description:** Hands-on training in molecular biology techniques commonly used in poultry research. Students gain practical experience with DNA/RNA extraction, PCR, qPCR, sequencing library preparation, and data analysis.
+
+**Techniques Covered:**
+
+- DNA/RNA extraction from diverse sample types
+- Conventional and real-time PCR optimization
+- LAMP assay development
+- Nanopore sequencing library preparation
+- Bioinformatics analysis pipelines
+
+:::
+
+---
+
+## Guest Lectures
+
+I regularly provide guest lectures in courses across departments:
+
+| Course | Topic | Department |
+|--------|-------|------------|
+| PO 4033 Diseases of Poultry | Bacterial pathogens | Basic Sciences |
+| ADS 4993/6993 Animal Microbiome | Measuring and interpreting microbiome | Animal & Dairy Sciences |
+| FNH 8773 Human Microbiome and Health | Microbiome analysis methods | Food Science, Nutrition & Health Promotion |
+| CVM 8973 Scientific Writing | Manuscript preparation | Basic Sciences (Participating instructor 2020–2024) |
+
+---
 
 ## Mentoring
 
--   Graduate students (MS & PhD)
--   Undergraduate researchers
--   Visiting scholars
+### Current Graduate Students (Major Advisor)
 
-## 1
-## 2
+| Student | Program | Research Topic | Expected Graduation |
+|---------|---------|----------------|---------------------|
+| Sunita Shrestha | Ph.D. | Pathogen genomics & vaccines | 2027 |
+| Manhong Wang | Ph.D. | Culturomics & gut microbiome | 2026 |
+| Rita Ugoh | M.S. | Catfish spoilage bacteria | 2026 |
+| Haley Nabors | M.S. | *C. perfringens* AMR | 2025 |
+| Hailey Fugate | M.S. | APEC vaccines & *Campylobacter* | Fall 2025 |
+
+### Graduate Committee Service
+
+I currently serve or have served on **35+ graduate committees** across multiple departments including Poultry Science, Food Science, Animal and Dairy Sciences, and Basic Sciences.
+
+### Alumni Placement
+
+::: {.alumni-outcomes}
+
+**Ph.D. Graduates (Major Advisor)**
+
+- Dr. Diksha Pokhrel (2024) → Industry position
+- Dr. Hudson T. Thames (2024) → Industry position  
+- Dr. Sabin Poudel (2023) → Postdoctoral position; *2022 PSA Student of the Year*, *MAFES Excellent Research Award*
+- Dr. Linan Jia (2021) → Research position
+
+**M.S. Graduates (Major Advisor)**
+
+- Abubakar Isah (2024) → Ph.D. program
+- Priyanka Devkota (2022) → *PSA Certificate of Excellence*, *International Paper Scholarship 1st place*
+- Deepa Chaudhary (2022) → *PSA Certificate of Excellence*
+- Tianmin Li (2020) → *International Paper Scholarship 2nd place*
+
+**Undergraduate Researchers**
+
+- Mackenzie Ripper → Veterinary School, NC State (2024)
+- Mary Beth Tingle → *1st place, MSU Undergraduate Research Symposium (2023)*
+- Dylan Lesak → M.S. at MSU (completed 2023)
+- Multiple students → Ph.D. and M.S. programs
+
+:::
+
+---
+
+## Student Awards
+
+My students have received numerous awards and scholarships:
+
+| Year | Student | Award |
+|------|---------|-------|
+| 2025 | Sunita Shrestha | Lallemand Animal Nutrition Scholarship Finalist |
+| 2025 | Hailey Fugate | SCAD Travel Award ($250), IPPE Travel Award ($500) |
+| 2024 | Manhong Wang | International Paper Scholarship ($1,500) |
+| 2024 | Jiddu Joseph | AAAP Scholarship |
+| 2023 | Sabin Poudel | MAFES Excellent Research Award ($2,000), CALS Student Research Ambassador |
+| 2023 | Diksha Pokhrel | IFT Mid-South Section Scholarship ($2,000), PSA Travel Award ($1,500) |
+| 2022 | Sabin Poudel | PSA Student of The Year ($1,000) |
+| 2022 | Priyanka Devkota | PSA Certificate of Excellence, International Paper Scholarship 1st place ($2,000) |
+| 2021 | Sabin Poudel | PSA Certificate of Excellence, International Paper Scholarship 1st place ($5,000) |
+
+---
+
+## Mentoring Philosophy
+
+My approach to mentoring includes:
+
+1. **Individual Development Plans (IDPs)** — All graduate students create and regularly update career development plans
+2. **Weekly one-on-one meetings** — Regular meetings to discuss research progress and challenges
+3. **Professional development** — Support for conference attendance, scientific writing, and career exploration
+4. **Hands-on training** — As a molecular biologist, I personally train students in laboratory techniques
+5. **Collaborative environment** — Lab members support each other and contribute to departmental activities
+6. **Work-life balance** — Expectations that respect personal well-being
+
+### Laboratory Training
+
+I provide hands-on training to graduate students throughout the department in molecular biology techniques including:
+
+- DNA/RNA extraction and purification
+- PCR, qPCR, and LAMP assay development
+- Sequencing library preparation
+- Bioinformatics analysis
+
+---
+
+## Workshops & Invited Presentations
+
+### Invited Presentations
+
+| Year | Topic | Venue |
+|------|-------|-------|
+| 2025 | Identification of novel antigens for a universal vaccine against avian colibacillosis | MPA Poultry Health Seminar, Jackson, MS |
+| 2023 | Comparative genomics for *Campylobacter jejuni* vaccine candidates | [IPPE Research TECHTalk](https://www.youtube.com/watch?v=FwahGK2_lxo), Atlanta, GA |
+
+---
+
+## Resources for Students
+
+### Recommended Learning Resources
+
+**Molecular Biology:**
+
+- Molecular Cloning: A Laboratory Manual (Green & Sambrook)
+- Current Protocols in Molecular Biology
+
+**Bioinformatics:**
+
+- Bioinformatics Data Skills (Vince Buffalo)
+- R for Data Science (Hadley Wickham)
+
+**Microbiome Analysis:**
+
+- QIIME2 tutorials ([qiime2.org](https://qiime2.org))
+- DADA2 pipeline documentation
+
+### Useful Tools
+
+- [Galaxy](https://usegalaxy.org/) — Web-based analysis platform
+- [NCBI databases](https://www.ncbi.nlm.nih.gov/) — Sequence databases and BLAST
+- [RStudio](https://posit.co/) — IDE for R programming
+
+---
+
+*Questions about courses or interested in research opportunities? [See our opportunities page](join.qmd) or [contact me directly](mailto:l.zhang@msstate.edu).*

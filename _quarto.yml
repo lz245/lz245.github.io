@@ -1,64 +1,125 @@
 project:
   type: website
   output-dir: docs
-  preview:
-    port: 4200
-    browser: true
+  resources:
+    - "assets/**"
+    - "CNAME"
 
 website:
-  title: "Zhang Lab"
+  title: "Zhang Lab | Mississippi State University"
+  description: "Computational Bioinformatics & Microbial Genomics Research"
   site-url: "https://lz245.github.io"
   repo-url: "https://github.com/lz245/lz245.github.io"
-  repo-actions: [edit, issue]
-  favicon: "images/favicon.png"
-
+  
+  # Favicon and branding
+  favicon: assets/images/favicon.ico
+  
+  # Open Graph / Social sharing metadata
+  open-graph:
+    locale: en_US
+    site-name: "Zhang Lab - MSU"
+  twitter-card:
+    card-style: summary_large_image
+  
+  # Google Analytics (GA4) - using manual script injection instead
+  # google-analytics:
+  #   tracking-id: "G-3B7N686V5Q"
+  #   anonymize-ip: true
+  
+  # Search configuration
+  search:
+    location: navbar
+    type: overlay
+  
+  # Navigation bar
   navbar:
-    logo: "images/logo.png"
+    background: "#660000"  # MSU maroon
+    foreground: light
+    logo: assets/images/lab-logo.png
+    logo-alt: "Zhang Lab Logo"
+    title: false
     left:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-      - text: Research
+      - text: "Research"
         href: research.qmd
-      - text: Publications
+      - text: "Publications"
         href: publications.qmd
-      - text: Teaching
+      - text: "Team"
+        href: team.qmd
+      - text: "Teaching"
         href: teaching.qmd
-      - text: CV
-        href: cv.qmd
-      - text: Lab
-        href: lab.qmd
-      - text: Join
+      - text: "Join Us"
         href: join.qmd
-
     right:
+      - text: "CV"
+        href: cv.qmd
       - icon: bank
         href: https://www.poultry.msstate.edu/people/lz245
+        aria-label: "MSU Profile"
       - icon: github
-        href: "https://github.com/lz245"
+        href: https://github.com/lz245
+        aria-label: GitHub
       - icon: envelope
-        href: "mailto:lz245@msstate.edu"
-
+        href: mailto:l.zhang@msstate.edu
+        aria-label: Email
+  
+  # Sidebar (disabled for clean look, enable per-page if needed)
+  sidebar: false
+  
+  # Footer
   page-footer:
-    left: "© {year} Zhang Lab • Mississippi State University"
-    right:
-      - text: "Contact"
-        href: "mailto:lz245@msstate.edu"
-      - text: "GitHub"
-        href: "https://github.com/lz245"
+    background: "#333333"
+    foreground: light
+    left: |
+      © 2025 Zhang Lab | Mississippi State University<br>
+      Department of Poultry Science
+    center: |
+      [College of Agriculture and Life Sciences](https://www.cals.msstate.edu/)
+    right: |
+      Built with [Quarto](https://quarto.org)
 
+  # Page navigation
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: false
+  
+  # Reader mode
+  reader-mode: false
+
+# Format settings
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, styles/custom.scss]
+    css: styles/custom.css
     toc: true
     toc-depth: 3
-    page-layout: full
-    smooth-scroll: true
-    link-external-newwindow: true
+    toc-location: right
+    toc-title: "On This Page"
     anchor-sections: true
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
     code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+    
+    # Grid layout for responsiveness
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    
+    # Include custom resources
     include-in-header:
       - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
+          <meta name="robots" content="index, follow">
+          <meta name="keywords" content="bioinformatics, microbial genomics, food safety, nanopore sequencing, E. coli, computational biology, Mississippi State University, poultry science">
           <!-- Google tag (gtag.js) -->
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-3B7N686V5Q"></script>
           <script>
@@ -68,7 +129,17 @@ format:
             gtag('config', 'G-3B7N686V5Q');
           </script>
 
+# Bibliography settings for publications
+bibliography: publications.bib
+csl: styles/apa-cv.csl
+
+# Execution settings (for any computational content)
 execute:
   freeze: auto
+  echo: false
+  warning: false
+  message: false
 
-editor: visual
+# Metadata for academic indexing
+metadata:
+  pagetitle: "Zhang Lab | Computational Bioinformatics Research"

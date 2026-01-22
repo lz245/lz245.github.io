@@ -1,39 +1,301 @@
 ---
-title: "Research"
+title: "Research Programs"
+subtitle: "Computational and molecular approaches to poultry health and food safety"
+toc: true
+toc-depth: 2
 ---
 
-## Research Programs
+Our research integrates molecular biology, genomics, and microbiology to address fundamental questions in poultry health and food safety. We develop methods that are both scientifically rigorous and practically applicable to real-world surveillance and disease prevention.
 
-### Poultry Gut Microbiome & Culturomics
+**Career Funding:** $4.1M as PI | $14.5M total proposals | Supported by USDA ARS, USDA NIFA, USPoultry, FDA
 
-We identify and isolate core beneficial gut microbes using high-throughput culturing and metagenomics, with applications in probiotic development and gut health optimization.
+---
 
-**Why it matters**
-- Reduces production losses by improving gut health and resilience.
-- Supports antimicrobial stewardship through prevention-focused solutions.
-- Enables earlier detection and targeted intervention using genomics and analytics.
+## Program 1: Avian Pathogenic *E. coli* (APEC) Pathogenesis & Vaccines {#apec}
 
-**Deliverables**
-- Curated isolate libraries + functional annotations
-- Validated biomarkers / signatures for health and disease
-- Field-ready decision support (sampling → sequencing → interpretation pipeline)
+::: {.program-card}
 
-### Avian Pathogenic *E. coli* and Host Interactions
+### Overview
 
-We investigate virulence mechanisms, host immune responses, and tissue-level pathology to understand bacterial pathogenesis and vaccine targets.
+Avian pathogenic *Escherichia coli* (APEC) causes colibacillosis, resulting in significant economic losses to the poultry industry worldwide. We apply **reverse vaccinology**, computational immunoinformatics, and molecular characterization to identify novel vaccine candidates and understand host-pathogen interactions.
 
-### Disease Surveillance & Data-Driven Diagnostics
+### Current Projects
 
-We develop rapid detection and monitoring tools integrating genomics, machine learning, and sensor-based systems for poultry health.
+**Reverse Vaccinology for Universal Vaccine Development**
 
-This work directly benefits **producers, veterinarians, integrators, and public health stakeholders** by enabling actionable microbial insights that improve animal welfare and reduce the risk of foodborne contamination.
-------------------------------------------------------------------------
+- Identified conserved surface-exposed proteins across diverse APEC lineages using pangenome analysis
+- Discovered *pagP* as a potential universal vaccine candidate through host-pathogen interaction analysis
+- Validated vaccine candidates using HD11 macrophage cell line infection models
+- Collaborating with USDA ARS for in vivo challenge studies
 
-## Funding & Collaborations
+**High-Throughput APEC Characterization**
 
--   USDA-ARS
--   USDA-NIFA
--   Interdisciplinary collaborations in microbiology, data science, and engineering
+- Developed Oxford Nanopore sequencing-based MLST (multilocus sequence typing) pipeline
+- Characterized >500 APEC isolates from Mississippi broiler operations
+- Complete genome sequencing of multidrug-resistant APEC strains
+- Phenotypic virulence characterization using embryo lethality assays
 
-- 1
-- 2
+**Bioluminescent Imaging for Pathogenesis Studies**
+
+- Constructed bioluminescent APEC strains for real-time infection tracking
+- Evaluating transmission dynamics and tissue colonization patterns
+
+### Funding
+
+- USDA ARS (2025–2026): "Immunological Characteristics of Poultry Vaccinated/Challenged with APEC" — $184,269 (PI)
+- USDA ARS (2024–2029): "Characterization of APEC Field Isolates and Vaccine Targets" — $317,000/year (Co-PI)
+- USDA ARS (2024–2028): "Integrating Genomics, Epidemiology, and Diagnostics" — $274,480 (PI)
+
+### Key Publications
+
+- Jia et al. (2025) *Journal of Applied Microbiology* — pagP vaccine candidate identification
+- Jia et al. (2024) *Poultry Science* — High-throughput MLST analysis
+- Jia et al. (2024) *Microbiology Resource Announcements* — Complete genome sequences
+- Li et al. (2021) *Poultry Science* — In ovo probiotic effects on APEC incidence
+
+:::
+
+---
+
+## Program 2: *Campylobacter jejuni* Control & Vaccine Development {#campylobacter}
+
+::: {.program-card}
+
+### Overview
+
+*Campylobacter jejuni* is a leading cause of bacterial foodborne illness worldwide. We focus on understanding prevalence patterns, antimicrobial resistance, and developing effective vaccines to reduce colonization in poultry—the primary reservoir for human infections.
+
+### Current Projects
+
+**Vaccine Candidate Identification**
+
+- In silico prediction of novel vaccine candidates using reverse vaccinology
+- Expression analysis of candidate genes during avian cell line infection
+- Identified BtuB-based immune intervention strategies
+- Developing cytokine response profiles for vaccine efficacy assessment
+
+**Prevalence & Antimicrobial Resistance Surveillance**
+
+- Characterized *C. jejuni* from "No Antibiotics Ever" (NAE) broiler operations
+- Complete genome sequencing of isolates revealing AMR and virulence gene profiles
+- Aerotolerance studies linking survival mechanisms to food safety risks
+- Multi-locus sequence typing for epidemiological tracking
+
+**Biofilm & Survival Mechanisms**
+
+- Temperature effects on biofilm formation under aerobic and microaerobic conditions
+- Role of biofilms in processing plant contamination
+- Developing intervention strategies based on survival mechanisms
+
+### Funding
+
+- MSU MAFES (2023–2025): "Universal Vaccine Against *C. jejuni* Colonization in Poultry" — $100,000 (PI)
+- USPoultry (2020–2021): "Vaccine Candidates for *C. jejuni*" — $55,000 (PI)
+- MSU MAFES (2019): "Prevalence of *Campylobacter* in Mississippi Poultry" — $49,400 (PI)
+
+### Key Publications
+
+- Poudel et al. (2024) *Poultry Science* — NAE broiler prevalence and AMR
+- Poudel et al. (2024) *World Poultry Science Journal* — Vaccine development review
+- Pokhrel et al. (2024) *Poultry Science* — Temperature and biofilm formation
+- Poudel et al. (2023) *Poultry Science* — Vaccine candidate gene expression
+- Poudel et al. (2022) *Microbiology Spectrum* — AMR characterization
+
+:::
+
+---
+
+## Program 3: Rapid Pathogen Detection & Diagnostics {#diagnostics}
+
+::: {.program-card}
+
+### Overview
+
+Early and accurate detection of poultry pathogens is critical for disease management. We develop **field-deployable molecular diagnostic tools** including LAMP (loop-mediated isothermal amplification) assays and real-time PCR methods for rapid, on-site pathogen detection.
+
+### Current Projects
+
+**LAMP Assay Development for *Clostridium perfringens***
+
+- Optimized LAMP assay for detecting toxigenic *C. perfringens* causing necrotic enteritis
+- Evaluated multiple DNA extraction methods for field compatibility
+- Developing portable device protocols for on-farm use
+- Target: Field-deployable quantitative detection system
+
+**Multiplex Real-Time PCR for APEC**
+
+- Developed probe-based multiplex qPCR for rapid APEC detection
+- TaqMan assays for profiling pro-inflammatory cytokine responses during infection
+- Validation across diverse sample types (tissue, litter, environmental)
+
+**Oxford Nanopore Sequencing Applications**
+
+- High-throughput serotyping and MLST workflows
+- Species-level microbiome characterization using long-read amplicon sequencing
+- Real-time sequencing protocols for outbreak investigation
+
+### Funding
+
+- MSU MAFES (2021–2022): "Field-Deployable Detection System for *C. perfringens*" — $49,900 (PI)
+- MSU MAFES (2021): "Novel LAMP Assay for Rapid *C. perfringens* Detection" — $49,800 (PI)
+
+### Key Publications
+
+- Chaudhary et al. (2024) *Journal of Applied Poultry Research* — LAMP assay optimization
+- Chaudhary et al. (2025) *Journal of Applied Poultry Research* — DNA extraction methods
+- Ramachandran et al. (2021) — Multiplex real-time PCR validation
+
+:::
+
+---
+
+## Program 4: Poultry Gut Microbiome & Health {#microbiome}
+
+::: {.program-card}
+
+### Overview
+
+The gut microbiome plays critical roles in poultry health, disease resistance, and production efficiency. We apply **culturomics** and **metagenomic approaches** to characterize microbial communities and identify beneficial bacteria for probiotic development.
+
+### Current Projects
+
+**Culturomics for Probiotic Discovery**
+
+- Targeted cultivation and isolation of probiotic candidates from broiler ceca
+- Genomic characterization of beneficial bacterial isolates
+- Evaluating probiotic effects on pathogen colonization resistance
+- Developing core beneficial microbiome profiles for enhanced gut health
+
+**Microbiome-Disease Associations**
+
+- Cecal microbiota contributions to woody breast myopathy development
+- Gut microbiome changes associated with *Eimeria* challenge
+- Effects of dietary interventions (riboflavin, *Bacillus subtilis*) on microbiome composition
+
+**Spoilage Bacteria Characterization**
+
+- Culture-free metagenomic analysis of chicken and catfish spoilage bacteria
+- Full-length 16S rRNA nanopore sequencing for species-level identification
+- Microbiome dynamics during refrigerated storage
+
+### Funding
+
+- MSU MAFES (2025–2027): "Culturomics for Core Beneficial Microbiomes" — $100,000 (PI)
+- MSU MAFES (2025–2027): "Chicken Spoilage Dynamics: Metagenomics & ML" — $100,000 (Co-PI)
+- USDA ARS (2024–2025): "Catfish Spoilage Bacteria Culturomics" — $55,000 (PI)
+
+### Key Publications
+
+- Wang et al. (2025) *Poultry Science* — Culturomics for probiotic isolation
+- Zhang & Zhang et al. (2021) *Poultry Science* — Cecal microbiota and woody breast
+- Jia et al. (2022) *Poultry Science* — Gut microbiota in Eimeria-challenged broilers
+- Poudel et al. (2022) *Journal of Animal Science and Technology* — Dietary interventions
+
+:::
+
+---
+
+## Program 5: Woody Breast Myopathy Research {#woodybreast}
+
+::: {.program-card}
+
+### Overview
+
+Woody breast myopathy is a significant quality defect in commercial broilers causing substantial economic losses. We investigate the **molecular mechanisms**, **gut microbiome associations**, and **nutritional interventions** to understand and mitigate this condition.
+
+### Current Projects
+
+**Gene Expression & Metabolic Pathways**
+
+- Differential expression of fatty acid metabolism genes in affected breast muscle
+- Inflammation pathway involvement in woody breast development
+- Changes in intestinal mucus gene expression
+- Integrating transcriptomics with phenotypic characterization
+
+**Microbiome-Myopathy Connections**
+
+- Cecal microbiota differences between affected and unaffected birds
+- Effects of dietary bacitracin and *Bacillus subtilis* on myopathy incidence
+- Gut health interventions to reduce woody breast occurrence
+
+**Nutritional Interventions**
+
+- Riboflavin and probiotic supplementation effects
+- Internal organ and skeletal muscle development patterns
+- *Eimeria* challenge interactions with woody breast incidence
+
+### Key Publications
+
+- Jia et al. (2025) *Avian Diseases* — Fatty acid metabolism gene expression
+- Jia et al. (2024) *Poultry Science* — Intestinal mucus gene expression changes
+- Zhang & Zhang et al. (2021) *Poultry Science* — Cecal microbiota contributions
+- Jia et al. (2022) *Poultry Science* — Dietary interventions and Eimeria challenge
+- Jia et al. (2022) *Poultry Science* — Internal organ development patterns
+
+:::
+
+---
+
+## Program 6: *Salmonella* & Food Safety {#salmonella}
+
+::: {.program-card}
+
+### Overview
+
+*Salmonella* contamination remains a major food safety concern in poultry production. We investigate **transmission dynamics**, **biofilm formation**, and **environmental survival** to develop effective control strategies.
+
+### Current Projects
+
+**Vertical Transmission in Turkeys**
+
+- Constructed bioluminescent *Salmonella* Reading strains for tracking
+- Evaluating vertical transmission potential in broiler breeders
+- Real-time imaging of colonization patterns
+
+**Biofilm Formation & Environmental Persistence**
+
+- Biofilm development on processing plant surfaces under fluidic shear stress
+- Expression of biofilm-associated genes under environmental stress
+- Surface material effects on *Salmonella* biofilm formation
+
+### Funding
+
+- USPoultry (2022–2023): "Vertical Transmission of *Salmonella* Reading in Turkeys" — $75,861 (PI)
+
+### Key Publications
+
+- Isah et al. (2024) *Microbiology Spectrum* — Bioluminescent *Salmonella* Reading
+- Isah et al. (2024) *Poultry Science* — Vertical transmission evaluation
+- Thames et al. (2025) *Journal of Applied Microbiology* — Biofilm gene expression
+- Thames et al. (2023) *Foods* — Biofilm formation under shear stress
+
+:::
+
+---
+
+## Methodological Themes
+
+Across all programs, our work emphasizes:
+
+| Theme | Description |
+|-------|-------------|
+| **Translational Research** | Methods designed for real-world implementation in poultry operations |
+| **Molecular Diagnostics** | LAMP, qPCR, and sequencing-based detection tools |
+| **Genomics** | Whole-genome sequencing, pangenome analysis, MLST |
+| **One Health** | Connecting poultry health to food safety and public health |
+| **Open Science** | Genome sequences deposited in NCBI; methods published in detail |
+
+---
+
+## Collaborations
+
+We actively collaborate with:
+
+- **USDA Agricultural Research Service** — Poultry Research Unit, Mississippi State
+- **Mississippi Poultry Association** — Industry partnerships
+- **Multi-State Research Group NE-2442** — "Mechanisms and Mitigation of Bacterial Pathogens in Poultry"
+- **University partners** — Auburn, Arkansas, Oklahoma State, Tennessee
+
+---
+
+*Interested in collaborating? [Contact us](mailto:l.zhang@msstate.edu) to discuss potential projects.*
