@@ -67,24 +67,32 @@ a {
 .hero-content {
   max-width: 800px;
   margin: 0 auto;
-  
+
+  .lab-logo {
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    max-width: 200px;
+    height: auto;
+    border-radius: 8px;
+  }
+
   h1 {
     color: white;
     font-size: 2.2rem;
     font-weight: 700;
     margin-bottom: 1rem;
     line-height: 1.2;
-    
+
     @media (min-width: 768px) {
       font-size: 2.8rem;
     }
   }
-  
+
   p {
     font-size: 1.15rem;
     opacity: 0.95;
     margin-bottom: 2rem;
-    
+
     @media (min-width: 768px) {
       font-size: 1.25rem;
     }

@@ -7,6 +7,7 @@ title-block-banner: false
 
 ::: {.hero-banner}
 ::: {.hero-content}
+
 # Advancing Food Safety and Security Through Molecular Innovation
 
 We develop advanced molecular detection methods, study pathogen biofilms, and apply whole-genome sequencing and bioinformatics to address critical challenges in agricultural microbiomes, animal health and food safety.

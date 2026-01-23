@@ -40,6 +40,14 @@ button:focus {
   border-radius: 8px;
 }
 
+/* Lab logo on front page */
+.lab-logo {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  max-width: 200px;
+  height: auto;
+}
+
 /* Print optimizations */
 @media print {
   * {
