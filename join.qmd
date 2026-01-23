@@ -6,9 +6,9 @@ toc-depth: 2
 ---
 
 ::: {.callout-note}
-## We Are Recruiting!
+## Join Our Team
 
-The Zhang Lab is actively seeking motivated students and postdocs to join our team. We particularly welcome applications from individuals with diverse backgrounds and perspectives.
+The Zhang Lab is always interested in hearing from motivated students and researchers. We particularly welcome inquiries from individuals with diverse backgrounds and perspectives.
 :::
 
 ---
@@ -41,120 +41,6 @@ Gain expertise in bioinformatics, data science, and reproducible research practi
 
 ---
 
-## Current Openings
-
-### Postdoctoral Research Associate
-
-::: {.position-card}
-
-**Status:** Open (Start date flexible)  
-**Duration:** 2 years, renewable  
-**Funding:** USDA-NIFA grant
-
-**Project:** Development of nanopore-based surveillance tools for foodborne pathogens in poultry production systems
-
-**Qualifications:**
-
-- Ph.D. in bioinformatics, microbiology, computational biology, or related field
-- Experience with next-generation sequencing data analysis
-- Proficiency in Python and/or R
-- Strong publication record
-- Excellent communication skills
-
-**Preferred:**
-
-- Experience with Oxford Nanopore Technologies
-- Background in food safety or public health microbiology
-- Experience with pipeline development (Snakemake, Nextflow)
-
-**To Apply:** Send CV, cover letter, and contact information for three references to [l.zhang@msstate.edu](mailto:l.zhang@msstate.edu) with subject line "Postdoc Application - [Your Name]"
-
-:::
-
-### Ph.D. Students (Fall 2025)
-
-::: {.position-card}
-
-**Status:** Accepting applications  
-**Start:** Fall 2025  
-**Program:** [Molecular Biology](https://www.biology.msstate.edu/) or [Food Science](https://www.fsnhp.msstate.edu/)
-
-**Projects Available:**
-
-1. Machine learning approaches for antimicrobial resistance prediction
-2. Real-time genomic surveillance methods
-3. Microbiome-pathogen interactions in poultry
-
-**Funding:** Full support through research assistantship (tuition + stipend + health insurance)
-
-**Qualifications:**
-
-- B.S. or M.S. in biology, microbiology, computer science, or related field
-- Interest in computational approaches to biology
-- Basic programming experience helpful but not required
-- GPA ≥ 3.0 (flexible for strong candidates)
-- GRE: Not required
-
-**To Apply:**
-
-1. Email Dr. Li to discuss fit and available projects
-2. Apply through [MSU Graduate School](https://www.grad.msstate.edu/)
-3. Indicate interest in the Li Lab in your application
-
-**Deadline:** Applications reviewed on a rolling basis. For full consideration for Fall 2025, apply by **December 1, 2024**.
-
-:::
-
-### M.S. Students
-
-::: {.position-card}
-
-**Status:** Positions available  
-**Duration:** 2 years  
-**Funding:** Research assistantship available for qualified candidates
-
-We welcome M.S. students interested in gaining computational skills while contributing to active research projects. M.S. projects typically focus on method validation, database development, or smaller-scale analyses.
-
-**To Apply:** Email Dr. Li with your CV and a brief description of your research interests.
-
-:::
-
-### Undergraduate Researchers
-
-::: {.position-card}
-
-**Status:** Accepting applications  
-**Commitment:** Minimum 10 hours/week for at least 2 semesters  
-**Compensation:** Academic credit initially; hourly pay for experienced students
-
-We welcome MSU undergraduates interested in gaining research experience. Undergraduate projects might include:
-
-- Software testing and documentation
-- Database curation and validation
-- Data analysis under supervision
-- Laboratory protocols (for wet-lab interested students)
-
-**Qualifications:**
-
-- MSU undergraduate (any major, though biology/CS preferred)
-- Minimum 2.5 GPA
-- Curiosity and willingness to learn
-- Reliable and able to meet time commitments
-
-**To Apply:** Email Dr. Li with:
-
-- Brief statement of why you're interested in research
-- Your major, year, and relevant coursework
-- Available hours per week
-
-:::
-
-### Visiting Scholars
-
-We occasionally host visiting scholars and sabbatical visitors. If you're interested in a research visit (minimum 3 months), please contact Dr. Li to discuss possibilities.
-
----
-
 ## What We're Looking For
 
 Beyond specific qualifications, successful lab members share these qualities:
@@ -176,8 +62,8 @@ We do **not** expect you to already be an expert. We will teach you what you nee
 
 - Lab rotations (if applicable) or immediate project start
 - Coursework in your degree program
-- Weekly one-on-one meetings with Dr. Li
-- Lab meetings and journal club participation
+- Weekly one-on-one meetings with Dr. Zhang
+- Lab meetings participation
 - Development of Individual Development Plan (IDP)
 
 ### Onboarding
@@ -196,12 +82,11 @@ All new members receive:
 | Research (wet lab, computational, reading) | 30-40 hrs |
 | Lab meeting | 1 hr |
 | One-on-one with PI | 30 min |
-| Journal club | 1 hr |
 | Coursework (if applicable) | Varies |
 
 ### Work-Life Balance
 
-We believe in sustainable productivity. The lab has flexible hours (core hours: 10am-3pm), and I do not expect weekend or evening work except near deadlines. Mental health and personal well-being come first.
+We believe in sustainable productivity. The lab has flexible hours, and I do not expect weekend or evening work except near deadlines. Mental health and personal well-being come first.
 
 ---
 
@@ -213,12 +98,11 @@ We believe in sustainable productivity. The lab has flexible hours (core hours: 
 
 **Mississippi State University** is a land-grant research university located in Starkville, Mississippi. With strong programs in agriculture, engineering, and the sciences, MSU offers excellent resources for graduate training.
 
-**Starkville** is a friendly college town with affordable cost of living, mild winters, and a welcoming community. The campus is about 2 hours from Jackson, 3 hours from Memphis, and 4 hours from Birmingham.
+**Starkville** is a friendly college town with affordable cost of living, mild winters, and a welcoming community. The campus is about 2 hours from Jackson, 3 hours from Memphis, and 2 hours from Birmingham.
 
 **Resources:**
 
 - [MSU Graduate School](https://www.grad.msstate.edu/)
-- [Graduate Student Association](https://www.gsa.msstate.edu/)
 - [Starkville Visitors Bureau](https://www.starkville.org/)
 
 :::
@@ -242,16 +126,10 @@ A: Not necessarily! For graduate students, we can teach you what you need. Howev
 A: No. MSU does not require the GRE for most graduate programs.
 
 **Q: Can international students apply?**  
-A: Yes! We welcome international applicants. MSU's [Office of International Services](https://www.oiss.msstate.edu/) can assist with visa requirements.
+A: Yes! We welcome international applicants. MSU's [Office of International Services](https://www.international.msstate.edu/offices/international-services-office) can assist with visa requirements.
 
 **Q: What if I'm interested but not sure about a specific project?**  
-A: That's fine! Email Dr. Li to discuss your interests and we can identify good fits.
-
-**Q: How long does the application process take?**  
-A: After initial contact, expect 2-4 weeks for an initial response. Graduate admissions decisions are typically made in February-March for fall admission.
-
-**Q: Is there funding for conference travel?**  
-A: Yes. Graduate students are supported to attend at least one conference per year. Additional travel funding is available for presentations.
+A: That's fine! Email Dr. Zhang to discuss your interests and we can identify good fits.
 
 ---
 
@@ -261,7 +139,7 @@ A: Yes. Graduate students are supported to attend at least one conference per ye
 
 **Step 1: Initial Contact**
 
-Email Dr. Li at [l.zhang@msstate.edu](mailto:l.zhang@msstate.edu) with:
+Email Dr. Zhang at [l.zhang@msstate.edu](mailto:l.zhang@msstate.edu) with:
 
 - Subject line: "[Position Type] Inquiry - [Your Name]"
 - Brief introduction (1 paragraph)
@@ -278,7 +156,7 @@ For graduate positions, submit formal application through MSU Graduate School. F
 
 **Step 4: Interview**
 
-Invited candidates will interview (virtual or in-person) with Dr. Li and lab members.
+Invited candidates will interview (virtual or in-person) with Dr. Zhang and lab members.
 
 :::
 

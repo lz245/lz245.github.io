@@ -1,15 +1,15 @@
 ---
-title: "Zhang Lab"
-subtitle: "Poultry Health & Food Safety Research"
-page-layout: custom
+pagetitle: "Zhang Lab"
 toc: false
+page-layout: custom
+title-block-banner: false
 ---
 
 ::: {.hero-banner}
 ::: {.hero-content}
-# Advancing Poultry Health Through Molecular Innovation
+# Advancing Food Safety and Security Through Molecular Innovation
 
-We develop vaccines, rapid diagnostics, and microbiome-based interventions to combat bacterial pathogens, protect poultry health, and ensure food safety.
+We develop advanced molecular detection methods, study pathogen biofilms, and apply whole-genome sequencing and bioinformatics to address critical challenges in agricultural microbiomes, animal health and food safety.
 
 ::: {.hero-buttons}
 [Our Research](research.qmd){.btn-primary}
@@ -21,91 +21,41 @@ We develop vaccines, rapid diagnostics, and microbiome-based interventions to co
 
 ::: {.content-section}
 
-## Research Impact
+## Research Focus
 
-Our laboratory integrates **molecular microbiology**, **pathogen genomics**, and **microbiome science** to address critical challenges in poultry health and food safety. We develop practical tools for pathogen detection, vaccine candidates for disease prevention, and strategies to enhance gut health in commercial poultry.
+Our laboratory integrates **agricultural microbiomes**, **microbial genomics**, and **bioinformatics** to develop practical solutions for pathogen detection, characterization, and control. I work at the intersection of fundamental microbiology and applied food safety, developing tools and knowledge that directly benefit industry, regulatory agencies, and public health. 
 
 ::: {.impact-grid}
 
+
 ::: {.impact-card}
-### Vaccine Development
-Applying reverse vaccinology and computational immunoinformatics to identify novel vaccine candidates against avian pathogenic *E. coli* and *Campylobacter jejuni*.
+### Advanced Molecular Detection
+Developing and validating rapid detection methods including LAMP assays, multiplex qPCR, and real-time PCR for foodborne pathogens. Focus on field-deployable diagnostics for food safety applications.
 :::
 
 ::: {.impact-card}
-### Rapid Diagnostics
-Developing field-deployable LAMP assays and real-time PCR methods for on-site detection of *Clostridium perfringens*, APEC, and other poultry pathogens.
+### Agricultural Microbiome
+Using culturomics and next-generation sequencing to characterize beneficial and pathogenic microorganisms in food production systems. Identifying probiotic candidates and understanding microbiome-pathogen interactions.
 :::
-  
+
 ::: {.impact-card}
-### Microbiome Science
-Using culturomics and nanopore sequencing to characterize the poultry gut microbiome and identify beneficial bacteria for enhanced health and performance.
+### Foodborne Pathogen Genomics
+Applying whole-genome sequencing (WGS) and bioinformatics to characterize *Salmonella*, *Campylobacter jejuni*, and pathogenic *E. coli*. Developing high-throughput Oxford Nanopore pipelines for serotyping and MLST analysis of large isolate collections.
+:::
+
+::: {.impact-card}
+### Biofilm Formation & Control
+Investigating biofilm formation mechanisms in foodborne pathogens under environmental stress conditions. Published studies on *Salmonella* and *Campylobacter* biofilms under temperature stress, shear stress, and aerobic/microaerobic conditions.
 :::
 
 :::
 
 ## Funding & Collaboration
 
-Our research is supported by federal agencies committed to food safety and agricultural productivity:
-<br>
-
-::: {.funding-logos}
-![USDA Logo](assets/images/usda-logo.png){width="120" fig-alt="USDA"}
-![USPoultry Logo](assets/images/uspoultry-logo.png){width="120" fig-alt="USPoultry"}
-![MSU Logo](assets/images/msu-logo.png){width="100" fig-alt="Mississippi State University"}
-:::
-
-**Career Funding:** $4.1M as PI | $14.5M total proposals submitted
-
-We actively collaborate with the **USDA Agricultural Research Service**, **Mississippi Poultry Association**, and partners in the **NE-2442 Multi-State Research Group** to translate our research into practice.
-
-## Recent News
-
-::: {.news-list}
-
-- **January 2025** — Dr. Zhang elected Senior Executive of NE-2442 Multi-State Research Group
-- **October 2024** — New publication in *Poultry Science*: *C. jejuni* prevalence in NAE broilers
-- **September 2024** — Manhong Wang receives International Paper Scholarship from Mississippi Poultry Association
-- **July 2024** — Lab presents 6 abstracts at Poultry Science Association Annual Meeting
-- **June 2024** — New USDA ARS grant awarded for APEC/bovine respiratory disease integration ($274K)
+::: {.funding-highlight}
 
 :::
 
-## Featured Publications
+Our research is supported by **USDA Agricultural Research Service**, **USDA NIFA**, **US Poultry and Egg Association**, **MAFES**, and **industry partners**. I actively collaborate with government stakeholders, food industry partners, and fellow academic scientists across multiple institutions.
 
-::: {.publication-highlight}
 
-**Jia, L. et al. (2025)** Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic *Escherichia coli* in poultry. *Journal of Applied Microbiology*. [DOI: 10.1093/jambio/lxaf253](https://doi.org/10.1093/jambio/lxaf253)
-
-**Poudel, S. et al. (2024)** *Campylobacter jejuni* from no antibiotics ever (NAE) broilers: prevalence, antibiotic resistance, and virulence genes analysis. *Poultry Science*. [DOI: 10.1016/j.psj.2024.104380](https://doi.org/10.1016/j.psj.2024.104380)
-
-**Jia, L. et al. (2024)** High-throughput Oxford Nanopore sequencing-based approach for MLST analysis of large-scale avian *Escherichia coli* study in Mississippi. *Poultry Science*. [DOI: 10.1016/j.psj.2024.104067](https://doi.org/10.1016/j.psj.2024.104067)
-
-:::
-
-[View All Publications (67+) →](publications.qmd)
-
-## Lab Philosophy
-
-We believe in **translational research**, **rigorous science**, and **supportive mentorship**. All lab members are expected to:
-
-- Develop practical solutions applicable to the poultry industry
-- Document methods thoroughly for reproducibility  
-- Support each other's professional development
-- Engage with industry partners and the broader scientific community
-
-*Interested in joining our team?* We welcome inquiries from prospective graduate students, postdocs, and undergraduate researchers. [Learn more about opportunities](join.qmd).
-
-:::
-
-::: {.cta-section}
-::: {.cta-content}
-
-### Ready to Make an Impact?
-
-We're looking for motivated researchers passionate about poultry health and food safety.
-
-[Join the Zhang Lab](join.qmd){.btn-cta}
-
-:::
-:::

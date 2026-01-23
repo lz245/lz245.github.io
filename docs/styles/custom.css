@@ -20,6 +20,26 @@ button:focus {
   outline-offset: 2px;
 }
 
+/* Team page - space between photo and text */
+.person-entry .columns {
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.person-entry .column:first-child {
+  padding-right: 1rem;
+}
+
+.person-entry .column:last-child h3:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.person-entry img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
 /* Print optimizations */
 @media print {
   * {

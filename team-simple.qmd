@@ -1,0 +1,198 @@
+---
+title: "Lab Team"
+subtitle: "Meet the researchers driving our science"
+toc: true
+toc-depth: 2
+---
+
+<!-- 
+ALTERNATIVE TEAM PAGE (No R Required)
+=====================================
+This is a simpler version of team.qmd that uses pure Quarto/Markdown.
+To use this version instead:
+1. Delete or rename team.qmd
+2. Rename this file to team.qmd
+
+The tradeoff is that you manually edit this file instead of 
+updating the YAML data file. For small labs (<10 people), 
+this approach may be easier to maintain.
+-->
+
+## Principal Investigator
+
+::: {.member-card}
+
+![PI Photo](assets/images/team/pi-photo.jpg){.member-photo fig-alt="Dr. [Name]"}
+
+### [Your Name], Ph.D.
+
+**Assistant Professor**  
+Department of [Your Department]  
+Mississippi State University
+
+Dr. [Name] is an Assistant Professor specializing in computational bioinformatics and microbial genomics. Their research focuses on developing high-throughput sequencing methods for rapid pathogen detection and characterization in food safety applications.
+
+**Education**
+
+- Ph.D. in [Field], [University], 2020
+- M.S. in [Field], [University], 2016  
+- B.S. in [Field], [University], 2014
+
+[📧](mailto:lz245@msstate.edu) 
+[ORCID](https://orcid.org/0000-0000-0000-0000)
+[Scholar](https://scholar.google.com/citations?user=XXXXXXXX)
+[GitHub](https://github.com/your-username)
+
+:::
+
+---
+
+## Postdoctoral Researchers
+
+::: {.member-card}
+
+![Jane Smith Photo](assets/images/team/jane-smith.jpg){.member-photo fig-alt="Dr. Jane Smith"}
+
+### Dr. Jane Smith
+
+**Postdoctoral Research Associate**
+
+**Research Focus:** Nanopore sequencing methods for pathogen surveillance
+
+Jane joined the lab in 2023 after completing her Ph.D. at [University]. Her research focuses on developing real-time sequencing protocols for foodborne pathogen detection.
+
+[📧](mailto:jane.smith@msstate.edu) 
+[GitHub](https://github.com/janesmith)
+
+:::
+
+---
+
+## Graduate Students
+
+::: {.team-grid}
+
+::: {.member-card}
+
+![Alex Johnson Photo](assets/images/team/alex-johnson.jpg){.member-photo fig-alt="Alex Johnson"}
+
+### Alex Johnson
+
+**Ph.D. Candidate**
+
+**Research:** Machine learning for antimicrobial resistance prediction
+
+*Expected graduation: Spring 2026*
+
+Alex is a fourth-year Ph.D. student developing computational methods for predicting antimicrobial resistance phenotypes from whole-genome sequence data.
+
+[📧](mailto:alex.johnson@msstate.edu)
+
+:::
+
+::: {.member-card}
+
+![Maria Garcia Photo](assets/images/team/maria-garcia.jpg){.member-photo fig-alt="Maria Garcia"}
+
+### Maria Garcia
+
+**M.S. Student**
+
+**Research:** E. coli O-typing pipeline validation
+
+*Expected graduation: Fall 2025*
+
+Maria is a second-year M.S. student working on validation of the lab's O-serogroup typing pipeline using diverse E. coli isolate collections.
+
+[📧](mailto:maria.garcia@msstate.edu)
+
+:::
+
+:::
+
+---
+
+## Undergraduate Researchers
+
+::: {.member-card}
+
+![Jordan Lee Photo](assets/images/team/jordan-lee.jpg){.member-photo fig-alt="Jordan Lee"}
+
+### Jordan Lee
+
+**Undergraduate Research Assistant**
+
+**Research:** Database curation and pipeline testing
+
+Jordan is a junior in Computer Science participating in the undergraduate research program. They assist with database maintenance and software testing.
+
+:::
+
+---
+
+## Research Staff
+
+::: {.member-card}
+
+![Sarah Chen Photo](assets/images/team/sarah-chen.jpg){.member-photo fig-alt="Dr. Sarah Chen"}
+
+### Dr. Sarah Chen
+
+**Research Scientist II**
+
+**Focus:** Laboratory methods development and training
+
+Sarah manages the wet lab operations and develops molecular protocols for sequencing library preparation.
+
+:::
+
+---
+
+## Alumni
+
+Our alumni have gone on to successful careers in academia, government, and industry.
+
+::: {.alumni-grid}
+
+::: {.alumni-card}
+
+**Dr. Michael Brown** (Ph.D. 2024)  
+*Thesis: Computational methods for Campylobacter jejuni genomic surveillance*  
+**Now:** Bioinformatics Scientist, CDC
+
+:::
+
+::: {.alumni-card}
+
+**Emily Davis** (M.S. 2023)  
+*Thesis: Validation of rapid serotyping methods for Salmonella*  
+**Now:** Ph.D. Student, Cornell University
+
+:::
+
+::: {.alumni-card}
+
+**Chris Wilson** (Undergrad 2024)  
+**Now:** M.S. Student, Georgia Tech
+
+:::
+
+:::
+
+---
+
+## Lab Photos
+
+::: {.lab-gallery}
+
+![Lab group at ASM Microbe 2024](assets/images/lab-asm-2024.jpg){fig-alt="Lab group photo at conference"}
+
+![Summer BBQ 2024](assets/images/lab-bbq-2024.jpg){fig-alt="Lab social event"}
+
+![Sequencing in action](assets/images/lab-sequencing.jpg){fig-alt="MinION sequencing setup"}
+
+:::
+
+---
+
+*Interested in joining our team? [See current opportunities](join.qmd)*

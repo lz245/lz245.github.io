@@ -6,8 +6,8 @@ project:
     - "CNAME"
 
 website:
-  title: "Zhang Lab | Mississippi State University"
-  description: "Computational Bioinformatics & Microbial Genomics Research"
+  title: "Li Zhang | Agricultural Microbiomes & Food Safety"
+  description: "Agricultural Microbiomes, Microbial Genomics, and Food Safety Research"
   site-url: "https://lz245.github.io"
   repo-url: "https://github.com/lz245/lz245.github.io"
   
@@ -37,23 +37,21 @@ website:
     foreground: light
     logo: assets/images/lab-logo.png
     logo-alt: "Zhang Lab Logo"
-    title: false
+    title: "Zhang Lab"
     left:
       - text: "Home"
         href: index.qmd
+      - text: "People"
+        href: team.qmd
       - text: "Research"
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Team"
-        href: team.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Join Us"
         href: join.qmd
     right:
-      - text: "CV"
-        href: cv.qmd
       - icon: bank
         href: https://www.poultry.msstate.edu/people/lz245
         aria-label: "MSU Profile"
@@ -66,18 +64,6 @@ website:
   
   # Sidebar (disabled for clean look, enable per-page if needed)
   sidebar: false
-  
-  # Footer
-  page-footer:
-    background: "#333333"
-    foreground: light
-    left: |
-      © 2025 Zhang Lab | Mississippi State University<br>
-      Department of Poultry Science
-    center: |
-      [College of Agriculture and Life Sciences](https://www.cals.msstate.edu/)
-    right: |
-      Built with [Quarto](https://quarto.org)
 
   # Page navigation
   page-navigation: true
@@ -119,7 +105,7 @@ format:
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
           <meta name="robots" content="index, follow">
-          <meta name="keywords" content="bioinformatics, microbial genomics, food safety, nanopore sequencing, E. coli, computational biology, Mississippi State University, poultry science">
+          <meta name="keywords" content="agricultural microbiomes, food safety, microbial genomics, bioinformatics, whole-genome sequencing, WGS, biofilms, foodborne pathogens, Salmonella, Campylobacter, E. coli, nanopore sequencing, LAMP assay, molecular detection">
           <!-- Google tag (gtag.js) -->
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-3B7N686V5Q"></script>
           <script>
@@ -142,4 +128,4 @@ execute:
 
 # Metadata for academic indexing
 metadata:
-  pagetitle: "Zhang Lab | Computational Bioinformatics Research"
+  pagetitle: "Li Zhang | Agricultural Microbiomes & Food Safety Research"
