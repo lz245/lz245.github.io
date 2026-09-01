@@ -11,9 +11,20 @@ Built with [Quarto](https://quarto.org). Served free by GitHub Pages from the
 
 ## How publishing works (read this first)
 
-GitHub Pages serves whatever is in **`main:/docs`**. Nothing deploys
-automatically from source files — you must render locally and commit the
-result:
+> **Transitioning to automatic publishing.** A GitHub Actions workflow
+> (`.github/workflows/publish.yml`) renders and deploys the site on every push
+> to `main`. It becomes active once the repository setting
+> **Settings → Pages → Source** is changed to **GitHub Actions**.
+>
+> - **Before that switch:** follow the manual steps below — render locally and
+>   commit `docs/` — or the live site will not update.
+> - **After that switch:** just edit source and push. No local render, no
+>   `docs/` commit. Rendering happens on GitHub, and a stalled build reports
+>   itself as a failed run instead of silently serving a stale site.
+
+GitHub Pages currently serves whatever is in **`main:/docs`**. Until the
+setting above is switched, nothing deploys automatically from source files —
+you must render locally and commit the result:
 
 ```
 # 1. edit source files (.qmd, data/, styles/)
