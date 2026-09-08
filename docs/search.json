@@ -210,74 +210,25 @@
     "text": "Want to join this team?\nWe welcome curious scientists at every stage — undergraduates through postdocs.\nSee open opportunities"
   },
   {
-    "objectID": "news/2027-03-04-short-description.html",
-    "href": "news/2027-03-04-short-description.html",
-    "title": "Sunita receives a travel award",
+    "objectID": "news/2026-08-13-website-relaunch.html",
+    "href": "news/2026-08-13-website-relaunch.html",
+    "title": "The Zhang Lab website has a new look",
     "section": "",
-    "text": "Write the post here in normal sentences. You can use as many paragraphs as you like.\nTo make text bold, put two stars around it, like this. To add a link, write it like this.\n\n\n\n Back to top"
+    "text": "Welcome to the redesigned Zhang Lab website.\nThe relaunch brings a new visual identity in MSU maroon and gold, a data-driven People page, our full publication record, and this news feed — where we’ll share papers, awards, and lab milestones.\nThe site remains open source on GitHub. If something looks off or is hard to use, tell us — accessibility feedback is always welcome.\n\n\n\n Back to top"
   },
   {
-    "objectID": "news/2026-07-12-psa-early-achievement-award.html",
-    "href": "news/2026-07-12-psa-early-achievement-award.html",
-    "title": "Dr. Zhang receives the PSA Early Achievement Award for Research",
+    "objectID": "news/2026-04-01-culturomics-poultry-science.html",
+    "href": "news/2026-04-01-culturomics-poultry-science.html",
+    "title": "Culturomics study of the broiler cecal microbiome published in Poultry Science",
     "section": "",
-    "text": "The Poultry Science Association has recognized Dr. Li Zhang with its 2026 Early Achievement Award for Research, one of the association’s professional awards honoring early-career contributions to poultry science. PSA announced the 2026 recipients on July 7, and the awards were presented during the Awards Celebration at the PSA Annual Meeting in Toronto, Ontario, on July 12.\nIn its announcement, PSA highlighted the lab’s research program in agricultural microbiomics — combining microbial genomics, rapid diagnostics, microbiome science, and animal models to improve poultry health and food safety from farm to fork, with an emphasis on avian pathogenic E. coli, Campylobacter, Salmonella, and Clostridium perfringens. The citation also noted more than $3.2 million in research funding as PI and co-PI, over 60 peer-reviewed publications, service as a Section Editor for Poultry Science, and the mentoring of 14 graduate students and 6 postdoctoral researchers.\nAn award like this belongs to everyone who has worked in the lab. Thank you to our students and postdocs, past and present, and to our collaborators at Mississippi State, USDA ARS, and across the poultry industry.\n\n\n\n Back to top"
+    "text": "Our culturomics study, led by Ph.D. student Manhong Wang, is out in Poultry Science:\n\nWang, M., Ye, X., Hsu, C.Y., Fugate, H., Zhang, X., Adhikari, P.A., Fan, P., Elliott, K., Macklin, K., & Zhang, L. (2026). Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens. Poultry Science, 105(4), 106527. DOI\n\nThe work systematically cultures the broiler cecal microbiome — turning “unculturable” community members into isolates we can actually study and deploy. It is a key step toward identifying probiotic candidates that improve poultry health and reduce pathogen colonization.\n\n\n\n Back to top"
   },
   {
-    "objectID": "news/2026-01-30-ipsf-2026-awards.html",
-    "href": "news/2026-01-30-ipsf-2026-awards.html",
-    "title": "Sunita and Manhong bring home awards from IPSF 2026",
+    "objectID": "news/2025-10-15-pagp-vaccine-candidate.html",
+    "href": "news/2025-10-15-pagp-vaccine-candidate.html",
+    "title": "Reverse vaccinology points to pagP as a universal APEC vaccine candidate",
     "section": "",
-    "text": "Two of our Ph.D. students were recognized at the 2026 International Poultry Scientific Forum (IPSF) in Atlanta.\nSunita Shrestha won the Best Oral Presentation Award in the SCAD category for her work on vaccine candidate identification against avian pathogens using reverse vaccinology.\nManhong Wang received a Certificate of Excellence in Pathology and an IPSF Travel Award for his culturomics research on the broiler cecal microbiome.\nCongratulations to both — this is what a strong year looks like.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "news/2025-04-15-lamp-test-media.html",
-    "href": "news/2025-04-15-lamp-test-media.html",
-    "title": "Our rapid C. perfringens test makes headlines",
-    "section": "",
-    "text": "Clostridium perfringens causes necrotic enteritis, a disease estimated to cost the global poultry industry billions of dollars every year. Our lab developed a loop-mediated isothermal amplification (LAMP) assay that detects the pathogen rapidly and is practical outside a central laboratory.\nThe work drew media attention this spring:\n\nBillion-Dollar Bacteria Breakthrough — MAFES Discovers\nAMI Members Develop Rapid Test for Bacterium That Costs Poultry Industry Billions Globally — The Microbiologist\n\nThe underlying research on assay optimization and DNA extraction methods is published in the Journal of Applied Poultry Research (2024, 2025).\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html#microbes-shape-food-safety.-we-decode-them.",
-    "href": "index.html#microbes-shape-food-safety.-we-decode-them.",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "Microbes shape food safety. We decode them.",
-    "text": "Microbes shape food safety. We decode them.\nOur laboratory integrates agricultural microbiomes, microbial genomics, and bioinformatics to develop practical solutions for pathogen detection, characterization, and control. We work at the intersection of fundamental microbiology and applied food safety — building tools and knowledge that directly benefit industry, regulatory agencies, and public health."
-  },
-  {
-    "objectID": "index.html#six-programs-one-mission-safer-food",
-    "href": "index.html#six-programs-one-mission-safer-food",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "Six programs, one mission: safer food",
-    "text": "Six programs, one mission: safer food"
-  },
-  {
-    "objectID": "index.html#the-lab-in-the-media",
-    "href": "index.html#the-lab-in-the-media",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "The lab in the media",
-    "text": "The lab in the media\n\nMAFES Discovers · Billion-Dollar Bacteria Breakthrough The Microbiologist · Rapid test for a billion-dollar pathogen MAFES Discovers · Fowl Play: a chicken vaccine WATTPoultry · Enhancing food safety Meatingplace · Campylobacter vaccine research USPOULTRY · 2024 Research Newsletter"
-  },
-  {
-    "objectID": "index.html#whats-growing-in-the-lab",
-    "href": "index.html#whats-growing-in-the-lab",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "What’s growing in the lab",
-    "text": "What’s growing in the lab"
-  },
-  {
-    "objectID": "index.html#research-with-reach",
-    "href": "index.html#research-with-reach",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "Research with reach",
-    "text": "Research with reach"
-  },
-  {
-    "objectID": "index.html#curious-about-microbes-so-are-we.",
-    "href": "index.html#curious-about-microbes-so-are-we.",
-    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
-    "section": "Curious about microbes? So are we.",
-    "text": "Curious about microbes? So are we.\nWe welcome undergraduates, graduate students, and postdocs who want to work on real problems in food safety with genomics, microbiology, and bioinformatics. No prior sequencing experience required — bring curiosity.\n\nHow to apply Meet the team"
+    "text": "Avian pathogenic E. coli (APEC) is one of the costliest bacterial diseases in poultry production. In work published in the Journal of Applied Microbiology, our team used reverse vaccinology — pangenome analysis and in-silico antigen prediction — to identify pagP as a potential universal vaccine candidate:\n\nJia, L., Ye, X., Arick, M.A., Hsu, C.Y., Evans, J.D., Robinson, K., Adhikari, P., & Zhang, L. (2025). Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic Escherichia coli in poultry. Journal of Applied Microbiology, 136(10), lxaf253. DOI\n\nThe vaccine-development program behind this work was featured by MAFES Discovers in “Fowl Play: MSU Scientists Develop Chicken Vaccine to Combat Bacteria”.\n\n\n\n Back to top"
   },
   {
     "objectID": "join.html",
@@ -329,32 +280,74 @@
     "text": "How to Apply\n\nStep 1: Initial Contact\nEmail Dr. Zhang at l.zhang@msstate.edu with:\n\nSubject line: “[Position Type] Inquiry - [Your Name]”\nBrief introduction (1 paragraph)\nWhy you’re interested in our research (1 paragraph)\nAttached CV/resume\n\nStep 2: Discussion\nIf there’s a potential fit, we’ll schedule a video call to discuss your background, interests, and goals.\nStep 3: Formal Application\nFor graduate positions, submit formal application through MSU Graduate School. For postdocs, provide full application materials.\nStep 4: Interview\nInvited candidates will interview (virtual or in-person) with Dr. Zhang and lab members.\n\n\n\n\n\n\n\n\nTipTips for Strong Applications\n\n\n\n\nBe specific about why our lab interests you (not just generic statements)\nShow initiative — Have you taken relevant courses? Done independent learning?\nDemonstrate fit — Explain how your goals align with our research\nProofread — Attention to detail matters\n\n\n\n\nQuestions not answered here? Email l.zhang@msstate.edu — we try to respond within one week."
   },
   {
-    "objectID": "news/2025-10-15-pagp-vaccine-candidate.html",
-    "href": "news/2025-10-15-pagp-vaccine-candidate.html",
-    "title": "Reverse vaccinology points to pagP as a universal APEC vaccine candidate",
-    "section": "",
-    "text": "Avian pathogenic E. coli (APEC) is one of the costliest bacterial diseases in poultry production. In work published in the Journal of Applied Microbiology, our team used reverse vaccinology — pangenome analysis and in-silico antigen prediction — to identify pagP as a potential universal vaccine candidate:\n\nJia, L., Ye, X., Arick, M.A., Hsu, C.Y., Evans, J.D., Robinson, K., Adhikari, P., & Zhang, L. (2025). Reverse vaccinology and host-pathogen analysis reveal pagP as a potential universal vaccine candidate against avian pathogenic Escherichia coli in poultry. Journal of Applied Microbiology, 136(10), lxaf253. DOI\n\nThe vaccine-development program behind this work was featured by MAFES Discovers in “Fowl Play: MSU Scientists Develop Chicken Vaccine to Combat Bacteria”.\n\n\n\n Back to top"
+    "objectID": "index.html#microbes-shape-food-safety.-we-decode-them.",
+    "href": "index.html#microbes-shape-food-safety.-we-decode-them.",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "Microbes shape food safety. We decode them.",
+    "text": "Microbes shape food safety. We decode them.\nOur laboratory integrates agricultural microbiomes, microbial genomics, and bioinformatics to develop practical solutions for pathogen detection, characterization, and control. We work at the intersection of fundamental microbiology and applied food safety — building tools and knowledge that directly benefit industry, regulatory agencies, and public health."
   },
   {
-    "objectID": "news/2026-04-01-culturomics-poultry-science.html",
-    "href": "news/2026-04-01-culturomics-poultry-science.html",
-    "title": "Culturomics study of the broiler cecal microbiome published in Poultry Science",
-    "section": "",
-    "text": "Our culturomics study, led by Ph.D. student Manhong Wang, is out in Poultry Science:\n\nWang, M., Ye, X., Hsu, C.Y., Fugate, H., Zhang, X., Adhikari, P.A., Fan, P., Elliott, K., Macklin, K., & Zhang, L. (2026). Application of culturomics to explore the cultivable microbiota and enable targeted bacterial isolation from the ceca of broiler chickens. Poultry Science, 105(4), 106527. DOI\n\nThe work systematically cultures the broiler cecal microbiome — turning “unculturable” community members into isolates we can actually study and deploy. It is a key step toward identifying probiotic candidates that improve poultry health and reduce pathogen colonization.\n\n\n\n Back to top"
+    "objectID": "index.html#six-programs-one-mission-safer-food",
+    "href": "index.html#six-programs-one-mission-safer-food",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "Six programs, one mission: safer food",
+    "text": "Six programs, one mission: safer food"
   },
   {
-    "objectID": "news/2026-08-13-website-relaunch.html",
-    "href": "news/2026-08-13-website-relaunch.html",
-    "title": "The Zhang Lab website has a new look",
+    "objectID": "index.html#the-lab-in-the-media",
+    "href": "index.html#the-lab-in-the-media",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "The lab in the media",
+    "text": "The lab in the media\n\nMAFES Discovers · Billion-Dollar Bacteria Breakthrough The Microbiologist · Rapid test for a billion-dollar pathogen MAFES Discovers · Fowl Play: a chicken vaccine WATTPoultry · Enhancing food safety Meatingplace · Campylobacter vaccine research USPOULTRY · 2024 Research Newsletter"
+  },
+  {
+    "objectID": "index.html#whats-growing-in-the-lab",
+    "href": "index.html#whats-growing-in-the-lab",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "What’s growing in the lab",
+    "text": "What’s growing in the lab"
+  },
+  {
+    "objectID": "index.html#research-with-reach",
+    "href": "index.html#research-with-reach",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "Research with reach",
+    "text": "Research with reach"
+  },
+  {
+    "objectID": "index.html#curious-about-microbes-so-are-we.",
+    "href": "index.html#curious-about-microbes-so-are-we.",
+    "title": "Zhang Lab | Agricultural Microbiomes & Food Safety",
+    "section": "Curious about microbes? So are we.",
+    "text": "Curious about microbes? So are we.\nWe welcome undergraduates, graduate students, and postdocs who want to work on real problems in food safety with genomics, microbiology, and bioinformatics. No prior sequencing experience required — bring curiosity.\n\nHow to apply Meet the team"
+  },
+  {
+    "objectID": "news/2025-04-15-lamp-test-media.html",
+    "href": "news/2025-04-15-lamp-test-media.html",
+    "title": "Our rapid C. perfringens test makes headlines",
     "section": "",
-    "text": "Welcome to the redesigned Zhang Lab website.\nThe relaunch brings a new visual identity in MSU maroon and gold, a data-driven People page, our full publication record, and this news feed — where we’ll share papers, awards, and lab milestones.\nThe site remains open source on GitHub. If something looks off or is hard to use, tell us — accessibility feedback is always welcome.\n\n\n\n Back to top"
+    "text": "Clostridium perfringens causes necrotic enteritis, a disease estimated to cost the global poultry industry billions of dollars every year. Our lab developed a loop-mediated isothermal amplification (LAMP) assay that detects the pathogen rapidly and is practical outside a central laboratory.\nThe work drew media attention this spring:\n\nBillion-Dollar Bacteria Breakthrough — MAFES Discovers\nAMI Members Develop Rapid Test for Bacterium That Costs Poultry Industry Billions Globally — The Microbiologist\n\nThe underlying research on assay optimization and DNA extraction methods is published in the Journal of Applied Poultry Research (2024, 2025).\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/2026-01-30-ipsf-2026-awards.html",
+    "href": "news/2026-01-30-ipsf-2026-awards.html",
+    "title": "Sunita and Manhong bring home awards from IPSF 2026",
+    "section": "",
+    "text": "Two of our Ph.D. students were recognized at the 2026 International Poultry Scientific Forum (IPSF) in Atlanta.\nSunita Shrestha won the Best Oral Presentation Award in the SCAD category for her work on vaccine candidate identification against avian pathogens using reverse vaccinology.\nManhong Wang received a Certificate of Excellence in Pathology and an IPSF Travel Award for his culturomics research on the broiler cecal microbiome.\nCongratulations to both — this is what a strong year looks like.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/2026-07-12-psa-early-achievement-award.html",
+    "href": "news/2026-07-12-psa-early-achievement-award.html",
+    "title": "Dr. Zhang receives the PSA Early Achievement Award for Research",
+    "section": "",
+    "text": "The Poultry Science Association has recognized Dr. Li Zhang with its 2026 Early Achievement Award for Research, one of the association’s professional awards honoring early-career contributions to poultry science. PSA announced the 2026 recipients on July 7, and the awards were presented during the Awards Celebration at the PSA Annual Meeting in Toronto, Ontario, on July 12.\nIn its announcement, PSA highlighted the lab’s research program in agricultural microbiomics — combining microbial genomics, rapid diagnostics, microbiome science, and animal models to improve poultry health and food safety from farm to fork, with an emphasis on avian pathogenic E. coli, Campylobacter, Salmonella, and Clostridium perfringens. The citation also noted more than $3.2 million in research funding as PI and co-PI, over 60 peer-reviewed publications, service as a Section Editor for Poultry Science, and the mentoring of 14 graduate students and 6 postdoctoral researchers.\nAn award like this belongs to everyone who has worked in the lab. Thank you to our students and postdocs, past and present, and to our collaborators at Mississippi State, USDA ARS, and across the poultry industry.\n\n\n\n Back to top"
   },
   {
     "objectID": "news/index.html",
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Sunita receives a travel award\n\n\n\nAwards\n\n\n\nOne or two sentences. This is the preview text people see on the news page and on the homepage.\n\n\n\n\n\nMarch 4, 2027\n\n\n\n\n\n\n\nThe Zhang Lab website has a new look\n\n\n\nAnnouncements\n\n\n\nA full redesign of our lab website: a new visual identity, a faster and more accessible site, and a proper home for our research programs, people, and news.\n\n\n\n\n\nAugust 13, 2026\n\n\n\n\n\n\n\nDr. Zhang receives the PSA Early Achievement Award for Research\n\n\n\nAwards\n\n\n\nThe Poultry Science Association named Dr. Li Zhang the recipient of its 2026 Early Achievement Award for Research, presented at the PSA Annual Meeting in Toronto.\n\n\n\n\n\nJuly 12, 2026\n\n\n\n\n\n\n\nCulturomics study of the broiler cecal microbiome published in Poultry Science\n\n\n\nPublications\n\n\n\nManhong Wang’s paper maps the cultivable microbiota of broiler chicken ceca and enables targeted isolation of beneficial bacteria — a foundation for next-generation probiotics.\n\n\n\n\n\nApril 1, 2026\n\n\n\n\n\n\n\nSunita and Manhong bring home awards from IPSF 2026\n\n\n\nAwards\n\n\n\nPh.D. student Sunita Shrestha won Best Oral Presentation in the SCAD category, and Manhong Wang received a Certificate of Excellence in Pathology plus a travel award at the International Poultry Scientific Forum in Atlanta.\n\n\n\n\n\nJanuary 30, 2026\n\n\n\n\n\n\n\nReverse vaccinology points to pagP as a universal APEC vaccine candidate\n\n\n\nPublications\n\nMedia\n\n\n\nPublished in the Journal of Applied Microbiology, our reverse vaccinology and host-pathogen analysis identifies pagP as a potential universal vaccine candidate against avian pathogenic E. coli — work also featured in MAFES Discovers.\n\n\n\n\n\nOctober 15, 2025\n\n\n\n\n\n\n\nOur rapid C. perfringens test makes headlines\n\n\n\nMedia\n\n\n\nThe lab’s LAMP-based rapid detection assay for Clostridium perfringens — a pathogen that costs the global poultry industry billions — was featured by MAFES Discovers and The Microbiologist.\n\n\n\n\n\nApril 15, 2025\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "The Zhang Lab website has a new look\n\n\n\nAnnouncements\n\n\n\nA full redesign of our lab website: a new visual identity, a faster and more accessible site, and a proper home for our research programs, people, and news.\n\n\n\n\n\nAugust 13, 2026\n\n\n\n\n\n\n\nDr. Zhang receives the PSA Early Achievement Award for Research\n\n\n\nAwards\n\n\n\nThe Poultry Science Association named Dr. Li Zhang the recipient of its 2026 Early Achievement Award for Research, presented at the PSA Annual Meeting in Toronto.\n\n\n\n\n\nJuly 12, 2026\n\n\n\n\n\n\n\nCulturomics study of the broiler cecal microbiome published in Poultry Science\n\n\n\nPublications\n\n\n\nManhong Wang’s paper maps the cultivable microbiota of broiler chicken ceca and enables targeted isolation of beneficial bacteria — a foundation for next-generation probiotics.\n\n\n\n\n\nApril 1, 2026\n\n\n\n\n\n\n\nSunita and Manhong bring home awards from IPSF 2026\n\n\n\nAwards\n\n\n\nPh.D. student Sunita Shrestha won Best Oral Presentation in the SCAD category, and Manhong Wang received a Certificate of Excellence in Pathology plus a travel award at the International Poultry Scientific Forum in Atlanta.\n\n\n\n\n\nJanuary 30, 2026\n\n\n\n\n\n\n\nReverse vaccinology points to pagP as a universal APEC vaccine candidate\n\n\n\nPublications\n\nMedia\n\n\n\nPublished in the Journal of Applied Microbiology, our reverse vaccinology and host-pathogen analysis identifies pagP as a potential universal vaccine candidate against avian pathogenic E. coli — work also featured in MAFES Discovers.\n\n\n\n\n\nOctober 15, 2025\n\n\n\n\n\n\n\nOur rapid C. perfringens test makes headlines\n\n\n\nMedia\n\n\n\nThe lab’s LAMP-based rapid detection assay for Clostridium perfringens — a pathogen that costs the global poultry industry billions — was featured by MAFES Discovers and The Microbiologist.\n\n\n\n\n\nApril 15, 2025\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "protocols/genomic-dna-extraction.html",
