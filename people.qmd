@@ -35,7 +35,7 @@ listing:
 ::: {.pi-bio}
 ### Dr. Li Zhang
 
-[Assistant Professor · Department of Poultry Science]{.person-role}
+[Associate Professor · Department of Poultry Science]{.person-role}
 
 Dr. Zhang's research focuses on agricultural microbiomes, microbial genomics,
 vaccine development, and food safety. His lab develops advanced molecular
