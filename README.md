@@ -18,7 +18,7 @@ folder, and asks GitHub Pages to publish it. The change is live in roughly two
 to four minutes.
 
 **If you are not a developer, stop here and read
-[HOW-TO-UPDATE-THE-WEBSITE.md](HOW-TO-UPDATE-THE-WEBSITE.md)** — a plain-English
+[guide/how-to-update-the-website.md](guide/how-to-update-the-website.md)** — a plain-English
 guide to adding news posts, lab members, publications, and photos through the
 browser.
 
@@ -126,18 +126,52 @@ Accessibility: color pairs are WCAG AA; all motion respects
 
 ## Repo layout
 
+Each page of the site is one `.qmd` file at the top level. Quarto turns
+`people.qmd` into `/people.html`, so these stay at the root — moving them into
+a subfolder would change every page's web address and break existing links.
+
 ```
+index.qmd              the pages of the site, one file each
+people.qmd             (people.qmd -> /people.html, and so on)
+research.qmd
+publications.qmd
+teaching.qmd
+join.qmd
+404.qmd
+
+news/                  news posts (one .qmd per post)
+protocols/             protocol pages (linked from the navbar)
+data/people/           lab-member data (one YAML per role group)
+assets/images/         images (run scripts/optimize-images.ps1 after adding)
+assets/fonts/          self-hosted WOFF2 fonts
+styles/custom.scss     the entire design system
+guide/                 plain-English guide for non-technical maintainers
+scripts/               maintenance scripts
+
 _quarto.yml            site config (nav, profiles, theme)
 _quarto-prod.yml       production profile (GA, robots)
 _quarto-preview.yml    preview profile (noindex)
 _partials/             footer + site JS (injected every page)
 _templates/            EJS templates for generated grids (people)
-data/people/           lab-member data (one YAML per role group)
-news/                  news posts (one .qmd per post)
-protocols/             protocol pages (linked from the navbar)
-assets/images/         images (run scripts/optimize-images.ps1 after adding)
-assets/fonts/          self-hosted WOFF2 fonts
-styles/custom.scss     the entire design system
-scripts/               maintenance scripts
+.github/workflows/     automatic build-and-publish
 docs/                  RENDERED OUTPUT — never edit by hand
 ```
+
+Config files (`_quarto*.yml`, `.nojekyll`) must stay at the repository root;
+Quarto and GitHub Pages look for them there.
+
+## Adding a custom domain later
+
+The site currently publishes at `lz245.github.io`. If a custom domain is ever
+added through **Settings → Pages**, GitHub writes a `CNAME` file into the
+published folder — and `quarto render` will delete it on the next build. To
+make it survive, put a `CNAME` file containing the bare domain at the
+repository root and register it in `_quarto.yml`:
+
+```yaml
+project:
+  resources:
+    - CNAME
+```
+
+Then update `site-url:` in `_quarto.yml` to the new domain.

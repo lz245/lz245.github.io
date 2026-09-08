@@ -1,0 +1,6 @@
+# The docs/ folder is the built website. Quarto regenerates it and the publish
+# workflow commits it automatically -- it is output, not source.
+#
+# Marking it as generated keeps it collapsed in pull request diffs and out of
+# the repository's language statistics, so the actual source stays readable.
+docs/** linguist-generated=true
