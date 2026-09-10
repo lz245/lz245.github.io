@@ -112,6 +112,7 @@ Ph.D. in Agriculture Biological Environmental & Energy Engineering, Jilin Univer
 ### M.S. Alumni
 
 ::: {.alumni-list}
+- **Rita Ugoh** (M.S. 2026) — *Catfish spoilage bacteria culturomics.* [Now: Microbiologist, Aviagen]{.alum-now}
 - **Hailey Fugate** (M.S. 2025) — *vaccine candidate validation against APEC and C. jejuni.* [Now: Microbiologist, Aviagen]{.alum-now}
 - **Abubakar Shitu Isah** (M.S. 2024) — *bioluminescent Salmonella Reading and vertical transmission.* [Now: Ph.D. program, College of Veterinary Medicine, Mississippi State University]{.alum-now}
 - **Priyanka Devkota** (M.S. 2022) — *APEC virulence characterization and antimicrobial resistance.* [Now: Lab Research Analyst, Duke Human Vaccine Institute]{.alum-now}
