@@ -196,9 +196,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-name','listing-role','listing-photo','listing-blurb','listing-email',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-role','listing-photo','listing-blurb','listing-email','listing-award',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-name","listing-role","listing-photo","listing-blurb","listing-email"],
+      searchColumns: ["listing-name","listing-role","listing-photo","listing-blurb","listing-email","listing-award"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -582,6 +582,22 @@ window.Quarto = {
     
     <p class="person-links">
       <a href="mailto:hln80@msstate.edu" aria-label="Email Haley Nabors"><i class="bi bi-envelope" aria-hidden="true"></i></a>
+      
+      
+    </p>
+  </div>
+
+  <div class="person-card">
+    
+    <img class="person-photo" src="assets/images/team/jane-doe.jpg" alt="Jane Doe">
+    
+    <h3 class="anchored">Jane Doe</h3>
+    <p class="person-role">Ph.D. Student, Poultry Science</p>
+    <p class="person-blurb">One or two sentences about what they work on.
+</p>
+    <p class="person-award"><i class="bi bi-award" aria-hidden="true"></i>Best Poster, IPSF 2027</p>
+    <p class="person-links">
+      <a href="mailto:jd123@msstate.edu" aria-label="Email Jane Doe"><i class="bi bi-envelope" aria-hidden="true"></i></a>
       
       
     </p>
