@@ -124,7 +124,6 @@ I regularly provide guest lectures in courses across departments:
 |---------|---------|----------------|---------------------|
 | Sunita Shrestha | Ph.D. | Pathogen genomics | 2027 |
 | Manhong Wang | Ph.D. | Culturomics & gut microbiome | 2026 |
-| Rita Ugoh | M.S. | Catfish spoilage bacteria | 2026 |
 | Haley Nabors | M.S. | *C. perfringens* AMR | 2027 |
 
 ### Graduate Committee Service
@@ -144,6 +143,7 @@ I currently serve or have served on **35+ graduate committees** across multiple 
 
 **M.S. Graduates (Major Advisor)**
 
+- Rita Ugoh (2026) → Industry position
 - Abubakar Isah (2024) → Ph.D. program
 - Priyanka Devkota (2022) → Research position
 - Deepa Chaudhary (2022) → Postdoc position
