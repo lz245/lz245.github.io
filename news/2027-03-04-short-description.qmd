@@ -1,0 +1,22 @@
+---
+title: "The Zhang Lab website has a news has a look"
+date: 2026-08-13
+author: "Zhang Lab"
+description: >
+  A full redesign of our lab website: a new visual identity, a faster and
+  more accessible site, and a proper home for our research programs, people,
+  and news.
+categories: [Announcements]
+---
+
+Welcome to the redesigned Zhang Lab website.
+
+The relaunch brings a new visual identity in MSU maroon and gold, a
+data-driven [People](../people.qmd) page, our full
+[publication record](../publications.qmd), and this news feed — where we'll
+share papers, awards, and lab milestones.
+
+The site remains open source on
+[GitHub](https://github.com/lz245/lz245.github.io). If something looks off or
+is hard to use, [tell us](mailto:l.zhang@msstate.edu) — accessibility feedback
+is always welcome.
