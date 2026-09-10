@@ -1,11 +1,9 @@
-- name: Rita Ugoh
-  role: M.S. Student, Food Science
-  photo: assets/images/team/rita-ugoh.jpg
+- name: Matias Muller
+  role: M.S. Student, Poultry Science
+  photo: 
   blurb: >
-    Characterizing spoilage bacteria in catfish with culturomics for the
-    Mississippi Center for Food Safety — improving quality control and
-    shelf life in catfish processing.
-  email: ru90@msstate.edu
+    
+  email: mdm1104@msstate.edu
 
 - name: Haley Nabors
   role: M.S. Student, Poultry Science
