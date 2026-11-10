@@ -50,9 +50,24 @@ function Optimize-Jpeg([string]$path, [int]$maxWidth, [int]$quality) {
     $codec = [System.Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq 'image/jpeg' }
     $ep = New-Object System.Drawing.Imaging.EncoderParameters(1)
     $ep.Param[0] = New-Object System.Drawing.Imaging.EncoderParameter([System.Drawing.Imaging.Encoder]::Quality, [long]$quality)
-    $bmp.Save($path, $codec, $ep)
+
+    # Encode to memory first. Re-saving a JPEG always loses a little quality,
+    # so only overwrite the file when there is something to gain: either the
+    # image was resized, or the new encoding is meaningfully smaller. Without
+    # this, running the script repeatedly degrades the same photo every time.
+    $out = New-Object System.IO.MemoryStream
+    $bmp.Save($out, $codec, $ep)
     $bmp.Dispose()
-    $kb = [math]::Round((Get-Item $path).Length / 1KB)
+    $newBytes = $out.ToArray()
+    $out.Dispose()
+
+    if (-not $needsResize -and $newBytes.Length -gt ($bytes.Length * 0.9)) {
+        Write-Host "skipped $path (already about as small as it will get)"
+        return
+    }
+
+    [System.IO.File]::WriteAllBytes($path, $newBytes)
+    $kb = [math]::Round($newBytes.Length / 1KB)
     Write-Host "optimized $path -> ${nw}x${nh}, ${kb} KB"
 }
 
@@ -77,10 +92,11 @@ function Resize-Png([string]$src, [string]$dest, [int]$maxHeight) {
 $root = Split-Path $PSScriptRoot -Parent
 $team = Join-Path $root 'assets\images\team'
 
-# Group / wide photos: 1800 px is plenty for a full-bleed hero.
-foreach ($f in @('lab-psa-2025.jpg', 'lab-bbq-2025.jpg')) {
-    $p = Join-Path $team $f
-    if (Test-Path $p) { Optimize-Jpeg $p 1800 80 }
+# Group / wide photos: any file named lab-*.jpg. 1800 px is plenty even for a
+# full-bleed hero. (Match by prefix, not a fixed list, so newly added group
+# photos are never silently skipped.)
+Get-ChildItem $team -File -Filter 'lab-*' | Where-Object { $_.Extension -match '\.(jpe?g|JPG)$' } | ForEach-Object {
+    Optimize-Jpeg $_.FullName 1800 80
 }
 
 # Headshots: displayed at ~300 px in the people grid; 600 px covers retina.

@@ -86,6 +86,10 @@ Ph.D. in Agriculture Biological Environmental & Energy Engineering, Jilin Univer
 ## The lab [in]{.accent-word} action
 
 ::: {.gallery-duo}
+![Lab cookout at Noxubee Refuge, October 2026](assets/images/team/lab-cookout-2026-grilling.jpg){fig-alt="Lab members standing around charcoal grills at a lakeside picnic area under tall pine trees"}
+
+![Celebrating Xin and her family before their move, October 2026](assets/images/team/lab-cookout-2026-group.jpg){fig-alt="Group photo of the Zhang Lab and families in front of the lake at sunset"}
+
 ![The Zhang Lab at the 2025 Poultry Science Association meeting](assets/images/team/lab-psa-2025.jpg)
 
 ![Lab barbecue, 2025 — science runs on good food too](assets/images/team/lab-bbq-2025.jpg)
